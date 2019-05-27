@@ -1,0 +1,769 @@
+2019-03-12 09:52:13,923    --------------------新闻列表线程开始--------------------
+2019-03-12 09:52:13,923    任务线程 0 启动！
+2019-03-12 09:52:13,923    任务线程 1 启动！
+2019-03-12 09:52:13,923    任务线程 2 启动！
+2019-03-12 09:54:34,876    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-12 09:57:50,282    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-12 09:59:59,141    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-12 10:01:03,938    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-12 10:02:09,782    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-12 10:02:20,094    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-12 10:02:23,532    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-12 10:02:27,204    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-12 10:02:30,548    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-12 10:02:34,048    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-12 10:02:37,407    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-14 09:02:07,276    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-14 09:05:23,087    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-14 09:07:32,602    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-14 09:08:38,164    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-14 09:09:43,773    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-14 09:09:54,289    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-14 09:09:57,476    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-14 09:10:00,914    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-14 09:10:04,320    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-14 09:10:07,882    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-14 09:10:11,242    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-15 09:01:51,628    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-15 09:05:07,833    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-15 09:07:16,959    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-15 09:08:24,100    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-15 09:09:31,084    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-15 09:09:41,210    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-15 09:09:44,881    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-15 09:09:48,788    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-15 09:09:52,335    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-15 09:09:55,897    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-15 09:09:59,257    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-16 09:01:44,839    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-16 09:05:02,928    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-16 09:07:17,096    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-16 09:08:23,673    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-16 09:09:32,031    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-16 09:09:42,187    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-16 09:09:45,843    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-16 09:09:49,233    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-16 09:09:52,718    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-16 09:09:56,374    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-16 09:09:59,577    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-17 09:01:50,143    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-17 09:05:12,174    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-17 09:07:23,674    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-17 09:08:30,721    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-17 09:09:38,018    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-17 09:09:48,565    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-17 09:09:52,190    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-17 09:09:55,909    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-17 09:09:59,440    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-17 09:10:02,924    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-17 09:10:06,331    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-18 09:01:48,100    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-18 09:05:06,602    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-18 09:07:15,666    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-18 09:08:21,370    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-18 09:09:30,293    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-18 09:09:40,434    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-18 09:09:43,981    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-18 09:09:47,621    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-18 09:09:51,012    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-18 09:09:54,715    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-18 09:09:58,168    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-19 09:02:04,239    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-19 09:05:14,257    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-19 09:07:24,868    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-19 09:08:30,070    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-19 09:09:36,632    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-19 09:09:46,976    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-19 09:09:50,194    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-19 09:09:53,679    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-19 09:09:57,085    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-19 09:10:00,663    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-19 09:10:03,975    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-20 09:02:17,322    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-20 09:05:27,165    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-20 09:07:35,101    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-20 09:08:40,789    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-20 09:09:49,569    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-20 09:09:59,866    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-20 09:10:03,069    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-20 09:10:06,632    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-20 09:10:10,085    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-20 09:10:13,522    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-20 09:10:16,897    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-21 09:01:02,760    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-21 09:02:46,104    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-21 09:07:45,354    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-21 09:09:16,057    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-21 09:11:51,088    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-21 09:13:12,322    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-21 09:14:17,557    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-21 09:15:06,588    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-21 09:16:12,651    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-21 09:16:45,088    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-21 09:16:48,729    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-21 09:16:52,338    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-21 09:16:55,697    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-21 09:16:59,369    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-21 09:17:03,119    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-21 09:17:18,666    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-21 09:17:27,994    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-21 09:17:31,104    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-21 09:17:34,213    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-21 09:17:37,322    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-21 09:17:40,432    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-21 09:17:43,541    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-22 09:02:19,003    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-22 09:03:26,050    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-22 09:08:18,581    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-22 09:09:49,466    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-22 09:12:25,057    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-22 09:13:49,276    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-22 09:14:54,073    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-22 09:15:43,073    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-22 09:16:46,439    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-22 09:17:18,252    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-22 09:17:21,658    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-22 09:17:25,142    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-22 09:17:28,517    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-22 09:17:32,002    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-22 09:17:35,470    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-22 09:17:51,033    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-22 09:18:00,361    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-22 09:18:03,470    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-22 09:18:06,595    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-22 09:18:09,720    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-22 09:18:12,830    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-22 09:18:15,939    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-23 09:01:27,875    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-23 09:03:15,532    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-23 09:08:03,766    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-23 09:09:41,657    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-23 09:12:14,032    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-23 09:13:41,875    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-23 09:14:19,297    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-23 09:15:34,391    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-23 09:16:37,313    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-23 09:17:10,266    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-23 09:17:13,875    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-23 09:17:17,422    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-23 09:17:20,813    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-23 09:17:24,500    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-23 09:17:28,219    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-23 09:17:43,750    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-23 09:17:53,079    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-23 09:17:56,188    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-23 09:17:59,297    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-23 09:18:02,391    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-23 09:18:05,516    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-23 09:18:08,625    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-24 09:02:21,072    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-24 09:05:40,414    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-24 09:07:50,679    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-24 09:09:00,475    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-24 09:10:06,975    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-24 09:10:17,490    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-24 09:10:20,881    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-24 09:10:24,412    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-24 09:10:27,865    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-24 09:10:31,506    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-24 09:10:34,912    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-25 09:02:26,804    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-25 09:05:44,974    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-25 09:07:53,489    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-25 09:08:59,067    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-25 09:10:04,816    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-25 09:10:15,316    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-25 09:10:18,535    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-25 09:10:22,019    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-25 09:10:25,144    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-25 09:10:28,660    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-25 09:10:32,051    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-26 09:02:17,925    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-26 09:03:23,080    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-26 09:08:10,825    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-26 09:09:44,495    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-26 09:12:18,906    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-26 09:13:40,028    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-26 09:14:45,122    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-26 09:15:34,132    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-26 09:16:37,639    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-26 09:17:09,804    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-26 09:17:13,288    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-26 09:17:16,913    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-26 09:17:20,475    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-26 09:17:23,958    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-26 09:17:27,458    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-26 09:17:43,065    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-26 09:17:52,439    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-26 09:17:55,720    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-26 09:17:58,829    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-26 09:18:01,938    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-26 09:18:05,047    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-26 09:18:08,156    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-27 12:03:28,299    --------------------新闻列表线程开始--------------------
+2019-03-27 12:03:28,331    任务线程 0 启动！
+2019-03-27 12:03:28,331    任务线程 1 启动！
+2019-03-27 12:03:28,331    任务线程 2 启动！
+2019-03-28 10:11:32,049    --------------------新闻列表线程开始--------------------
+2019-03-28 10:11:32,051    任务线程 0 启动！
+2019-03-28 10:11:32,051    任务线程 1 启动！
+2019-03-28 10:11:32,052    任务线程 2 启动！
+2019-03-30 09:10:38,784    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-30 09:14:09,768    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-30 09:16:21,565    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-30 09:17:29,674    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-30 09:18:36,174    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-30 09:18:46,893    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-30 09:18:50,721    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-30 09:18:54,440    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-30 09:18:58,081    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-30 09:19:01,924    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-30 09:19:05,268    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-03-31 09:01:53,062    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-03-31 09:05:11,686    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-03-31 09:07:21,388    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-03-31 09:08:29,137    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-03-31 09:09:36,917    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-03-31 09:09:47,183    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-03-31 09:09:50,370    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-03-31 09:09:54,980    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-03-31 09:09:58,605    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-03-31 09:10:02,276    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-03-31 09:10:05,620    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-01 09:01:47,960    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-01 09:05:08,092    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-01 09:07:19,123    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-01 09:08:28,897    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-01 09:09:34,983    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-01 09:09:45,640    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-01 09:09:48,859    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-01 09:09:52,422    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-01 09:09:57,673    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-01 09:10:01,923    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-01 09:10:05,252    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-02 10:08:37,946    --------------------新闻列表线程开始--------------------
+2019-04-02 10:08:37,962    任务线程 0 启动！
+2019-04-02 10:08:37,962    任务线程 1 启动！
+2019-04-02 10:08:37,962    任务线程 2 启动！
+2019-04-03 09:03:09,907    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-03 09:06:25,735    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-03 09:08:41,110    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-03 09:09:47,642    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-03 09:10:57,078    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-03 09:11:07,281    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-03 09:11:10,750    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-03 09:11:14,344    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-03 09:11:17,797    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-03 09:11:21,344    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-03 09:11:24,734    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-04 09:11:19,316    https://pcauto.pcvideo.com.cn/video-58265.html 没有解析出数据！
+2019-04-04 09:26:35,398    https://www.geeknev.com/industry/261/2619927.html 没有解析出数据！
+2019-04-04 09:26:48,054    https://hj.pcauto.com.cn/article/102768.html 没有解析出数据！
+2019-04-04 09:35:40,000    https://www.pcauto.com.cn/zt/ccpc/?day= 没有解析出数据！
+2019-04-04 09:35:53,297    https://www.geeknev.com/racing/262/2623727.html 没有解析出数据！
+2019-04-04 09:44:22,462    https://pcauto.pcvideo.com.cn/video-52815.html 没有解析出数据！
+2019-04-04 09:49:30,177    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-04 09:50:25,379    https://www.geeknev.com/carcare/262/2623428.html 没有解析出数据！
+2019-04-04 09:52:04,565    https://autotech.pcauto.com.cn/832/8327242.html 没有解析出数据！
+2019-04-04 10:30:46,155    https://pcauto.pcvideo.com.cn/video-52918.html 没有解析出数据！
+2019-04-04 10:31:34,817    https://pcauto.pcvideo.com.cn/video-52642.html 没有解析出数据！
+2019-04-04 11:05:57,013    https://pcauto.pcvideo.com.cn/video-52585.html 没有解析出数据！
+2019-04-04 11:06:05,458    https://pcauto.pcvideo.com.cn/video-52435.html 没有解析出数据！
+2019-04-04 11:06:10,665    https://pcauto.pcvideo.com.cn/video-52288.html 没有解析出数据！
+2019-04-04 11:06:29,004    https://pcauto.pcvideo.com.cn/video-52081.html 没有解析出数据！
+2019-04-04 11:06:34,069    https://pcauto.pcvideo.com.cn/video-52004.html 没有解析出数据！
+2019-04-04 11:06:34,357    https://pcauto.pcvideo.com.cn/video-51740.html 没有解析出数据！
+2019-04-04 11:06:46,508    https://pcauto.pcvideo.com.cn/video-51675.html 没有解析出数据！
+2019-04-04 11:06:57,172    https://pcauto.pcvideo.com.cn/video-51579.html 没有解析出数据！
+2019-04-04 11:07:04,969    https://pcauto.pcvideo.com.cn/video-51494.html 没有解析出数据！
+2019-04-04 11:07:13,350    https://pcauto.pcvideo.com.cn/video-51383.html 没有解析出数据！
+2019-04-04 11:07:18,246    https://pcauto.pcvideo.com.cn/video-51278.html 没有解析出数据！
+2019-04-04 11:07:25,516    https://pcauto.pcvideo.com.cn/video-51155.html 没有解析出数据！
+2019-04-04 11:07:32,832    https://pcauto.pcvideo.com.cn/video-50879.html 没有解析出数据！
+2019-04-04 11:07:38,267    https://pcauto.pcvideo.com.cn/video-50741.html 没有解析出数据！
+2019-04-04 11:31:29,141    https://pcauto.pcvideo.com.cn/video-50523.html 没有解析出数据！
+2019-04-04 11:31:56,618    https://pcauto.pcvideo.com.cn/video-49733.html 没有解析出数据！
+2019-04-04 11:32:02,194    https://pcauto.pcvideo.com.cn/video-49610.html 没有解析出数据！
+2019-04-04 11:32:11,811    https://pcauto.pcvideo.com.cn/video-49381.html 没有解析出数据！
+2019-04-04 11:32:38,858    https://pcauto.pcvideo.com.cn/video-49051.html 没有解析出数据！
+2019-04-04 11:40:35,355    https://pcauto.pcvideo.com.cn/video-54375.html 没有解析出数据！
+2019-04-04 11:52:35,896    https://www.geeknev.com/review/262/2626247.html 没有解析出数据！
+2019-04-04 11:52:52,967    https://www.geeknev.com/review/262/2625348.html 没有解析出数据！
+2019-04-04 11:57:04,285    https://v.pcauto.com.cn/video-48533.html 没有解析出数据！
+2019-04-04 11:57:39,722    https://v.pcauto.com.cn/video-47502.html 没有解析出数据！
+2019-04-04 11:58:20,142    https://v.pcauto.com.cn/video-46864.html 没有解析出数据！
+2019-04-04 11:58:59,908    https://www.pcauto.com.cn/drivers/242/2429758.html 下载出错！
+2019-04-04 11:58:59,908    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出任何数据！
+2019-04-04 11:58:59,909    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出数据！
+2019-04-04 11:59:40,473    https://drivers.pcauto.com.cn/236/2362803.html 没有解析出数据！
+2019-04-04 12:13:26,232    https://pcauto.pcvideo.com.cn/video-52999.html 没有解析出数据！
+2019-04-04 12:37:56,500    https://v.pcauto.com.cn/video-46370.html 没有解析出数据！
+2019-04-04 12:38:16,693    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-04 12:38:31,049    https://v.pcauto.com.cn/video-46164.html 没有解析出数据！
+2019-04-04 12:38:54,555    https://v.pcauto.com.cn/video-45681.html 没有解析出数据！
+2019-04-04 12:53:05,206    https://www.pcauto.com.cn/news/815/8158235.html 下载出错！
+2019-04-04 12:53:05,273    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出任何数据！
+2019-04-04 12:53:05,295    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出数据！
+2019-04-04 12:53:18,905    https://www.pcauto.com.cn/news/814/8149341.html 下载出错！
+2019-04-04 12:53:18,923    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出任何数据！
+2019-04-04 12:53:18,934    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出数据！
+2019-04-04 12:54:12,190    https://pcauto.pcvideo.com.cn/video-52727.html 没有解析出数据！
+2019-04-04 12:54:24,367    https://pcauto.pcvideo.com.cn/video-52324.html 没有解析出数据！
+2019-04-04 12:54:59,207    https://pcauto.pcvideo.com.cn/video-51915.html 没有解析出数据！
+2019-04-04 12:55:06,087    https://pcauto.pcvideo.com.cn/video-51815.html 没有解析出数据！
+2019-04-04 13:22:41,907    https://v.pcauto.com.cn/video-44667.html 没有解析出数据！
+2019-04-04 13:23:05,859    https://v.pcauto.com.cn/video-44524.html 没有解析出数据！
+2019-04-04 13:37:26,331    https://pcauto.pcvideo.com.cn/video-50113.html 没有解析出数据！
+2019-04-04 13:37:41,426    https://pcauto.pcvideo.com.cn/video-49940.html 没有解析出数据！
+2019-04-04 14:03:36,177    https://pcauto.pcvideo.com.cn/video-49446.html 没有解析出数据！
+2019-04-04 14:04:10,863    https://pcauto.pcvideo.com.cn/video-48934.html 没有解析出数据！
+2019-04-04 14:04:17,705    https://v.pcauto.com.cn/video-48748.html 没有解析出数据！
+2019-04-04 14:05:04,128    https://v.pcauto.com.cn/video-47905.html 没有解析出数据！
+2019-04-04 14:46:50,017    https://v.pcauto.com.cn/video-47237.html 没有解析出数据！
+2019-04-04 14:47:29,846    https://v.pcauto.com.cn/video-46668.html 没有解析出数据！
+2019-04-04 14:47:36,232    https://v.pcauto.com.cn/video-46464.html 没有解析出数据！
+2019-04-04 15:40:41,242    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-04 15:53:37,414    https://v.pcauto.com.cn/video-46180.html 没有解析出数据！
+2019-04-04 15:56:31,222    https://v.pcauto.com.cn/video-45856.html 没有解析出数据！
+2019-04-04 17:00:35,148    https://www.pcauto.com.cn/news/763/7630306.html 下载出错！
+2019-04-04 17:00:35,148    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出任何数据！
+2019-04-04 17:00:35,148    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出数据！
+2019-04-04 18:07:58,479    https://www1.pcauto.com.cn/drivers/20130503/index.html 没有解析出数据！
+2019-04-04 18:23:03,039    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-04 19:45:42,280    https://www.geeknev.com/whybuy/261/2619287.html 没有解析出数据！
+2019-04-04 21:21:47,661    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-04 21:44:18,053    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-04 21:51:21,365    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-04 22:03:58,822    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-04 22:05:49,850    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-04 22:09:41,119    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-04 22:21:24,880    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-05 09:05:04,617    https://pcauto.pcvideo.com.cn/video-58265.html 没有解析出数据！
+2019-04-05 09:12:55,979    https://www.geeknev.com/industry/261/2619927.html 没有解析出数据！
+2019-04-05 09:13:11,292    https://hj.pcauto.com.cn/article/102768.html 没有解析出数据！
+2019-04-05 09:23:32,405    https://www.pcauto.com.cn/zt/ccpc/?day= 没有解析出数据！
+2019-04-05 09:23:43,702    https://www.geeknev.com/racing/262/2623727.html 没有解析出数据！
+2019-04-05 09:32:18,987    https://pcauto.pcvideo.com.cn/video-52815.html 没有解析出数据！
+2019-04-05 09:40:15,287    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-05 09:41:11,662    https://www.geeknev.com/carcare/262/2623428.html 没有解析出数据！
+2019-04-05 09:43:22,225    https://autotech.pcauto.com.cn/832/8327242.html 没有解析出数据！
+2019-04-05 09:48:16,243    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-05 10:22:32,112    https://pcauto.pcvideo.com.cn/video-52918.html 没有解析出数据！
+2019-04-05 10:22:45,719    https://pcauto.pcvideo.com.cn/video-52642.html 没有解析出数据！
+2019-04-05 10:39:47,840    https://pcauto.pcvideo.com.cn/video-52585.html 没有解析出数据！
+2019-04-05 10:39:52,044    https://pcauto.pcvideo.com.cn/video-52435.html 没有解析出数据！
+2019-04-05 10:40:03,565    https://pcauto.pcvideo.com.cn/video-52288.html 没有解析出数据！
+2019-04-05 10:40:07,773    https://pcauto.pcvideo.com.cn/video-52081.html 没有解析出数据！
+2019-04-05 10:40:12,516    https://pcauto.pcvideo.com.cn/video-52004.html 没有解析出数据！
+2019-04-05 10:40:16,282    https://pcauto.pcvideo.com.cn/video-51740.html 没有解析出数据！
+2019-04-05 10:40:26,832    https://pcauto.pcvideo.com.cn/video-51675.html 没有解析出数据！
+2019-04-05 10:40:33,587    https://pcauto.pcvideo.com.cn/video-51579.html 没有解析出数据！
+2019-04-05 10:40:39,435    https://pcauto.pcvideo.com.cn/video-51494.html 没有解析出数据！
+2019-04-05 10:40:45,359    https://pcauto.pcvideo.com.cn/video-51383.html 没有解析出数据！
+2019-04-05 10:40:50,199    https://pcauto.pcvideo.com.cn/video-51278.html 没有解析出数据！
+2019-04-05 10:41:03,140    https://pcauto.pcvideo.com.cn/video-51155.html 没有解析出数据！
+2019-04-05 10:41:09,788    https://pcauto.pcvideo.com.cn/video-50879.html 没有解析出数据！
+2019-04-05 10:41:16,466    https://pcauto.pcvideo.com.cn/video-50741.html 没有解析出数据！
+2019-04-05 11:18:43,156    https://pcauto.pcvideo.com.cn/video-50523.html 没有解析出数据！
+2019-04-05 11:19:19,189    https://pcauto.pcvideo.com.cn/video-49733.html 没有解析出数据！
+2019-04-05 11:19:29,787    https://pcauto.pcvideo.com.cn/video-49610.html解析出错，错误是：
+2019-04-05 11:19:29,787    https://pcauto.pcvideo.com.cn/video-49610.html 没有解析出数据！
+2019-04-05 11:19:39,876    https://pcauto.pcvideo.com.cn/video-49381.html 没有解析出数据！
+2019-04-05 11:20:16,428    https://pcauto.pcvideo.com.cn/video-49051.html 没有解析出数据！
+2019-04-05 11:27:04,678    https://pcauto.pcvideo.com.cn/video-54375.html 没有解析出数据！
+2019-04-05 11:36:25,811    https://www.geeknev.com/review/262/2626247.html 没有解析出数据！
+2019-04-05 11:36:56,475    https://www.geeknev.com/review/262/2625348.html 没有解析出数据！
+2019-04-05 11:41:25,243    https://v.pcauto.com.cn/video-48533.html 没有解析出数据！
+2019-04-05 11:41:56,130    https://v.pcauto.com.cn/video-47502.html 没有解析出数据！
+2019-04-05 11:42:37,448    https://v.pcauto.com.cn/video-46864.html 没有解析出数据！
+2019-04-05 11:43:15,702    https://www.pcauto.com.cn/drivers/242/2429758.html 下载出错！
+2019-04-05 11:43:15,747    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出任何数据！
+2019-04-05 11:43:15,779    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出数据！
+2019-04-05 11:43:59,267    https://drivers.pcauto.com.cn/236/2362803.html 没有解析出数据！
+2019-04-05 11:53:53,683    https://pcauto.pcvideo.com.cn/video-52999.html 没有解析出数据！
+2019-04-05 12:03:18,232    https://v.pcauto.com.cn/video-46370.html 没有解析出数据！
+2019-04-05 12:03:37,779    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-05 12:03:56,265    https://v.pcauto.com.cn/video-46164.html 没有解析出数据！
+2019-04-05 12:04:14,767    https://v.pcauto.com.cn/video-45681.html 没有解析出数据！
+2019-04-05 12:09:07,989    https://www.pcauto.com.cn/news/815/8158235.html 下载出错！
+2019-04-05 12:09:07,989    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出任何数据！
+2019-04-05 12:09:07,989    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出数据！
+2019-04-05 12:09:18,435    https://www.pcauto.com.cn/news/814/8149341.html 下载出错！
+2019-04-05 12:09:18,435    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出任何数据！
+2019-04-05 12:09:18,435    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出数据！
+2019-04-05 12:09:59,020    https://pcauto.pcvideo.com.cn/video-52727.html 没有解析出数据！
+2019-04-05 12:10:16,529    https://pcauto.pcvideo.com.cn/video-52324.html 没有解析出数据！
+2019-04-05 12:10:54,011    https://pcauto.pcvideo.com.cn/video-51915.html 没有解析出数据！
+2019-04-05 12:11:00,450    https://pcauto.pcvideo.com.cn/video-51815.html 没有解析出数据！
+2019-04-05 12:15:59,293    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-05 12:21:17,640    https://v.pcauto.com.cn/video-44667.html 没有解析出数据！
+2019-04-05 12:21:28,133    https://v.pcauto.com.cn/video-44524.html 没有解析出数据！
+2019-04-05 12:34:31,672    https://pcauto.pcvideo.com.cn/video-50113.html 没有解析出数据！
+2019-04-05 12:34:37,506    https://pcauto.pcvideo.com.cn/video-49940.html 没有解析出数据！
+2019-04-05 12:42:22,533    https://www.pcauto.com.cn/chexun/wenhua/index_8.html 下载出错！
+2019-04-05 12:52:15,115    https://pcauto.pcvideo.com.cn/video-49446.html 没有解析出数据！
+2019-04-05 12:55:28,786    https://pcauto.pcvideo.com.cn/video-48934.html 没有解析出数据！
+2019-04-05 12:56:24,050    https://v.pcauto.com.cn/video-48748.html 没有解析出数据！
+2019-04-05 12:57:03,140    https://v.pcauto.com.cn/video-47905.html 没有解析出数据！
+2019-04-05 13:18:28,791    https://v.pcauto.com.cn/video-47237.html 没有解析出数据！
+2019-04-05 13:19:02,352    https://v.pcauto.com.cn/video-46668.html 没有解析出数据！
+2019-04-05 13:19:10,942    https://v.pcauto.com.cn/video-46464.html 没有解析出数据！
+2019-04-05 13:28:49,571    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-05 13:39:44,772    https://v.pcauto.com.cn/video-46180.html 没有解析出数据！
+2019-04-05 13:40:22,246    https://v.pcauto.com.cn/video-45856.html 没有解析出数据！
+2019-04-05 14:00:38,570    https://www.pcauto.com.cn/news/763/7630306.html 下载出错！
+2019-04-05 14:00:38,617    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出任何数据！
+2019-04-05 14:00:38,679    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出数据！
+2019-04-05 14:29:13,521    https://www1.pcauto.com.cn/drivers/20130503/index.html 没有解析出数据！
+2019-04-05 14:41:53,079    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-05 15:00:36,281    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-05 15:40:38,020    https://www.geeknev.com/whybuy/261/2619287.html 没有解析出数据！
+2019-04-05 15:50:22,034    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-05 15:50:34,864    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-05 15:50:39,084    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-05 15:50:55,462    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-05 15:51:14,185    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-05 15:51:28,641    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-05 15:51:32,908    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-05 15:51:36,783    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-05 15:51:39,893    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-05 15:51:43,675    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-05 15:51:46,785    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-05 15:51:50,614    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-05 15:51:54,428    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-05 15:51:57,553    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-08 00:28:55,870    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-08 00:32:19,494    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-08 00:33:17,119    https://www.pcauto.com.cn/chexun/news/index_8.html 下载出错！
+2019-04-08 00:34:42,040    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-08 00:35:39,727    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-08 00:36:17,461    https://www.pcauto.com.cn/chexun/drivers/index_14.html 下载出错！
+2019-04-08 00:36:59,180    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-08 00:37:02,899    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-08 00:37:06,524    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-08 00:37:10,039    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-08 00:37:13,242    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-08 09:01:52,127    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-08 09:05:10,768    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-08 09:07:22,112    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-08 09:08:27,924    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-08 09:09:39,080    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-08 09:09:49,299    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-08 09:09:52,955    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-08 09:09:56,455    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-08 09:09:59,940    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-08 09:10:03,393    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-08 09:10:06,830    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-09 09:01:58,298    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-09 09:05:17,737    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-09 09:07:26,644    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-09 09:08:33,457    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-09 09:09:51,348    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-09 09:10:01,801    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-09 09:10:05,066    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-09 09:10:08,582    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-09 09:10:12,098    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-09 09:10:15,598    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-09 09:10:19,067    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-10 09:01:35,353    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-10 09:04:53,979    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-10 09:07:09,058    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-10 09:07:37,730    https://www.pcauto.com.cn/chexun/index_12.html 下载出错！
+2019-04-10 09:08:29,449    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-10 09:09:24,247    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-10 09:09:34,575    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-10 09:09:38,106    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-10 09:09:41,575    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-10 09:09:45,169    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-10 09:09:48,528    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-11 09:01:30,120    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-11 09:03:21,651    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-11 09:08:10,899    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-11 09:09:46,492    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-11 09:12:21,147    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-11 09:13:46,225    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-11 09:14:23,334    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-11 09:15:38,130    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-11 09:16:41,411    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-11 09:17:13,145    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-11 09:17:16,677    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-11 09:17:20,333    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-11 09:17:23,755    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-11 09:17:27,224    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-11 09:17:30,724    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-11 09:17:46,348    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-11 09:17:55,692    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-11 09:17:58,817    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-11 09:18:01,942    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-11 09:18:05,051    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-11 09:18:08,161    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-11 09:18:11,301    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-12 09:01:32,470    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-12 09:03:21,048    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-12 09:08:09,580    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-12 09:09:47,830    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-12 09:12:15,517    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-12 09:13:43,658    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-12 09:14:20,752    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-12 09:15:38,439    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-12 09:16:39,002    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-12 09:16:49,377    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-12 09:17:14,439    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-12 09:17:18,111    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-12 09:17:21,580    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-12 09:17:25,002    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-12 09:17:28,486    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-12 09:17:44,033    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-12 09:17:53,408    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-12 09:17:56,517    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-12 09:17:59,627    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-12 09:18:02,798    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-12 09:18:05,908    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-12 09:18:09,017    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-13 09:02:22,103    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-13 09:03:24,791    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-13 09:08:23,228    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-13 09:09:51,666    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-13 09:12:38,353    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-13 09:13:57,963    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-13 09:15:07,369    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-13 09:15:53,369    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-13 09:17:00,478    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-13 09:17:36,010    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-13 09:17:39,635    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-13 09:17:43,369    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-13 09:17:46,885    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-13 09:17:50,619    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-13 09:18:06,166    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-13 09:18:16,010    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-13 09:18:19,135    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-13 09:18:22,260    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-13 09:18:25,369    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-13 09:18:28,478    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-13 09:18:31,619    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-13 09:18:34,728    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-14 09:02:12,359    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-14 09:05:29,747    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-14 09:07:40,526    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-14 09:08:50,338    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-14 09:09:56,728    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-14 09:10:06,962    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-14 09:10:10,634    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-14 09:10:14,399    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-14 09:10:17,790    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-14 09:10:21,399    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-14 09:10:24,774    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-15 09:03:24,704    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-15 09:06:40,344    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-15 09:08:50,593    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-15 09:10:00,670    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-15 09:11:07,404    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-15 09:11:18,264    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-15 09:11:22,076    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-15 09:11:25,592    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-15 09:11:29,139    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-15 09:11:32,623    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-15 09:11:36,201    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-16 09:09:51,970    https://pcauto.pcvideo.com.cn/video-58265.html 没有解析出数据！
+2019-04-16 09:21:19,551    https://www.geeknev.com/industry/261/2619927.html 没有解析出数据！
+2019-04-16 09:21:31,222    https://hj.pcauto.com.cn/article/102768.html 没有解析出数据！
+2019-04-16 09:31:02,018    https://www.pcauto.com.cn/zt/ccpc/?day= 没有解析出数据！
+2019-04-16 09:31:12,550    https://www.geeknev.com/racing/262/2623727.html 没有解析出数据！
+2019-04-16 09:56:10,225    https://pcauto.pcvideo.com.cn/video-52815.html 没有解析出数据！
+2019-04-16 10:01:04,472    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-16 10:02:21,433    https://www.geeknev.com/carcare/262/2623428.html 没有解析出数据！
+2019-04-16 10:04:04,510    https://autotech.pcauto.com.cn/832/8327242.html 没有解析出数据！
+2019-04-16 11:11:08,995    https://pcauto.pcvideo.com.cn/video-52918.html 没有解析出数据！
+2019-04-16 11:13:58,438    https://pcauto.pcvideo.com.cn/video-52642.html 没有解析出数据！
+2019-04-16 12:09:23,785    https://pcauto.pcvideo.com.cn/video-52585.html 没有解析出数据！
+2019-04-16 12:09:28,137    https://pcauto.pcvideo.com.cn/video-52435.html 没有解析出数据！
+2019-04-16 12:09:36,421    https://pcauto.pcvideo.com.cn/video-52288.html 没有解析出数据！
+2019-04-16 12:09:45,337    https://pcauto.pcvideo.com.cn/video-52081.html 没有解析出数据！
+2019-04-16 12:09:57,812    https://pcauto.pcvideo.com.cn/video-52004.html 没有解析出数据！
+2019-04-16 12:10:00,392    https://pcauto.pcvideo.com.cn/video-51740.html 没有解析出数据！
+2019-04-16 12:10:45,999    https://pcauto.pcvideo.com.cn/video-51675.html 没有解析出数据！
+2019-04-16 12:10:54,384    https://pcauto.pcvideo.com.cn/video-51579.html 没有解析出数据！
+2019-04-16 12:11:02,698    https://pcauto.pcvideo.com.cn/video-51494.html 没有解析出数据！
+2019-04-16 12:11:07,447    https://pcauto.pcvideo.com.cn/video-51383.html 没有解析出数据！
+2019-04-16 12:11:18,630    https://pcauto.pcvideo.com.cn/video-51278.html 没有解析出数据！
+2019-04-16 12:11:25,745    https://pcauto.pcvideo.com.cn/video-51155.html 没有解析出数据！
+2019-04-16 12:11:31,017    https://pcauto.pcvideo.com.cn/video-50879.html 没有解析出数据！
+2019-04-16 12:11:36,045    https://pcauto.pcvideo.com.cn/video-50741.html 没有解析出数据！
+2019-04-16 12:39:49,816    https://pcauto.pcvideo.com.cn/video-50523.html 没有解析出数据！
+2019-04-16 12:40:49,915    https://pcauto.pcvideo.com.cn/video-49733.html 没有解析出数据！
+2019-04-16 12:41:03,081    https://pcauto.pcvideo.com.cn/video-49610.html 没有解析出数据！
+2019-04-16 12:41:13,420    https://pcauto.pcvideo.com.cn/video-49381.html 没有解析出数据！
+2019-04-16 12:41:50,540    https://pcauto.pcvideo.com.cn/video-49051.html 没有解析出数据！
+2019-04-16 12:52:30,117    https://pcauto.pcvideo.com.cn/video-54375.html 没有解析出数据！
+2019-04-16 13:02:19,274    https://v.pcauto.com.cn/video-48533.html 没有解析出数据！
+2019-04-16 13:03:40,750    https://v.pcauto.com.cn/video-47502.html 没有解析出数据！
+2019-04-16 13:04:18,583    https://v.pcauto.com.cn/video-46864.html 没有解析出数据！
+2019-04-16 13:05:38,470    https://www.pcauto.com.cn/drivers/242/2429758.html 下载出错！
+2019-04-16 13:05:38,470    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出任何数据！
+2019-04-16 13:05:38,471    https://www.pcauto.com.cn/drivers/242/2429758.html 没有解析出数据！
+2019-04-16 13:06:30,155    https://drivers.pcauto.com.cn/236/2362803.html 没有解析出数据！
+2019-04-16 13:16:05,786    https://pcauto.pcvideo.com.cn/video-52999.html 没有解析出数据！
+2019-04-16 13:20:43,444    https://www.geeknev.com/review/262/2626247.html 没有解析出数据！
+2019-04-16 13:21:03,376    https://www.geeknev.com/review/262/2625348.html 没有解析出数据！
+2019-04-16 13:25:28,477    https://v.pcauto.com.cn/video-46370.html 没有解析出数据！
+2019-04-16 13:26:06,479    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-16 13:26:25,606    https://v.pcauto.com.cn/video-46164.html 没有解析出数据！
+2019-04-16 13:26:42,555    https://v.pcauto.com.cn/video-45681.html 没有解析出数据！
+2019-04-16 13:34:45,594    https://www.pcauto.com.cn/news/815/8158235.html 下载出错！
+2019-04-16 13:34:45,641    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出任何数据！
+2019-04-16 13:34:45,665    https://www.pcauto.com.cn/news/815/8158235.html 没有解析出数据！
+2019-04-16 13:34:58,098    https://www.pcauto.com.cn/news/814/8149341.html 下载出错！
+2019-04-16 13:34:58,098    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出任何数据！
+2019-04-16 13:34:58,099    https://www.pcauto.com.cn/news/814/8149341.html 没有解析出数据！
+2019-04-16 13:35:45,264    https://pcauto.pcvideo.com.cn/video-52727.html 没有解析出数据！
+2019-04-16 13:36:04,513    https://pcauto.pcvideo.com.cn/video-52324.html 没有解析出数据！
+2019-04-16 13:36:34,963    https://pcauto.pcvideo.com.cn/video-51915.html 没有解析出数据！
+2019-04-16 13:36:40,350    https://pcauto.pcvideo.com.cn/video-51815.html 没有解析出数据！
+2019-04-16 13:51:44,032    https://v.pcauto.com.cn/video-44667.html 没有解析出数据！
+2019-04-16 13:51:56,514    https://v.pcauto.com.cn/video-44524.html 没有解析出数据！
+2019-04-16 13:57:49,248    https://pcauto.pcvideo.com.cn/video-50113.html 没有解析出数据！
+2019-04-16 13:58:01,407    https://pcauto.pcvideo.com.cn/video-49940.html 没有解析出数据！
+2019-04-16 14:29:12,790    https://pcauto.pcvideo.com.cn/video-49446.html 没有解析出数据！
+2019-04-16 14:29:45,347    https://pcauto.pcvideo.com.cn/video-48934.html 没有解析出数据！
+2019-04-16 14:29:51,877    https://v.pcauto.com.cn/video-48748.html 没有解析出数据！
+2019-04-16 14:30:33,345    https://v.pcauto.com.cn/video-47905.html 没有解析出数据！
+2019-04-16 14:53:35,760    https://v.pcauto.com.cn/video-47237.html 没有解析出数据！
+2019-04-16 14:56:13,176    https://v.pcauto.com.cn/video-46668.html 没有解析出数据！
+2019-04-16 14:57:15,548    https://v.pcauto.com.cn/video-46464.html 没有解析出数据！
+2019-04-16 15:13:11,734    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-16 15:34:03,252    https://v.pcauto.com.cn/video-46180.html 没有解析出数据！
+2019-04-16 15:36:10,354    https://v.pcauto.com.cn/video-45856.html 没有解析出数据！
+2019-04-16 16:00:47,846    https://www.pcauto.com.cn/news/763/7630306.html 下载出错！
+2019-04-16 16:00:47,846    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出任何数据！
+2019-04-16 16:00:47,846    https://www.pcauto.com.cn/news/763/7630306.html 没有解析出数据！
+2019-04-16 16:23:22,715    https://www1.pcauto.com.cn/drivers/20130503/index.html 没有解析出数据！
+2019-04-16 16:29:32,446    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-16 17:05:38,486    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-16 17:06:56,517    https://www.geeknev.com/whybuy/261/2619287.html 没有解析出数据！
+2019-04-16 17:13:12,505    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-16 17:13:16,588    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-16 17:14:44,946    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-16 17:18:17,922    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-16 17:22:48,730    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-16 17:24:29,113    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-17 09:03:55,762    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-17 09:10:34,213    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-17 09:12:47,056    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-17 09:13:53,899    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-17 09:14:59,789    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-17 09:15:10,164    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-17 09:15:13,399    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-17 09:15:16,946    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-17 09:15:20,320    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-17 09:15:23,789    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-17 09:15:27,195    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-18 09:03:05,467    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-18 09:06:26,108    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-18 09:08:45,905    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-18 09:09:52,217    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-18 09:10:58,561    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-18 09:11:08,530    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-18 09:11:12,061    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-18 09:11:15,577    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-18 09:11:19,217    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-18 09:11:22,717    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-18 09:11:26,014    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-19 09:01:42,882    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-19 09:04:59,710    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-19 09:07:09,507    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-19 09:08:18,991    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-19 09:09:25,554    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-19 09:09:36,163    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-19 09:09:39,429    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-19 09:09:42,944    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-19 09:09:46,522    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-19 09:09:49,991    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-19 09:09:53,444    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-20 09:02:17,258    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-20 09:05:36,866    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-20 09:07:48,162    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-20 09:08:55,646    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-20 09:10:02,177    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-20 09:10:12,818    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-20 09:10:16,474    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-20 09:10:20,114    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-20 09:10:23,552    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-20 09:10:27,364    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-20 09:10:30,724    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-21 09:01:47,615    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-21 09:05:26,569    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-21 09:07:37,007    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-21 09:08:44,242    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-21 09:09:51,508    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-21 09:10:01,852    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-21 09:10:05,555    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-21 09:10:09,211    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-21 09:10:12,727    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-21 09:10:16,446    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-21 09:10:19,946    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-22 09:01:31,435    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-22 09:04:57,435    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-22 09:07:06,950    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-22 09:08:14,154    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-22 09:09:20,185    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-22 09:09:30,794    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-22 09:09:34,013    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-22 09:09:37,513    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-22 09:09:40,982    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-22 09:09:44,482    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-22 09:09:47,825    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-23 09:01:08,561    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-23 09:03:13,566    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-23 09:07:44,905    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-23 09:09:40,564    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-23 09:11:55,697    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-23 09:13:37,913    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-23 09:13:57,572    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-23 09:15:29,205    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-23 09:15:53,427    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-23 09:16:25,864    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-23 09:16:29,327    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-23 09:16:32,802    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-23 09:16:36,586    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-23 09:17:02,286    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-23 09:17:05,759    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-23 09:17:21,473    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-23 09:17:30,861    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-23 09:17:33,981    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-23 09:17:37,111    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-23 09:17:40,255    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-23 09:17:43,364    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-23 09:17:46,493    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-24 09:02:14,230    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-24 09:05:33,108    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-24 09:07:42,421    https://www.pcauto.com.cn/chexun/wenhua/index_11.html后无跟踪链接！
+2019-04-24 09:08:48,635    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-24 09:09:54,560    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-24 09:10:05,306    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-24 09:10:08,794    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-24 09:10:12,304    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-24 09:10:15,761    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-24 09:10:19,367    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-24 09:10:22,736    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-25 09:02:01,798    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-25 09:05:25,024    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-25 09:08:06,579    https://www.pcauto.com.cn/chexun/wenhua/index_12.html后无跟踪链接！
+2019-04-25 09:08:45,105    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-25 09:09:51,007    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-25 09:10:01,639    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-25 09:10:05,134    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-25 09:10:08,649    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-25 09:10:12,121    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-25 09:10:15,613    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-25 09:10:19,137    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！
+2019-04-26 09:02:00,144    https://www.pcauto.com.cn/chexun/tuning/index_1.html后无跟踪链接！
+2019-04-26 09:05:15,944    https://www.pcauto.com.cn/chexun/yongpin/index_7.html后无跟踪链接！
+2019-04-26 09:07:56,343    https://www.pcauto.com.cn/chexun/wenhua/index_12.html后无跟踪链接！
+2019-04-26 09:08:35,264    https://www.pcauto.com.cn/chexun/motosport/index_13.html后无跟踪链接！
+2019-04-26 09:09:40,863    https://www.pcauto.com.cn/chexun/drivers/index_16.html后无跟踪链接！
+2019-04-26 09:09:51,167    https://www.pcauto.com.cn/chexun/index_17.html后无跟踪链接！
+2019-04-26 09:09:54,406    https://www.pcauto.com.cn/chexun/nation/index_17.html后无跟踪链接！
+2019-04-26 09:09:58,112    https://www.pcauto.com.cn/chexun/pingce/index_17.html后无跟踪链接！
+2019-04-26 09:10:01,498    https://www.pcauto.com.cn/chexun/teach/index_17.html后无跟踪链接！
+2019-04-26 09:10:05,219    https://www.pcauto.com.cn/chexun/news/index_17.html后无跟踪链接！
+2019-04-26 09:10:08,692    https://www.pcauto.com.cn/chexun/tech/index_17.html后无跟踪链接！

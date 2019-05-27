@@ -1,0 +1,626 @@
+2018-10-10 14:06:32,989 bj  医药代表 爬取完毕。
+
+2018-10-10 14:09:10,310 bj chaoyang/ 医药代表 爬取完毕。
+
+2018-10-10 14:10:15,443 bj haidian/ 医药代表 爬取完毕。
+
+2018-10-10 14:12:16,536 bj dongcheng/ 医药代表 爬取完毕。
+
+2018-10-10 14:14:42,200 bj xicheng/ 医药代表 爬取完毕。
+
+2018-10-10 14:16:27,759 bj chongwen/ 医药代表 爬取完毕。
+
+2018-10-10 14:16:31,199 https://bj.58.com/xuanwu/job/?key=医药代表&final=1&jump=1 下载失败
+
+2018-10-10 14:16:31,200 bj xuanwu/ 医药代表 没有抓取到页数。
+
+2018-10-10 14:18:36,640 bj fengtai/ 医药代表 爬取完毕。
+
+2018-10-10 14:19:15,629 bj tongzhouqu/ 医药代表 爬取完毕。
+
+2018-10-10 14:21:22,502 bj shijingshan/ 医药代表 爬取完毕。
+
+2018-10-10 14:23:37,717 bj fangshan/ 医药代表 爬取完毕。
+
+2018-10-10 14:26:43,515 bj changping/ 医药代表 爬取完毕。
+
+2018-10-10 14:32:22,493 bj daxing/ 医药代表 爬取完毕。
+
+2018-10-10 14:32:41,899 bj shunyi/ 医药代表 爬取完毕。
+
+2018-10-10 14:34:21,700 bj miyun/ 医药代表 爬取完毕。
+
+2018-10-10 14:34:24,935 https://bj.58.com/huarou/job/?key=医药代表&final=1&jump=1 下载失败
+
+2018-10-10 14:34:24,935 bj huarou/ 医药代表 没有抓取到页数。
+
+2018-10-10 14:34:28,011 https://bj.58.com/yanqing/job/?key=医药代表&final=1&jump=1 下载失败
+
+2018-10-10 14:34:28,012 bj yanqing/ 医药代表 没有抓取到页数。
+
+2018-10-10 14:34:33,653 bj pinggu/ 医药代表 爬取完毕。
+
+2018-10-10 14:34:35,105 https://bj.58.com/mentougou/job/?key=医药代表&final=1&jump=1 下载失败
+
+2018-10-10 14:34:35,105 bj mentougou/ 医药代表 没有抓取到页数。
+
+2018-10-10 14:36:24,307 bj bjyanjiao/ 医药代表 爬取完毕。
+
+2018-10-10 14:37:46,073 bj beijingzhoubian/ 医药代表 爬取完毕。
+
+2018-10-10 15:00:19,039 https://bj.58.com/zpjixieyiqi/18344278187010x.shtml?psid=128778168201740094736283392&entinfo=18344278187010_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_128778168201740094736283392解析失败
+
+2018-10-10 15:09:24,303 https://bj.58.com/yewu/29989765582913x.shtml?psid=168174568201740165416727461&entinfo=29989765582913_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_168174568201740165416727461解析失败
+
+2018-10-10 15:20:42,108 https://bj.58.com/renli/27416544078253x.shtml?psid=122784744201740256010967701&entinfo=27416544078253_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_122784744201740256010967701解析失败
+
+2018-10-10 15:31:08,991 bj  市场专员 爬取完毕。
+
+2018-10-10 15:33:08,147 bj  市场营销 爬取完毕。
+
+2018-10-10 15:49:59,182 bj  策划 爬取完毕。
+
+2018-10-10 16:28:12,069 bj chaoyang/ 市场专员 爬取完毕。
+
+2018-10-10 16:33:53,907 bj chaoyang/ 策划 爬取完毕。
+
+2018-10-10 16:46:43,712 bj haidian/ 市场专员 爬取完毕。
+
+2018-10-10 16:48:16,483 bj haidian/ 策划 爬取完毕。
+
+2018-10-10 16:51:49,184 bj dongcheng/ 市场专员 爬取完毕。
+
+2018-10-10 16:52:13,017 bj dongcheng/ 策划 爬取完毕。
+
+2018-10-10 16:56:09,876 bj xicheng/ 策划 爬取完毕。
+
+2018-10-10 16:56:22,965 bj chaoyang/ 市场营销 爬取完毕。
+
+2018-10-10 16:56:36,909 bj xicheng/ 市场专员 爬取完毕。
+
+2018-10-10 16:57:16,745 bj chongwen/ 策划 爬取完毕。
+
+2018-10-10 16:59:27,918 bj chongwen/ 市场专员 爬取完毕。
+
+2018-10-10 16:59:30,160 bj xuanwu/ 策划 爬取完毕。
+
+2018-10-10 17:01:23,639 bj xuanwu/ 市场专员 爬取完毕。
+
+2018-10-10 17:10:18,718 https://bj.58.com/zpguanggao/35155721884368x.shtml?psid=167602597201741117435776836&entinfo=35155721884368_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_167602597201741117435776836解析失败
+
+2018-10-10 17:12:25,589 bj fengtai/ 策划 爬取完毕。
+
+2018-10-10 17:16:19,158 bj fengtai/ 市场专员 爬取完毕。
+
+2018-10-10 17:31:53,157 bj tongzhouqu/ 策划 爬取完毕。
+
+2018-10-10 17:35:38,244 bj shijingshan/ 策划 爬取完毕。
+
+2018-10-10 17:35:46,113 bj haidian/ 市场营销 爬取完毕。
+
+2018-10-10 17:36:18,998 bj tongzhouqu/ 市场专员 爬取完毕。
+
+2018-10-10 17:38:23,994 bj fangshan/ 策划 爬取完毕。
+
+2018-10-10 17:38:34,877 https://bj.58.com/zhaopinhui/29635833428412x.shtml?psid=167073561201741342754210253&entinfo=29635833428412_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_167073561201741342754210253解析失败
+
+2018-10-10 17:39:26,130 bj shijingshan/ 市场专员 爬取完毕。
+
+2018-10-10 17:40:49,553 bj dongcheng/ 市场营销 爬取完毕。
+
+2018-10-10 17:42:33,535 bj fangshan/ 市场专员 爬取完毕。
+
+2018-10-10 17:47:37,565 bj xicheng/ 市场营销 爬取完毕。
+
+2018-10-10 17:48:14,548 bj changping/ 策划 爬取完毕。
+
+2018-10-10 17:48:33,815 bj chongwen/ 市场营销 爬取完毕。
+
+2018-10-10 17:50:31,586 bj xuanwu/ 市场营销 爬取完毕。
+
+2018-10-10 17:51:41,934 bj changping/ 市场专员 爬取完毕。
+
+2018-10-10 17:58:15,578 bj daxing/ 策划 爬取完毕。
+
+2018-10-10 18:01:50,332 bj shunyi/ 策划 爬取完毕。
+
+2018-10-10 18:02:38,416 bj daxing/ 市场专员 爬取完毕。
+
+2018-10-10 18:03:33,208 bj miyun/ 策划 爬取完毕。
+
+2018-10-10 18:03:37,132 https://bj.58.com/huarou/job/?key=策划&final=1&jump=1 下载失败
+
+2018-10-10 18:03:37,133 bj huarou/ 策划 没有抓取到页数。
+
+2018-10-10 18:04:38,306 bj yanqing/ 策划 爬取完毕。
+
+2018-10-10 18:06:07,122 bj pinggu/ 策划 爬取完毕。
+
+2018-10-10 18:06:45,114 bj shunyi/ 市场专员 爬取完毕。
+
+2018-10-10 18:07:27,301 bj mentougou/ 策划 爬取完毕。
+
+2018-10-10 18:08:11,997 bj miyun/ 市场专员 爬取完毕。
+
+2018-10-10 18:08:14,621 https://bj.58.com/huarou/job/?key=市场专员&final=1&jump=1 下载失败
+
+2018-10-10 18:08:14,621 bj huarou/ 市场专员 没有抓取到页数。
+
+2018-10-10 18:08:44,313 bj bjyanjiao/ 策划 爬取完毕。
+
+2018-10-10 18:09:23,847 bj yanqing/ 市场专员 爬取完毕。
+
+2018-10-10 18:10:10,236 bj beijingzhoubian/ 策划 爬取完毕。
+
+2018-10-10 18:10:45,401 bj pinggu/ 市场专员 爬取完毕。
+
+2018-10-10 18:12:03,561 bj mentougou/ 市场专员 爬取完毕。
+
+2018-10-10 18:13:36,857 bj fengtai/ 市场营销 爬取完毕。
+
+2018-10-10 18:13:51,291 bj bjyanjiao/ 市场专员 爬取完毕。
+
+2018-10-10 18:15:08,806 bj beijingzhoubian/ 市场专员 爬取完毕。
+
+2018-10-10 18:29:47,397 bj tongzhouqu/ 市场营销 爬取完毕。
+
+2018-10-10 18:36:10,306 bj shijingshan/ 市场营销 爬取完毕。
+
+2018-10-10 18:45:58,861 bj fangshan/ 市场营销 爬取完毕。
+
+2018-10-11 08:24:10,081 bj changping/ 市场营销 爬取完毕。
+
+2018-10-11 08:41:47,372 bj daxing/ 市场营销 爬取完毕。
+
+2018-10-11 08:48:18,656 bj shunyi/ 市场营销 爬取完毕。
+
+2018-10-11 08:50:37,717 bj miyun/ 市场营销 爬取完毕。
+
+2018-10-11 08:50:38,288 https://bj.58.com/huarou/job/?key=市场营销&final=1&jump=1 下载失败
+
+2018-10-11 08:50:38,289 bj huarou/ 市场营销 没有抓取到页数。
+
+2018-10-11 08:52:19,223 bj yanqing/ 市场营销 爬取完毕。
+
+2018-10-11 08:54:29,341 bj pinggu/ 市场营销 爬取完毕。
+
+2018-10-11 08:56:47,829 bj mentougou/ 市场营销 爬取完毕。
+
+2018-10-11 08:59:25,133 bj bjyanjiao/ 市场营销 爬取完毕。
+
+2018-10-11 09:02:09,188 bj beijingzhoubian/ 市场营销 爬取完毕。
+
+2018-10-11 09:41:47,839 bj  嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:41:48,450 https://bj.58.com/chaoyang/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:41:48,451 bj chaoyang/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:42:15,007 bj  嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:42:24,958 bj  嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:43:00,692 bj  嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:43:03,078 https://bj.58.com/chaoyang/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:43:03,079 bj chaoyang/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:43:24,391 bj haidian/ 嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:43:38,722 bj chaoyang/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:43:48,314 bj chaoyang/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:44:39,578 bj haidian/ 嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:44:42,112 bj dongcheng/ 嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:44:42,955 https://bj.58.com/xicheng/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:44:42,956 bj xicheng/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:44:43,756 https://bj.58.com/chongwen/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:44:43,756 bj chongwen/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:44:46,175 https://bj.58.com/xuanwu/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:44:46,176 bj xuanwu/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:44:58,524 bj haidian/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:45:44,399 bj haidian/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:45:48,584 bj dongcheng/ 嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:45:53,222 https://bj.58.com/xicheng/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:45:53,223 bj xicheng/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:45:54,788 https://bj.58.com/chongwen/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:45:54,789 bj chongwen/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:45:57,381 https://bj.58.com/xuanwu/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:45:57,381 bj xuanwu/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:46:12,441 bj fengtai/ 嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:46:16,551 https://bj.58.com/tongzhouqu/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:16,552 bj tongzhouqu/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:46:17,736 bj dongcheng/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:46:20,789 https://bj.58.com/xicheng/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:20,790 bj xicheng/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:46:20,915 https://bj.58.com/shijingshan/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:20,916 bj shijingshan/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:46:22,229 https://bj.58.com/chongwen/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:22,229 bj chongwen/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:46:23,793 https://bj.58.com/fangshan/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:23,794 bj fangshan/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:46:26,591 https://bj.58.com/xuanwu/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:26,592 bj xuanwu/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:46:30,435 https://bj.58.com/fengtai/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:30,435 bj fengtai/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:46:32,208 https://bj.58.com/tongzhouqu/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:46:32,209 bj tongzhouqu/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:47:12,207 bj dongcheng/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:47:16,491 https://bj.58.com/xicheng/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:16,493 bj xicheng/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:20,552 https://bj.58.com/chongwen/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:20,552 bj chongwen/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:24,500 https://bj.58.com/xuanwu/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:24,501 bj xuanwu/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:26,491 https://bj.58.com/fengtai/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:26,492 bj fengtai/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:27,073 https://bj.58.com/tongzhouqu/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:27,074 bj tongzhouqu/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:30,165 https://bj.58.com/shijingshan/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:30,166 bj shijingshan/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:47:32,269 bj fengtai/ 嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:47:33,903 https://bj.58.com/tongzhouqu/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:33,903 bj tongzhouqu/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:47:36,747 https://bj.58.com/shijingshan/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:36,748 bj shijingshan/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:47:37,330 bj shijingshan/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:47:38,740 https://bj.58.com/fangshan/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:47:38,741 bj fangshan/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:48:15,581 bj changping/ 嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:48:18,791 https://bj.58.com/daxing/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:18,791 bj daxing/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:27,228 bj shunyi/ 嵌入式硬件开发工程师 爬取完毕。
+
+2018-10-11 09:48:31,373 https://bj.58.com/miyun/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:31,373 bj miyun/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:32,940 https://bj.58.com/huarou/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:32,941 bj huarou/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:35,179 https://bj.58.com/yanqing/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:35,180 bj yanqing/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:37,642 https://bj.58.com/pinggu/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:37,643 bj pinggu/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:40,683 https://bj.58.com/mentougou/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:40,684 bj mentougou/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:42,000 https://bj.58.com/bjyanjiao/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:42,001 bj bjyanjiao/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:43,845 https://bj.58.com/beijingzhoubian/job/?key=嵌入式硬件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:48:43,845 bj beijingzhoubian/ 嵌入式硬件开发工程师 没有抓取到页数。
+
+2018-10-11 09:48:57,354 bj fangshan/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:49:01,915 bj fangshan/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:49:14,389 bj changping/ 嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:49:16,854 https://bj.58.com/daxing/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:16,855 bj daxing/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:25,310 bj shunyi/ 嵌入式硬件工程师 爬取完毕。
+
+2018-10-11 09:49:27,374 https://bj.58.com/miyun/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:27,375 bj miyun/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:29,641 https://bj.58.com/huarou/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:29,641 bj huarou/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:32,996 https://bj.58.com/yanqing/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:32,998 bj yanqing/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:36,510 https://bj.58.com/pinggu/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:36,511 bj pinggu/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:40,549 https://bj.58.com/mentougou/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:40,553 bj mentougou/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:41,384 https://bj.58.com/bjyanjiao/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:41,385 bj bjyanjiao/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:49:44,258 https://bj.58.com/beijingzhoubian/job/?key=嵌入式硬件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:49:44,259 bj beijingzhoubian/ 嵌入式硬件工程师 没有抓取到页数。
+
+2018-10-11 09:50:20,825 bj changping/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:50:21,695 https://bj.58.com/daxing/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:50:21,695 bj daxing/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:50:37,405 bj changping/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:50:39,109 https://bj.58.com/daxing/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:50:39,109 bj daxing/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:51:42,480 bj shunyi/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:51:44,217 https://bj.58.com/miyun/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:51:44,217 bj miyun/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:51:47,176 https://bj.58.com/huarou/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:51:47,177 bj huarou/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:51:49,940 https://bj.58.com/yanqing/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:51:49,941 bj yanqing/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:51:58,349 bj shunyi/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:51:59,065 https://bj.58.com/miyun/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:51:59,066 bj miyun/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:51:59,571 https://bj.58.com/huarou/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:51:59,572 bj huarou/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:52:03,408 https://bj.58.com/yanqing/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:52:03,409 bj yanqing/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:53:05,324 bj pinggu/ 嵌入式软件工程师 爬取完毕。
+
+2018-10-11 09:53:07,336 https://bj.58.com/mentougou/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:07,337 bj mentougou/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:53:08,634 https://bj.58.com/bjyanjiao/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:08,634 bj bjyanjiao/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:53:10,862 https://bj.58.com/beijingzhoubian/job/?key=嵌入式软件工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:10,863 bj beijingzhoubian/ 嵌入式软件工程师 没有抓取到页数。
+
+2018-10-11 09:53:25,084 bj pinggu/ 嵌入式软件开发工程师 爬取完毕。
+
+2018-10-11 09:53:26,310 https://bj.58.com/mentougou/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:26,311 bj mentougou/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:53:26,788 https://bj.58.com/bjyanjiao/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:26,796 bj bjyanjiao/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 09:53:27,875 https://bj.58.com/beijingzhoubian/job/?key=嵌入式软件开发工程师&final=1&jump=1 下载失败
+
+2018-10-11 09:53:27,875 bj beijingzhoubian/ 嵌入式软件开发工程师 没有抓取到页数。
+
+2018-10-11 10:10:35,542 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuadbmhDLuWE1Pid-nAFbsHEOnyNVrjRbPiYQuyDkPWmzP1-bnhmKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPkDOnWcYTHDKnHN1rHczn10OrHEdnTDzTyQG0Lw_uyuYTHDKnHEKnWTQPWT1nW6xXh66ULKGU-qBmgP-xjD_nWTQPWTdnWuxXh66ULKGU-tQxjDKsHDKTHTKnTDKnE7huAn1uWmdPadWn1cYsHEznWnVmynYPzYYnAR6PWmOrAwBPj9KPjTQnHnkP1bKnWNLn1D3n10YnHb3PHc3TEDOnWcYTHDKna33P1Nvn1NYPHDQPWnOrHmzTEZCV2s-BJDKTE7CIZwk01CfsvFJsWN3shPfUiqJUvcf0A3QPat4pvRO5iR7raRaPaRKnBR7PiN3EiRKniuhpyO6UjYQFhGdUgTqnEDKnHc1sWDzna3QsWDQPEDkTHTKTHD1rHTLTgVqTHDKnHTknjNQn97hPAFbm1PWraYkmhu6sHw6uW0VmyEkmzYYrHDvnhN3PWn1PjbKm176P166nWu6PhDknyN1nT&adact=3&psid=145277476201749141836987821&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001230000000000000000000000000000_145277476201749141836987821 下载失败
+
+2018-10-11 10:11:17,860 https://bj.58.com/zpcaiwushenji/35101645635384x.shtml?psid=194209483201749142683240179&entinfo=35101645635384_j&ytdzwdetaildj=0&finalCp=000001250000000000000000000000000000_194209483201749142683240179解析失败
+
+2018-10-11 10:16:25,062 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuad-PhE3njbkniYkPvmdsHEvn1EVrAE1nBYYnAcYuWRhujKhP1EKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPkDOnWcYTHDKnHN1rHczPjTdrjmLnEDQTyQG0LwBULwYUvYKnEDQPkDznjDvnjnzr7qlpA7f0A-8gvF60vRtnikznjDvnjNzP-qlpA7f0A-8g17tnEDVnEDKnTDkTEDQTyDQPj-bmhuWsyF-rj0VPj9zmiYOnvP6sHc3uHF-PWKBPj7-nkDYnjDQn1TLrEDzPH01nH91P1EQrH9dnW9KTHbznWEKnEDksW9LPHm1PHEdnHDvn1bOPWcKTXBYC8y2CEDKTy6YIZK1rBtfmhC8PH98mvqVsvGfmBqkUWDLs1qougbqFNN3FNcYFNDzFNNdFH6KFNDQFhuGUh7_5HDhpMRV0jYQTEDQnWn8nHcksWD8nHDdTHTKnTDKnHnOnj0KXLYKnEDQnjTkPHDYTHK6PHcYryuBsHDYuW9VPjcQnadBmyEOsHEvmvwWryE3mywhn9DYuhnYujcQmHKhmWubn19Q&adact=3&psid=128761903201749175813261852&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001260000000000000000000000000000_128761903201749175813261852 下载失败
+
+2018-10-11 10:17:57,321 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuaYQujKWuhR-nzdbn1DLsHEQmhNVmW7-uidbP1P6PHcLnW03mHNKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPkDOnWcYTHDKnHN1rHczPjcdP19vn9DzTyQG0Lw_uyuYTHDKnHbKnWTQPWT1nW6xXh66ULKGU-qBmgP-xjD_nWTQPWTdnWuxXh66ULKGU-tQxjDKsHDKTHTKnTDKnE7WnWmvP1wbnzYvmHEYsHwBPjEVrHubnzYLnjbkuhEzPjmQPhcKPjTQnHnkP1bKnWNLn1D3n10YnHb3PHc3TEDOnWcYTHDKna33P1Nvn1NYPHDQPWnOrHmzTEZCV2s-BJDKTE7CIZwk01CfsvFJsWN3shPfUiqJUvcf0A3Qrit4pvRO5iR7raRaPaRKnBR7PiN3EiRKniuhpyO6UjYQFhGdUgTqnEDKnHc1sWDzna3QsWDQPEDkTHTKTHD1rHTLTgVqTHDKnHTknjNQn9DdPjubrHbYmBY1uAuhsHEQPhnVrym1riY1mHuBPWR6n1whnyNKm103uWP-uyE3nWTOujTLPT&adact=3&psid=120741129201749201923166210&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001230000000000000000000000000000_120741129201749201923166210解析失败
+
+2018-10-11 10:30:54,009 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuaY3ujP6P16bPBYLPvPhsHEkmWNVrAFWPad6PymvuAF6nyRbujTKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPEDOnWcYTHDKnHN1rHczPjb1PjDOPkDQTyQG0LwBULwYUvYKnEDznkDznjDvnjnzr7qlpA7f0A-8gvF60vRtnikznjDvnjNzP-qlpA7f0A-8gvF60vRtnEDVnEDKnTDkTEDQTHNkmynLuHcQsyc3nAmVPjbzraY3P1P6sHwhujKBP1u6PWn3nTDYnjDQn1TLrEDzPH01nH91P1EQrH9dnW9KTHbznWEKnEDQsW01PjE1rjN3PjNdrHTvrHnKTXyZ88Xl_kDKTy6YIZK1rBtfmhC8PH98mvqVsvGfmBqkUWc1s1qougbqFNNdFH9LFNFKFNNLFNFKFNc1FhuGUh7_5HDhpMRV0jYQTEDQnWn8nHcksWD8nHDdTHTKnTDKnHnOnj0KXLYKnEDQnjTkPHDYTHT3ryD3mHuWsHTznWcVPj6huBY3m1DLsHm1uAFWmWm1PjcdrE7hmvDOnAP6PjDLuAnYryDd&adact=3&psid=128777280201749290570662640&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001260000000000000000000000000000_128777280201749290570662640 下载失败
+
+2018-10-11 10:33:23,681 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuaYzmhFWP1R6nBdWrjnYsHE3uHnVrjEznBYkn1TkPymznHn3mWTKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPkDOnWcYTHDKnHN1rHczPHDvP1T3PkDzTyQG0Lw_uyuYTHDKnWbKnWTQPWT1nW6xXh66ULKGU-qBmgP-xjD_nWTQPWTdnWuxXh66ULKGU-tQxjDKsHDKTHTKnTDKnED3uycduhcYPBYduhEOsHwbrjTVrjnOPzYzryELnhuWPjPbmvEKPjTQnHnkP1bKnWNLn1D3n10YnHb3PHc3TEDOnWcYTHDKna33P1Nvn1NYPHDQPWnOrHmzTEZCV2s-BJDKTE7CIZwk01CfsvFJsWN3shPfUiqJUvcf0A3zrit4pvRO5iR7raRaPaRKnBR7PiN3EiRKniuhpyO6UjYQFhGdUgTqnEDKnHc1sWDzna3QsWDQPEDkTHTKTHD1rHTLTgVqTHDKnHTknjNQn97BPymYP1bvPiY1P1b3sHEkPjbVmWDQriY1rj0dPADvPHm3myDKmvmQrjwbmH03rjPWuy7hrT&adact=3&psid=178959359201749321096335676&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001230000000000000000000000000000_178959359201749321096335676 下载失败
+
+2018-10-11 10:36:32,613 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuaY1uWbLnWwhnzY3ujEdsHEQuANVmWEdPiYLnvDYn1Tzm1I-uHnKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPkDOnWcYTHDKnHN1rHczPHndPWmQP9DQTyQG0Lw_uyuYTHDKn1DKnWTQPWT1nW6xXh66ULKGU-qBmgP-xjD_nWTQPWTdnWuxXh66ULKGU-tQxjDKsHDKTHTKnTDKnE76uj--nW-WniY3nhm1sHw-mHEVrAFhuBY3rHbkrA76mhwWuWTKPjTQnHnkP1bKnWNLn1D3n10YnHb3PHc3TEDOnWcYTHDKna33P1Nvn1NYPHDQPWnOrHmzTEZCV2s-BJDKTE7CIZwk01CfsvFJsWN3shPfUiqJUvcf0A31nit4pvRO5iR7raRaPaRKnBR7PiN3EiRKniuhpyO6UjYQFhGdUgTqnEDKnHc1sWDzna3QsWDQPEDkTHTKTHD1rHTLTgVqTHDKnHTknjNQn9DduHDvrynzPidWPHcYsHw-uycVmWI6mzdbmHbLm1NdnAuBrHTKmWndmWcvrjNQm1PhPHRWPE&adact=3&psid=155975523201749345940140853&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001230000000000000000000000000000_155975523201749345940140853 下载失败
+
+2018-10-11 10:40:50,621 https://jumpzhineng.58.com/jump?target=szqBpB3draOWUvYfXMKWmy-LIgPCuyOJpitzn19vPHDQrHEknj93PZ980v6YUykKuadbPAnknj7-PzYQm1bYsHw-nAcVmhmLmiYQmhnknWT3uH-bm1EKnH93n1DQrjTLn1TQnHbKTHc1rjmdnHDOPjTkrj9YTHDkPkDOPEDOnWcYTHDKnHN1rHczPHNzrH9dnEDQTyQG0LwBULwYUvYKnEDzrEDznjDvnjnzr7qlpA7f0A-8gvF60vRtnikznjDvnjNzP-qlpA7f0A-8gvF60vRtnEDVnEDKnTDkTEDQTycznANYrjNOsyD1nhnVPjubuidBuHu6sHK-uW0vPH9QuADOn9DYnjDQn1TLrEDzPH01nH91P1EQrH9dnW9KTHbznWEKnEDQsW01PjE1rjN3PjNdrHTvrHnKTXyZ88Xl_kDKTy6YIZK1rBtfmhC8PH98mvqVsvGfmBqkUWcOs1qougbqFNNdFH9LFNFKFNNLFNFKFNc1FhuGUh7_5HDhpMRV0jYQTEDQnWn8nHcksWD8nHDdTHTKnTDKnHnOnj0KXLYKnEDQnjTkPHDYTyckrAP6n19vsyDkuycVPAnkPzY3nynzsHczPj6hPvNLPhnOnED3mhNduyNvPhuWmH7WmyP-&adact=3&psid=189180428201749368645290835&entinfo=23865119400884_q&ytdzwdetaildj=0&finalCp=000001260000000000000000000000000000_189180428201749368645290835 下载失败
+
+2018-10-11 11:37:32,116 bj  财务 爬取完毕。
+
+2018-10-11 11:39:40,356 bj  会计 爬取完毕。
+
+2018-10-11 11:41:31,627 bj  出纳 爬取完毕。
+
+2018-10-11 12:18:25,136 bj chaoyang/ 出纳 爬取完毕。
+
+2018-10-11 13:33:17,239 https://bj.58.com/zpcaiwushenji/29761865058247x.shtml?psid=150399986201750730255056846&entinfo=29761865058247_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_150399986201750730255056846解析失败
+
+2018-10-11 13:35:12,320 bj haidian/ 出纳 爬取完毕。
+
+2018-10-11 13:38:41,370 bj dongcheng/ 出纳 爬取完毕。
+
+2018-10-11 13:41:50,996 bj xicheng/ 出纳 爬取完毕。
+
+2018-10-11 13:44:08,278 bj chongwen/ 出纳 爬取完毕。
+
+2018-10-11 13:46:30,626 bj xuanwu/ 出纳 爬取完毕。
+
+2018-10-11 13:56:26,865 bj fengtai/ 出纳 爬取完毕。
+
+2018-10-11 14:02:11,751 bj tongzhouqu/ 出纳 爬取完毕。
+
+2018-10-11 14:04:02,416 bj shijingshan/ 出纳 爬取完毕。
+
+2018-10-11 14:06:33,910 bj chaoyang/ 会计 爬取完毕。
+
+2018-10-11 14:06:39,055 bj fangshan/ 出纳 爬取完毕。
+
+2018-10-11 14:14:14,364 bj changping/ 出纳 爬取完毕。
+
+2018-10-11 14:15:23,270 https://bj.58.com/zpcaiwushenji/35055531176889x.shtml?psid=156924891201751062977818245&entinfo=35055531176889_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_156924891201751062977818245解析失败
+
+2018-10-11 14:19:18,513 https://bj.58.com/zpcaiwushenji/34284003756357x.shtml?psid=145310115201751096976796689&entinfo=34284003756357_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_145310115201751096976796689解析失败
+
+2018-10-11 14:23:33,131 bj daxing/ 出纳 爬取完毕。
+
+2018-10-11 14:27:06,842 bj chaoyang/ 财务 爬取完毕。
+
+2018-10-11 14:28:28,098 bj shunyi/ 出纳 爬取完毕。
+
+2018-10-11 14:28:57,054 bj miyun/ 出纳 爬取完毕。
+
+2018-10-11 14:28:59,015 https://bj.58.com/huarou/job/?key=出纳&final=1&jump=1 下载失败
+
+2018-10-11 14:28:59,015 bj huarou/ 出纳 没有抓取到页数。
+
+2018-10-11 14:30:12,709 bj yanqing/ 出纳 爬取完毕。
+
+2018-10-11 14:30:33,206 bj pinggu/ 出纳 爬取完毕。
+
+2018-10-11 14:32:16,964 bj mentougou/ 出纳 爬取完毕。
+
+2018-10-11 14:33:37,153 bj bjyanjiao/ 出纳 爬取完毕。
+
+2018-10-11 14:35:06,097 bj beijingzhoubian/ 出纳 爬取完毕。
+
+2018-10-11 14:43:52,350 bj haidian/ 会计 爬取完毕。
+
+2018-10-11 14:50:07,697 bj dongcheng/ 会计 爬取完毕。
+
+2018-10-11 14:59:46,757 bj xicheng/ 会计 爬取完毕。
+
+2018-10-11 15:01:47,715 bj chongwen/ 会计 爬取完毕。
+
+2018-10-11 15:04:17,131 bj xuanwu/ 会计 爬取完毕。
+
+2018-10-11 15:17:19,219 https://bj.58.com/zpcaiwushenji/34028792154830x.shtml?psid=155917825201751553169358053&entinfo=34028792154830_p&ytdzwdetaildj=0&finalCp=000001270000000000000000000000000000_155917825201751553169358053解析失败
+
+2018-10-11 15:32:00,251 bj haidian/ 财务 爬取完毕。
+
+2018-10-11 15:44:27,652 bj fengtai/ 会计 爬取完毕。
+
+2018-10-11 15:44:44,554 bj dongcheng/ 财务 爬取完毕。
+
+2018-10-11 16:01:27,105 bj xicheng/ 财务 爬取完毕。
+
+2018-10-11 16:03:30,714 bj tongzhouqu/ 会计 爬取完毕。
+
+2018-10-11 16:05:24,370 bj chongwen/ 财务 爬取完毕。
+
+2018-10-11 16:08:58,592 bj xuanwu/ 财务 爬取完毕。
+
+2018-10-11 16:09:22,183 bj shijingshan/ 会计 爬取完毕。
+
+2018-10-11 16:16:21,998 bj fangshan/ 会计 爬取完毕。
+
+2018-10-11 16:34:41,371 bj changping/ 会计 爬取完毕。
+
+2018-10-11 16:59:36,959 bj daxing/ 会计 爬取完毕。
+
+2018-10-11 17:11:48,122 bj shunyi/ 会计 爬取完毕。
+
+2018-10-11 17:12:11,304 bj fengtai/ 财务 爬取完毕。
+
+2018-10-11 17:13:42,423 bj miyun/ 会计 爬取完毕。
+
+2018-10-11 17:13:43,060 https://bj.58.com/huarou/job/?key=会计&final=1&jump=1 下载失败
+
+2018-10-11 17:13:43,061 bj huarou/ 会计 没有抓取到页数。
+
+2018-10-11 17:16:15,165 bj yanqing/ 会计 爬取完毕。
+
+2018-10-11 17:17:28,228 bj pinggu/ 会计 爬取完毕。
+
+2018-10-11 17:18:45,436 bj mentougou/ 会计 爬取完毕。
+
+2018-10-11 17:20:26,360 bj bjyanjiao/ 会计 爬取完毕。
+
+2018-10-11 17:22:30,797 bj beijingzhoubian/ 会计 爬取完毕。
+
+2018-10-11 17:48:12,070 bj tongzhouqu/ 财务 爬取完毕。
+
+2018-10-11 18:01:08,888 bj shijingshan/ 财务 爬取完毕。
+
+2018-10-11 18:11:18,071 bj fangshan/ 财务 爬取完毕。
+
+2018-10-11 18:41:23,537 bj changping/ 财务 爬取完毕。
+
+2018-10-11 19:22:16,706 bj daxing/ 财务 爬取完毕。
+
+2018-10-11 19:40:35,560 bj shunyi/ 财务 爬取完毕。
+
+2018-10-11 19:42:41,235 bj miyun/ 财务 爬取完毕。
+
+2018-10-11 19:42:42,953 https://bj.58.com/huarou/job/?key=财务&final=1&jump=1 下载失败
+
+2018-10-11 19:42:42,954 bj huarou/ 财务 没有抓取到页数。
+
+2018-10-11 19:44:44,656 bj yanqing/ 财务 爬取完毕。
+
+2018-10-11 19:46:04,109 bj pinggu/ 财务 爬取完毕。
+
+2018-10-11 19:48:07,814 bj mentougou/ 财务 爬取完毕。
+
+2018-10-11 19:50:00,075 bj bjyanjiao/ 财务 爬取完毕。
+
+2018-10-11 19:51:43,173 bj beijingzhoubian/ 财务 爬取完毕。
+

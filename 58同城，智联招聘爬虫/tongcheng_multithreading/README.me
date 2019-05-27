@@ -1,0 +1,24 @@
+# 包含组件:
+    # IPPool：代理IP池，包含get_ip和get_ips两个方法（由@property装饰器装饰），分别返回代理IP字典及字典列表。
+
+    # downloader：下载组件，包含:
+        page_download(url, flags, proxiy=None, retry=config.RETRY)
+            # params:
+                # :url: 需要下载的链接
+                # ：flags：‘search’，不适用代理；‘page’，使用代理
+                # ：proxiy：一个存放代理IP字典的列队
+                # ：retry：下载出错的重试次数，在config中配置
+
+    # page_parse：页面解析，自定义解析函数
+
+    # spider：任务分配
+
+    # storage：存储模块，MySQL，链接参数config中配置，sql语句模块中设置
+
+    # task_manager_server：用于分布式爬虫，包含一个任务管理器。run_task_server()以服务进程运行一个任务列队，get_queue()获取相应任务列队（之后支持正常的列队操作）。地址，口令在config中配置。
+    
+    # run：运行，管理线程进程
+    
+    # config：配置文件
+
+    # url_log_processor：异常链接（测试中...）

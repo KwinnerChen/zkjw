@@ -1,0 +1,1060 @@
+2019-03-12 09:45:06,438    --------------------新闻列表线程开始--------------------
+2019-03-12 09:45:06,454    任务线程 0 启动！
+2019-03-12 09:45:06,454    任务线程 1 启动！
+2019-03-12 09:45:06,454    任务线程 2 启动！
+2019-03-12 09:51:03,126    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-12 10:04:08,298    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-12 10:04:13,141    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-14 09:00:32,730    https://news.58che.com/news/2178180.html 下载出错！
+2019-03-14 09:00:32,855    https://news.58che.com/news/2178180.html 没有解析出任何数据！
+2019-03-14 09:00:32,902    https://news.58che.com/news/2178180.html 没有解析出数据！
+2019-03-14 09:00:44,527    https://news.58che.com/news/2177943.html 下载出错！
+2019-03-14 09:00:44,527    https://news.58che.com/news/2177943.html 没有解析出任何数据！
+2019-03-14 09:00:44,527    https://news.58che.com/news/2177943.html 没有解析出数据！
+2019-03-14 09:05:07,275    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-14 09:18:12,483    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-14 09:18:17,389    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-15 09:00:27,972    https://news.58che.com/news/2178683.html 下载出错！
+2019-03-15 09:00:28,222    https://news.58che.com/news/2178683.html 没有解析出任何数据！
+2019-03-15 09:00:28,253    https://news.58che.com/news/2178683.html 没有解析出数据！
+2019-03-15 09:05:01,880    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-15 09:18:02,822    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-15 09:18:07,603    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-16 09:05:00,678    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-16 09:18:04,736    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-16 09:18:09,627    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-17 09:00:37,815    https://news.58che.com/news/2179096.html 下载出错！
+2019-03-17 09:00:38,065    https://news.58che.com/news/2179096.html 没有解析出任何数据！
+2019-03-17 09:00:38,096    https://news.58che.com/news/2179096.html 没有解析出数据！
+2019-03-17 09:00:42,893    https://news.58che.com/news/2179093.html 下载出错！
+2019-03-17 09:00:42,893    https://news.58che.com/news/2179093.html 没有解析出任何数据！
+2019-03-17 09:00:42,893    https://news.58che.com/news/2179093.html 没有解析出数据！
+2019-03-17 09:05:08,362    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-17 09:18:09,846    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-17 09:18:14,706    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-18 09:05:13,134    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-18 09:18:17,081    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-18 09:18:21,925    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-19 09:05:18,398    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-19 09:18:21,891    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-19 09:18:26,828    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-20 09:05:15,587    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-20 09:18:18,004    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-20 09:18:22,957    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-21 09:07:39,088    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-21 09:09:14,244    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-21 09:33:11,719    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-21 09:33:16,672    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-21 09:33:59,222    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-21 09:34:03,847    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-22 09:08:18,003    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-22 09:09:52,107    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-22 09:33:58,003    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-22 09:34:12,284    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-22 09:34:44,269    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-22 09:34:48,878    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-23 09:08:07,282    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-23 09:09:46,297    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-23 09:33:43,485    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-23 09:33:48,375    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-23 09:34:30,360    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-23 09:34:34,969    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-24 09:01:13,150    https://news.58che.com/news/2180467.html 下载出错！
+2019-03-24 09:01:13,213    https://news.58che.com/news/2180467.html 没有解析出任何数据！
+2019-03-24 09:01:13,260    https://news.58che.com/news/2180467.html 没有解析出数据！
+2019-03-24 09:05:42,383    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-24 09:18:47,847    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-24 09:18:52,690    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-25 09:05:45,646    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-25 09:18:49,688    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-25 09:18:54,563    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-26 09:08:07,966    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-26 09:09:46,870    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-26 09:33:55,574    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-26 09:34:00,490    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-26 09:34:43,083    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-26 09:34:47,719    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-27 11:59:26,174    --------------------新闻列表线程开始--------------------
+2019-03-27 11:59:26,190    任务线程 0 启动！
+2019-03-27 11:59:26,190    任务线程 1 启动！
+2019-03-27 11:59:26,190    任务线程 2 启动！
+2019-03-28 10:08:53,849    --------------------新闻列表线程开始--------------------
+2019-03-28 10:08:53,849    任务线程 0 启动！
+2019-03-28 10:08:53,850    任务线程 1 启动！
+2019-03-28 10:08:53,851    任务线程 2 启动！
+2019-03-30 09:00:36,143    https://news.58che.com/news/2181377.html 下载出错！
+2019-03-30 09:00:36,299    https://news.58che.com/news/2181377.html 没有解析出任何数据！
+2019-03-30 09:00:36,346    https://news.58che.com/news/2181377.html 没有解析出数据！
+2019-03-30 09:05:21,128    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-30 09:18:23,768    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-30 09:18:28,628    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-03-31 09:00:44,906    https://news.58che.com/news/2181638.html 下载出错！
+2019-03-31 09:00:44,906    https://news.58che.com/news/2181638.html 没有解析出任何数据！
+2019-03-31 09:00:44,906    https://news.58che.com/news/2181638.html 没有解析出数据！
+2019-03-31 09:05:09,857    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-03-31 09:18:14,111    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-03-31 09:18:18,970    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-01 09:05:11,905    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-01 09:18:15,809    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-01 09:18:20,684    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-02 10:03:07,727    --------------------新闻列表线程开始--------------------
+2019-04-02 10:03:07,742    任务线程 0 启动！
+2019-04-02 10:03:07,742    任务线程 1 启动！
+2019-04-02 10:03:07,742    任务线程 2 启动！
+2019-04-03 09:05:21,595    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-03 09:17:56,385    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-03 09:18:01,167    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-04 09:02:16,291    https://news.58che.com/news/2182137.html 下载出错！
+2019-04-04 09:02:16,401    https://news.58che.com/news/2182137.html 没有解析出任何数据！
+2019-04-04 09:02:16,432    https://news.58che.com/news/2182137.html 没有解析出数据！
+2019-04-04 09:02:24,791    https://news.58che.com/news/2156969.html 下载出错！
+2019-04-04 09:02:24,791    https://news.58che.com/news/2156969.html 没有解析出任何数据！
+2019-04-04 09:02:24,791    https://news.58che.com/news/2156969.html 没有解析出数据！
+2019-04-04 09:04:30,180    https://news.58che.com/news/2179208.html 下载出错！
+2019-04-04 09:04:30,180    https://news.58che.com/news/2179208.html 没有解析出任何数据！
+2019-04-04 09:04:30,180    https://news.58che.com/news/2179208.html 没有解析出数据！
+2019-04-04 09:05:01,367    https://news.58che.com/news/2174855.html 下载出错！
+2019-04-04 09:05:01,367    https://news.58che.com/news/2174855.html 没有解析出任何数据！
+2019-04-04 09:05:01,367    https://news.58che.com/news/2174855.html 没有解析出数据！
+2019-04-04 09:05:58,429    https://news.58che.com/news/2178683.html 下载出错！
+2019-04-04 09:05:58,429    https://news.58che.com/news/2178683.html 没有解析出任何数据！
+2019-04-04 09:05:58,429    https://news.58che.com/news/2178683.html 没有解析出数据！
+2019-04-04 09:06:11,866    https://news.58che.com/news/2173054.html 下载出错！
+2019-04-04 09:06:11,866    https://news.58che.com/news/2173054.html 没有解析出任何数据！
+2019-04-04 09:06:11,866    https://news.58che.com/news/2173054.html 没有解析出数据！
+2019-04-04 09:06:20,085    https://news.58che.com/news/2178565.html 下载出错！
+2019-04-04 09:06:20,101    https://news.58che.com/news/2178565.html 没有解析出任何数据！
+2019-04-04 09:06:20,101    https://news.58che.com/news/2178565.html 没有解析出数据！
+2019-04-04 09:06:42,428    https://news.58che.com/news/2172604.html 下载出错！
+2019-04-04 09:06:42,428    https://news.58che.com/news/2172604.html 没有解析出任何数据！
+2019-04-04 09:06:42,428    https://news.58che.com/news/2172604.html 没有解析出数据！
+2019-04-04 09:08:32,958    https://news.58che.com/news/2178203.html 下载出错！
+2019-04-04 09:08:32,958    https://news.58che.com/news/2178203.html 没有解析出任何数据！
+2019-04-04 09:08:32,958    https://news.58che.com/news/2178203.html 没有解析出数据！
+2019-04-04 09:12:26,643    https://news.58che.com/news/2172277.html 下载出错！
+2019-04-04 09:12:26,643    https://news.58che.com/news/2172277.html 没有解析出任何数据！
+2019-04-04 09:12:26,643    https://news.58che.com/news/2172277.html 没有解析出数据！
+2019-04-04 09:16:38,046    https://news.58che.com/news/1823636.html 下载出错！
+2019-04-04 09:16:38,061    https://news.58che.com/news/1823636.html 没有解析出任何数据！
+2019-04-04 09:16:38,061    https://news.58che.com/news/1823636.html 没有解析出数据！
+2019-04-04 09:23:11,088    https://news.58che.com/news/2177781.html 下载出错！
+2019-04-04 09:23:11,088    https://news.58che.com/news/2177781.html 没有解析出任何数据！
+2019-04-04 09:23:11,088    https://news.58che.com/news/2177781.html 没有解析出数据！
+2019-04-04 09:27:06,053    https://news.58che.com/news/2168387.html 下载出错！
+2019-04-04 09:27:06,053    https://news.58che.com/news/2168387.html 没有解析出任何数据！
+2019-04-04 09:27:06,053    https://news.58che.com/news/2168387.html 没有解析出数据！
+2019-04-04 09:27:10,022    https://news.58che.com/news/2167660.html 下载出错！
+2019-04-04 09:27:10,022    https://news.58che.com/news/2167660.html 没有解析出任何数据！
+2019-04-04 09:27:10,022    https://news.58che.com/news/2167660.html 没有解析出数据！
+2019-04-04 09:37:44,639    https://news.58che.com/news/2162953.html 下载出错！
+2019-04-04 09:37:44,639    https://news.58che.com/news/2162953.html 没有解析出任何数据！
+2019-04-04 09:37:44,639    https://news.58che.com/news/2162953.html 没有解析出数据！
+2019-04-04 09:39:27,403    https://news.58che.com/news/1302930.html 下载出错！
+2019-04-04 09:39:27,419    https://news.58che.com/news/1302930.html 没有解析出任何数据！
+2019-04-04 09:39:27,419    https://news.58che.com/news/1302930.html 没有解析出数据！
+2019-04-04 09:41:35,714    https://news.58che.com/news/2158219.html 下载出错！
+2019-04-04 09:41:35,714    https://news.58che.com/news/2158219.html 没有解析出任何数据！
+2019-04-04 09:41:35,714    https://news.58che.com/news/2158219.html 没有解析出数据！
+2019-04-04 09:42:12,432    https://news.58che.com/slide/1134820.html 没有解析出数据！
+2019-04-04 09:42:15,839    https://news.58che.com/news/1128136.html 下载出错！
+2019-04-04 09:42:15,854    https://news.58che.com/news/1128136.html 没有解析出任何数据！
+2019-04-04 09:42:15,854    https://news.58che.com/news/1128136.html 没有解析出数据！
+2019-04-04 09:42:19,901    https://news.58che.com/news/2176277.html 下载出错！
+2019-04-04 09:42:19,901    https://news.58che.com/news/2176277.html 没有解析出任何数据！
+2019-04-04 09:42:19,901    https://news.58che.com/news/2176277.html 没有解析出数据！
+2019-04-04 09:42:33,620    https://news.58che.com/news/2176112.html 下载出错！
+2019-04-04 09:42:33,620    https://news.58che.com/news/2176112.html 没有解析出任何数据！
+2019-04-04 09:42:33,620    https://news.58che.com/news/2176112.html 没有解析出数据！
+2019-04-04 09:42:51,557    https://news.58che.com/news/2156671.html 下载出错！
+2019-04-04 09:42:51,557    https://news.58che.com/news/2156671.html 没有解析出任何数据！
+2019-04-04 09:42:51,557    https://news.58che.com/news/2156671.html 没有解析出数据！
+2019-04-04 09:43:14,197    https://news.58che.com/slide/1116386.html 没有解析出数据！
+2019-04-04 09:43:15,150    https://news.58che.com/slide/1106481.html 没有解析出数据！
+2019-04-04 09:43:16,697    https://news.58che.com/slide/1105293.html 没有解析出数据！
+2019-04-04 09:43:19,791    https://news.58che.com/slide/1100126.html 没有解析出数据！
+2019-04-04 09:43:21,166    https://news.58che.com/slide/1100121.html 没有解析出数据！
+2019-04-04 09:45:21,180    https://news.58che.com/news/2175365.html 下载出错！
+2019-04-04 09:45:21,180    https://news.58che.com/news/2175365.html 没有解析出任何数据！
+2019-04-04 09:45:21,180    https://news.58che.com/news/2175365.html 没有解析出数据！
+2019-04-04 09:46:38,148    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-04 09:47:41,038    https://news.58che.com/news/2174917.html 下载出错！
+2019-04-04 09:47:41,038    https://news.58che.com/news/2174917.html 没有解析出任何数据！
+2019-04-04 09:47:41,053    https://news.58che.com/news/2174917.html 没有解析出数据！
+2019-04-04 09:48:03,787    https://news.58che.com/news/2174856.html 下载出错！
+2019-04-04 09:48:03,787    https://news.58che.com/news/2174856.html 没有解析出任何数据！
+2019-04-04 09:48:03,787    https://news.58che.com/news/2174856.html 没有解析出数据！
+2019-04-04 09:49:03,693    https://news.58che.com/news/2141043.html 下载出错！
+2019-04-04 09:49:03,693    https://news.58che.com/news/2141043.html 没有解析出任何数据！
+2019-04-04 09:49:03,693    https://news.58che.com/news/2141043.html 没有解析出数据！
+2019-04-04 09:50:11,661    https://news.58che.com/slide/1798427.html 没有解析出数据！
+2019-04-04 09:54:27,282    https://news.58che.com/news/2117101.html 下载出错！
+2019-04-04 09:54:27,298    https://news.58che.com/news/2117101.html 没有解析出任何数据！
+2019-04-04 09:54:27,298    https://news.58che.com/news/2117101.html 没有解析出数据！
+2019-04-04 09:54:32,298    https://news.58che.com/news/2117630.html 下载出错！
+2019-04-04 09:54:32,376    https://news.58che.com/news/2117630.html 没有解析出任何数据！
+2019-04-04 09:54:32,423    https://news.58che.com/news/2117630.html 没有解析出数据！
+2019-04-04 09:54:50,220    https://news.58che.com/news/2114759.html 下载出错！
+2019-04-04 09:54:50,329    https://news.58che.com/news/2114759.html 没有解析出任何数据！
+2019-04-04 09:54:50,360    https://news.58che.com/news/2114759.html 没有解析出数据！
+2019-04-04 09:55:24,125    https://news.58che.com/news/2172657.html 下载出错！
+2019-04-04 09:55:24,141    https://news.58che.com/news/2172657.html 没有解析出任何数据！
+2019-04-04 09:55:24,141    https://news.58che.com/news/2172657.html 没有解析出数据！
+2019-04-04 09:56:25,078    https://news.58che.com/news/2112527.html 下载出错！
+2019-04-04 09:56:25,140    https://news.58che.com/news/2112527.html 没有解析出任何数据！
+2019-04-04 09:56:25,172    https://news.58che.com/news/2112527.html 没有解析出数据！
+2019-04-04 09:57:28,202    https://news.58che.com/news/2171683.html 下载出错！
+2019-04-04 09:57:28,249    https://news.58che.com/news/2171683.html 没有解析出任何数据！
+2019-04-04 09:57:28,280    https://news.58che.com/news/2171683.html 没有解析出数据！
+2019-04-04 09:58:38,154    https://news.58che.com/news/2104172.html 下载出错！
+2019-04-04 09:58:38,154    https://news.58che.com/news/2104172.html 没有解析出任何数据！
+2019-04-04 09:58:38,154    https://news.58che.com/news/2104172.html 没有解析出数据！
+2019-04-04 09:58:44,373    https://news.58che.com/news/2103288.html 下载出错！
+2019-04-04 09:58:44,373    https://news.58che.com/news/2103288.html 没有解析出任何数据！
+2019-04-04 09:58:44,373    https://news.58che.com/news/2103288.html 没有解析出数据！
+2019-04-04 09:59:30,747    https://news.58che.com/news/2097315.html 下载出错！
+2019-04-04 09:59:30,747    https://news.58che.com/news/2097315.html 没有解析出任何数据！
+2019-04-04 09:59:30,747    https://news.58che.com/news/2097315.html 没有解析出数据！
+2019-04-04 09:59:34,700    https://news.58che.com/news/2097121.html 下载出错！
+2019-04-04 09:59:34,700    https://news.58che.com/news/2097121.html 没有解析出任何数据！
+2019-04-04 09:59:34,700    https://news.58che.com/news/2097121.html 没有解析出数据！
+2019-04-04 09:59:50,185    https://news.58che.com/news/2170004.html 下载出错！
+2019-04-04 09:59:50,216    https://news.58che.com/news/2170004.html 没有解析出任何数据！
+2019-04-04 09:59:50,325    https://news.58che.com/news/2170004.html 没有解析出数据！
+2019-04-04 10:06:21,596    https://news.58che.com/news/2168992.html 下载出错！
+2019-04-04 10:06:21,621    https://news.58che.com/news/2168992.html 没有解析出任何数据！
+2019-04-04 10:06:21,627    https://news.58che.com/news/2168992.html 没有解析出数据！
+2019-04-04 10:06:50,518    https://news.58che.com/news/2082260.html 下载出错！
+2019-04-04 10:06:50,542    https://news.58che.com/news/2082260.html 没有解析出任何数据！
+2019-04-04 10:06:50,559    https://news.58che.com/news/2082260.html 没有解析出数据！
+2019-04-04 10:07:00,414    https://news.58che.com/news/2168823.html 下载出错！
+2019-04-04 10:07:00,438    https://news.58che.com/news/2168823.html 没有解析出任何数据！
+2019-04-04 10:07:00,449    https://news.58che.com/news/2168823.html 没有解析出数据！
+2019-04-04 10:09:46,485    https://news.58che.com/news/2168350.html 下载出错！
+2019-04-04 10:09:46,485    https://news.58che.com/news/2168350.html 没有解析出任何数据！
+2019-04-04 10:09:46,486    https://news.58che.com/news/2168350.html 没有解析出数据！
+2019-04-04 10:10:16,737    https://news.58che.com/news/2081890.html 下载出错！
+2019-04-04 10:10:16,799    https://news.58che.com/news/2081890.html 没有解析出任何数据！
+2019-04-04 10:10:16,799    https://news.58che.com/news/2081890.html 没有解析出数据！
+2019-04-04 10:15:03,277    https://news.58che.com/news/2078177.html 下载出错！
+2019-04-04 10:15:03,277    https://news.58che.com/news/2078177.html 没有解析出任何数据！
+2019-04-04 10:15:03,278    https://news.58che.com/news/2078177.html 没有解析出数据！
+2019-04-04 10:15:23,469    https://news.58che.com/news/2167366.html 下载出错！
+2019-04-04 10:15:23,469    https://news.58che.com/news/2167366.html 没有解析出任何数据！
+2019-04-04 10:15:23,469    https://news.58che.com/news/2167366.html 没有解析出数据！
+2019-04-04 10:15:37,583    https://news.58che.com/news/2075454.html 下载出错！
+2019-04-04 10:15:37,583    https://news.58che.com/news/2075454.html 没有解析出任何数据！
+2019-04-04 10:15:37,584    https://news.58che.com/news/2075454.html 没有解析出数据！
+2019-04-04 10:16:01,201    https://news.58che.com/news/2167161.html 下载出错！
+2019-04-04 10:16:01,202    https://news.58che.com/news/2167161.html 没有解析出任何数据！
+2019-04-04 10:16:01,202    https://news.58che.com/news/2167161.html 没有解析出数据！
+2019-04-04 10:16:45,164    https://news.58che.com/news/2073536.html 下载出错！
+2019-04-04 10:16:45,165    https://news.58che.com/news/2073536.html 没有解析出任何数据！
+2019-04-04 10:16:45,165    https://news.58che.com/news/2073536.html 没有解析出数据！
+2019-04-04 10:17:08,479    https://news.58che.com/news/2166273.html 下载出错！
+2019-04-04 10:17:08,480    https://news.58che.com/news/2166273.html 没有解析出任何数据！
+2019-04-04 10:17:08,480    https://news.58che.com/news/2166273.html 没有解析出数据！
+2019-04-04 10:17:29,686    https://news.58che.com/news/2070788.html 下载出错！
+2019-04-04 10:17:29,686    https://news.58che.com/news/2070788.html 没有解析出任何数据！
+2019-04-04 10:17:29,687    https://news.58che.com/news/2070788.html 没有解析出数据！
+2019-04-04 10:18:31,615    https://news.58che.com/news/2165611.html 下载出错！
+2019-04-04 10:18:31,616    https://news.58che.com/news/2165611.html 没有解析出任何数据！
+2019-04-04 10:18:31,617    https://news.58che.com/news/2165611.html 没有解析出数据！
+2019-04-04 10:21:05,249    https://news.58che.com/news/2163722.html 下载出错！
+2019-04-04 10:21:05,250    https://news.58che.com/news/2163722.html 没有解析出任何数据！
+2019-04-04 10:21:05,250    https://news.58che.com/news/2163722.html 没有解析出数据！
+2019-04-04 10:21:56,087    https://news.58che.com/news/2055371.html 下载出错！
+2019-04-04 10:21:56,087    https://news.58che.com/news/2055371.html 没有解析出任何数据！
+2019-04-04 10:21:56,088    https://news.58che.com/news/2055371.html 没有解析出数据！
+2019-04-04 10:22:45,958    https://news.58che.com/news/2053602.html 下载出错！
+2019-04-04 10:22:45,958    https://news.58che.com/news/2053602.html 没有解析出任何数据！
+2019-04-04 10:22:45,959    https://news.58che.com/news/2053602.html 没有解析出数据！
+2019-04-04 10:23:06,600    https://news.58che.com/news/2162094.html 下载出错！
+2019-04-04 10:23:06,601    https://news.58che.com/news/2162094.html 没有解析出任何数据！
+2019-04-04 10:23:06,601    https://news.58che.com/news/2162094.html 没有解析出数据！
+2019-04-04 10:23:16,278    https://news.58che.com/news/2052801.html 下载出错！
+2019-04-04 10:23:16,279    https://news.58che.com/news/2052801.html 没有解析出任何数据！
+2019-04-04 10:23:16,279    https://news.58che.com/news/2052801.html 没有解析出数据！
+2019-04-04 10:24:55,918    https://news.58che.com/news/2047931.html 下载出错！
+2019-04-04 10:24:55,941    https://news.58che.com/news/2047931.html 没有解析出任何数据！
+2019-04-04 10:24:55,953    https://news.58che.com/news/2047931.html 没有解析出数据！
+2019-04-04 10:25:10,851    https://news.58che.com/news/2044534.html 下载出错！
+2019-04-04 10:25:10,874    https://news.58che.com/news/2044534.html 没有解析出任何数据！
+2019-04-04 10:25:10,892    https://news.58che.com/news/2044534.html 没有解析出数据！
+2019-04-04 10:26:41,137    https://news.58che.com/news/2159539.html 下载出错！
+2019-04-04 10:26:41,234    https://news.58che.com/news/2159539.html 没有解析出任何数据！
+2019-04-04 10:26:41,243    https://news.58che.com/news/2159539.html 没有解析出数据！
+2019-04-04 10:28:29,370    https://news.58che.com/news/2034601.html 下载出错！
+2019-04-04 10:28:29,371    https://news.58che.com/news/2034601.html 没有解析出任何数据！
+2019-04-04 10:28:29,371    https://news.58che.com/news/2034601.html 没有解析出数据！
+2019-04-04 10:31:18,730    https://news.58che.com/news/2156842.html 下载出错！
+2019-04-04 10:31:18,731    https://news.58che.com/news/2156842.html 没有解析出任何数据！
+2019-04-04 10:31:18,731    https://news.58che.com/news/2156842.html 没有解析出数据！
+2019-04-04 10:33:54,623    https://news.58che.com/news/2025633.html 下载出错！
+2019-04-04 10:33:54,624    https://news.58che.com/news/2025633.html 没有解析出任何数据！
+2019-04-04 10:33:54,626    https://news.58che.com/news/2025633.html 没有解析出数据！
+2019-04-04 10:35:19,732    https://news.58che.com/news/2155662.html 下载出错！
+2019-04-04 10:35:19,733    https://news.58che.com/news/2155662.html 没有解析出任何数据！
+2019-04-04 10:35:19,733    https://news.58che.com/news/2155662.html 没有解析出数据！
+2019-04-04 10:35:51,699    https://news.58che.com/news/2155540.html 下载出错！
+2019-04-04 10:35:51,700    https://news.58che.com/news/2155540.html 没有解析出任何数据！
+2019-04-04 10:35:51,700    https://news.58che.com/news/2155540.html 没有解析出数据！
+2019-04-04 10:42:54,805    https://news.58che.com/news/2151440.html 下载出错！
+2019-04-04 10:42:54,805    https://news.58che.com/news/2151440.html 没有解析出任何数据！
+2019-04-04 10:42:54,806    https://news.58che.com/news/2151440.html 没有解析出数据！
+2019-04-04 10:51:44,954    https://news.58che.com/news/2151287.html 下载出错！
+2019-04-04 10:51:44,954    https://news.58che.com/news/2151287.html 没有解析出任何数据！
+2019-04-04 10:51:44,954    https://news.58che.com/news/2151287.html 没有解析出数据！
+2019-04-04 10:52:12,838    https://news.58che.com/news/1987568.html 下载出错！
+2019-04-04 10:52:12,839    https://news.58che.com/news/1987568.html 没有解析出任何数据！
+2019-04-04 10:52:12,839    https://news.58che.com/news/1987568.html 没有解析出数据！
+2019-04-04 10:58:55,776    https://news.58che.com/news/2150863.html 下载出错！
+2019-04-04 10:58:55,777    https://news.58che.com/news/2150863.html 没有解析出任何数据！
+2019-04-04 10:58:55,777    https://news.58che.com/news/2150863.html 没有解析出数据！
+2019-04-04 10:59:26,618    https://news.58che.com/news/1980920.html 下载出错！
+2019-04-04 10:59:26,618    https://news.58che.com/news/1980920.html 没有解析出任何数据！
+2019-04-04 10:59:26,619    https://news.58che.com/news/1980920.html 没有解析出数据！
+2019-04-04 11:02:51,273    https://news.58che.com/news/2150512.html 下载出错！
+2019-04-04 11:02:51,273    https://news.58che.com/news/2150512.html 没有解析出任何数据！
+2019-04-04 11:02:51,273    https://news.58che.com/news/2150512.html 没有解析出数据！
+2019-04-04 11:11:33,682    https://news.58che.com/news/1965180.html 下载出错！
+2019-04-04 11:11:33,682    https://news.58che.com/news/1965180.html 没有解析出任何数据！
+2019-04-04 11:11:33,683    https://news.58che.com/news/1965180.html 没有解析出数据！
+2019-04-04 11:16:54,174    https://news.58che.com/news/2142410.html 下载出错！
+2019-04-04 11:16:54,174    https://news.58che.com/news/2142410.html 没有解析出任何数据！
+2019-04-04 11:16:54,175    https://news.58che.com/news/2142410.html 没有解析出数据！
+2019-04-04 11:21:05,466    https://news.58che.com/news/2136626.html 下载出错！
+2019-04-04 11:21:05,467    https://news.58che.com/news/2136626.html 没有解析出任何数据！
+2019-04-04 11:21:05,467    https://news.58che.com/news/2136626.html 没有解析出数据！
+2019-04-04 11:21:07,885    https://news.58che.com/news/2136378.html 下载出错！
+2019-04-04 11:21:07,888    https://news.58che.com/news/2136378.html 没有解析出任何数据！
+2019-04-04 11:21:07,888    https://news.58che.com/news/2136378.html 没有解析出数据！
+2019-04-04 11:21:56,425    https://news.58che.com/news/2135166.html 下载出错！
+2019-04-04 11:21:56,425    https://news.58che.com/news/2135166.html 没有解析出任何数据！
+2019-04-04 11:21:56,425    https://news.58che.com/news/2135166.html 没有解析出数据！
+2019-04-04 11:22:02,722    https://news.58che.com/news/2134930.html 下载出错！
+2019-04-04 11:22:02,740    https://news.58che.com/news/2134930.html 没有解析出任何数据！
+2019-04-04 11:22:02,752    https://news.58che.com/news/2134930.html 没有解析出数据！
+2019-04-04 11:22:17,450    https://news.58che.com/news/1921334.html 下载出错！
+2019-04-04 11:22:17,451    https://news.58che.com/news/1921334.html 没有解析出任何数据！
+2019-04-04 11:22:17,451    https://news.58che.com/news/1921334.html 没有解析出数据！
+2019-04-04 11:22:23,501    https://news.58che.com/news/1918751.html 下载出错！
+2019-04-04 11:22:23,502    https://news.58che.com/news/1918751.html 没有解析出任何数据！
+2019-04-04 11:22:23,502    https://news.58che.com/news/1918751.html 没有解析出数据！
+2019-04-04 11:24:20,548    https://news.58che.com/news/1903145.html 下载出错！
+2019-04-04 11:24:20,574    https://news.58che.com/news/1903145.html 没有解析出任何数据！
+2019-04-04 11:24:20,617    https://news.58che.com/news/1903145.html 没有解析出数据！
+2019-04-04 11:24:30,445    https://news.58che.com/news/1901907.html 下载出错！
+2019-04-04 11:24:30,447    https://news.58che.com/news/1901907.html 没有解析出任何数据！
+2019-04-04 11:24:30,447    https://news.58che.com/news/1901907.html 没有解析出数据！
+2019-04-04 11:25:15,752    https://news.58che.com/news/1896307.html 下载出错！
+2019-04-04 11:25:15,753    https://news.58che.com/news/1896307.html 没有解析出任何数据！
+2019-04-04 11:25:15,753    https://news.58che.com/news/1896307.html 没有解析出数据！
+2019-04-04 11:26:46,559    https://news.58che.com/news/2129317.html 下载出错！
+2019-04-04 11:26:46,560    https://news.58che.com/news/2129317.html 没有解析出任何数据！
+2019-04-04 11:26:46,560    https://news.58che.com/news/2129317.html 没有解析出数据！
+2019-04-04 11:32:46,029    https://news.58che.com/news/2126382.html 下载出错！
+2019-04-04 11:32:46,053    https://news.58che.com/news/2126382.html 没有解析出任何数据！
+2019-04-04 11:32:46,064    https://news.58che.com/news/2126382.html 没有解析出数据！
+2019-04-04 11:35:06,821    https://news.58che.com/news/2125912.html 下载出错！
+2019-04-04 11:35:06,822    https://news.58che.com/news/2125912.html 没有解析出任何数据！
+2019-04-04 11:35:06,822    https://news.58che.com/news/2125912.html 没有解析出数据！
+2019-04-04 11:35:39,789    https://news.58che.com/news/1858056.html 下载出错！
+2019-04-04 11:35:39,790    https://news.58che.com/news/1858056.html 没有解析出任何数据！
+2019-04-04 11:35:39,790    https://news.58che.com/news/1858056.html 没有解析出数据！
+2019-04-04 11:35:41,511    https://news.58che.com/news/1857980.html 下载出错！
+2019-04-04 11:35:41,512    https://news.58che.com/news/1857980.html 没有解析出任何数据！
+2019-04-04 11:35:41,512    https://news.58che.com/news/1857980.html 没有解析出数据！
+2019-04-04 11:38:50,885    https://news.58che.com/news/1837755.html 下载出错！
+2019-04-04 11:38:50,886    https://news.58che.com/news/1837755.html 没有解析出任何数据！
+2019-04-04 11:38:50,886    https://news.58che.com/news/1837755.html 没有解析出数据！
+2019-04-04 11:39:09,732    https://news.58che.com/news/2124044.html 下载出错！
+2019-04-04 11:39:09,767    https://news.58che.com/news/2124044.html 没有解析出任何数据！
+2019-04-04 11:39:09,804    https://news.58che.com/news/2124044.html 没有解析出数据！
+2019-04-04 11:39:13,959    https://news.58che.com/news/2123907.html 下载出错！
+2019-04-04 11:39:13,960    https://news.58che.com/news/2123907.html 没有解析出任何数据！
+2019-04-04 11:39:13,960    https://news.58che.com/news/2123907.html 没有解析出数据！
+2019-04-04 11:39:34,157    https://news.58che.com/news/1829246.html 下载出错！
+2019-04-04 11:39:34,212    https://news.58che.com/news/1829246.html 没有解析出任何数据！
+2019-04-04 11:39:34,223    https://news.58che.com/news/1829246.html 没有解析出数据！
+2019-04-04 11:39:51,204    https://news.58che.com/news/2123278.html 下载出错！
+2019-04-04 11:39:51,205    https://news.58che.com/news/2123278.html 没有解析出任何数据！
+2019-04-04 11:39:51,205    https://news.58che.com/news/2123278.html 没有解析出数据！
+2019-04-04 11:40:07,297    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-04 11:40:24,714    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-04 11:41:08,502    https://news.58che.com/news/1809854.html 下载出错！
+2019-04-04 11:41:08,502    https://news.58che.com/news/1809854.html 没有解析出任何数据！
+2019-04-04 11:41:08,503    https://news.58che.com/news/1809854.html 没有解析出数据！
+2019-04-05 08:59:11,724    https://news.58che.com/news/2182453.html 下载出错！
+2019-04-05 08:59:11,724    https://news.58che.com/news/2182453.html 没有解析出任何数据！
+2019-04-05 08:59:11,724    https://news.58che.com/news/2182453.html 没有解析出数据！
+2019-04-05 09:00:00,615    https://news.58che.com/news/2156969.html 下载出错！
+2019-04-05 09:00:00,615    https://news.58che.com/news/2156969.html 没有解析出任何数据！
+2019-04-05 09:00:00,615    https://news.58che.com/news/2156969.html 没有解析出数据！
+2019-04-05 09:00:22,865    https://news.58che.com/news/2151474.html 下载出错！
+2019-04-05 09:00:22,865    https://news.58che.com/news/2151474.html 没有解析出任何数据！
+2019-04-05 09:00:22,865    https://news.58che.com/news/2151474.html 没有解析出数据！
+2019-04-05 09:02:14,913    https://news.58che.com/news/2179247.html 下载出错！
+2019-04-05 09:02:14,913    https://news.58che.com/news/2179247.html 没有解析出任何数据！
+2019-04-05 09:02:14,913    https://news.58che.com/news/2179247.html 没有解析出数据！
+2019-04-05 09:02:36,210    https://news.58che.com/news/2176293.html 下载出错！
+2019-04-05 09:02:36,241    https://news.58che.com/news/2176293.html 没有解析出任何数据！
+2019-04-05 09:02:36,272    https://news.58che.com/news/2176293.html 没有解析出数据！
+2019-04-05 09:03:46,085    https://news.58che.com/news/2178671.html 下载出错！
+2019-04-05 09:03:46,085    https://news.58che.com/news/2178671.html 没有解析出任何数据！
+2019-04-05 09:03:46,085    https://news.58che.com/news/2178671.html 没有解析出数据！
+2019-04-05 09:05:15,054    https://news.58che.com/news/2172655.html 下载出错！
+2019-04-05 09:05:15,054    https://news.58che.com/news/2172655.html 没有解析出任何数据！
+2019-04-05 09:05:15,054    https://news.58che.com/news/2172655.html 没有解析出数据！
+2019-04-05 09:07:04,461    https://news.58che.com/news/2171901.html 下载出错！
+2019-04-05 09:07:04,461    https://news.58che.com/news/2171901.html 没有解析出任何数据！
+2019-04-05 09:07:04,461    https://news.58che.com/news/2171901.html 没有解析出数据！
+2019-04-05 09:07:45,618    https://news.58che.com/news/2177784.html 下载出错！
+2019-04-05 09:07:45,618    https://news.58che.com/news/2177784.html 没有解析出任何数据！
+2019-04-05 09:07:45,618    https://news.58che.com/news/2177784.html 没有解析出数据！
+2019-04-05 09:09:09,900    https://news.58che.com/news/2170381.html 下载出错！
+2019-04-05 09:09:09,900    https://news.58che.com/news/2170381.html 没有解析出任何数据！
+2019-04-05 09:09:09,900    https://news.58che.com/news/2170381.html 没有解析出数据！
+2019-04-05 09:09:24,869    https://news.58che.com/news/2169811.html 下载出错！
+2019-04-05 09:09:24,869    https://news.58che.com/news/2169811.html 没有解析出任何数据！
+2019-04-05 09:09:24,869    https://news.58che.com/news/2169811.html 没有解析出数据！
+2019-04-05 09:09:40,853    https://news.58che.com/news/1634857.html 下载出错！
+2019-04-05 09:09:40,884    https://news.58che.com/news/1634857.html 没有解析出任何数据！
+2019-04-05 09:09:40,884    https://news.58che.com/news/1634857.html 没有解析出数据！
+2019-04-05 09:14:03,011    https://news.58che.com/news/2168853.html 下载出错！
+2019-04-05 09:14:03,011    https://news.58che.com/news/2168853.html 没有解析出任何数据！
+2019-04-05 09:14:03,011    https://news.58che.com/news/2168853.html 没有解析出数据！
+2019-04-05 09:16:42,715    https://news.58che.com/news/1619784.html 下载出错！
+2019-04-05 09:16:42,715    https://news.58che.com/news/1619784.html 没有解析出任何数据！
+2019-04-05 09:16:42,715    https://news.58che.com/news/1619784.html 没有解析出数据！
+2019-04-05 09:43:02,038    https://news.58che.com/news/2161604.html 下载出错！
+2019-04-05 09:43:02,163    https://news.58che.com/news/2161604.html 没有解析出任何数据！
+2019-04-05 09:43:02,194    https://news.58che.com/news/2161604.html 没有解析出数据！
+2019-04-05 09:45:15,601    https://news.58che.com/news/2176623.html 下载出错！
+2019-04-05 09:45:15,601    https://news.58che.com/news/2176623.html 没有解析出任何数据！
+2019-04-05 09:45:15,601    https://news.58che.com/news/2176623.html 没有解析出数据！
+2019-04-05 09:45:49,336    https://news.58che.com/news/2158067.html 下载出错！
+2019-04-05 09:45:49,336    https://news.58che.com/news/2158067.html 没有解析出任何数据！
+2019-04-05 09:45:49,336    https://news.58che.com/news/2158067.html 没有解析出数据！
+2019-04-05 09:46:15,680    https://news.58che.com/slide/1134820.html 没有解析出数据！
+2019-04-05 09:47:06,805    https://news.58che.com/news/2156671.html 下载出错！
+2019-04-05 09:47:06,805    https://news.58che.com/news/2156671.html 没有解析出任何数据！
+2019-04-05 09:47:06,805    https://news.58che.com/news/2156671.html 没有解析出数据！
+2019-04-05 09:47:18,633    https://news.58che.com/slide/1116386.html 没有解析出数据！
+2019-04-05 09:47:19,164    https://news.58che.com/slide/1106481.html 没有解析出数据！
+2019-04-05 09:47:21,008    https://news.58che.com/slide/1105293.html 没有解析出数据！
+2019-04-05 09:47:24,680    https://news.58che.com/slide/1100126.html 没有解析出数据！
+2019-04-05 09:47:25,430    https://news.58che.com/slide/1100121.html 没有解析出数据！
+2019-04-05 09:47:43,071    https://news.58che.com/news/2175979.html 下载出错！
+2019-04-05 09:47:43,071    https://news.58che.com/news/2175979.html 没有解析出任何数据！
+2019-04-05 09:47:43,071    https://news.58che.com/news/2175979.html 没有解析出数据！
+2019-04-05 09:48:38,352    https://news.58che.com/news/1080971.html 下载出错！
+2019-04-05 09:48:38,352    https://news.58che.com/news/1080971.html 没有解析出任何数据！
+2019-04-05 09:48:38,352    https://news.58che.com/news/1080971.html 没有解析出数据！
+2019-04-05 09:49:36,478    https://news.58che.com/news/2152893.html 下载出错！
+2019-04-05 09:49:36,478    https://news.58che.com/news/2152893.html 没有解析出任何数据！
+2019-04-05 09:49:36,478    https://news.58che.com/news/2152893.html 没有解析出数据！
+2019-04-05 09:50:01,900    https://news.58che.com/news/999946.html 下载出错！
+2019-04-05 09:50:01,900    https://news.58che.com/news/999946.html 没有解析出任何数据！
+2019-04-05 09:50:01,900    https://news.58che.com/news/999946.html 没有解析出数据！
+2019-04-05 09:50:28,166    https://news.58che.com/news/2175282.html 下载出错！
+2019-04-05 09:50:28,166    https://news.58che.com/news/2175282.html 没有解析出任何数据！
+2019-04-05 09:50:28,166    https://news.58che.com/news/2175282.html 没有解析出数据！
+2019-04-05 09:50:37,697    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-05 09:51:54,713    https://news.58che.com/news/2174860.html 下载出错！
+2019-04-05 09:51:54,916    https://news.58che.com/news/2174860.html 没有解析出任何数据！
+2019-04-05 09:51:54,947    https://news.58che.com/news/2174860.html 没有解析出数据！
+2019-04-05 09:52:24,276    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-05 09:53:55,667    https://news.58che.com/news/2138308.html 下载出错！
+2019-04-05 09:53:55,823    https://news.58che.com/news/2138308.html 没有解析出任何数据！
+2019-04-05 09:53:55,870    https://news.58che.com/news/2138308.html 没有解析出数据！
+2019-04-05 09:54:34,292    https://news.58che.com/news/2173733.html 下载出错！
+2019-04-05 09:54:34,292    https://news.58che.com/news/2173733.html 没有解析出任何数据！
+2019-04-05 09:54:34,292    https://news.58che.com/news/2173733.html 没有解析出数据！
+2019-04-05 09:54:45,105    https://news.58che.com/slide/1798427.html 没有解析出数据！
+2019-04-05 09:56:17,387    https://news.58che.com/news/2173166.html 下载出错！
+2019-04-05 09:56:17,387    https://news.58che.com/news/2173166.html 没有解析出任何数据！
+2019-04-05 09:56:17,387    https://news.58che.com/news/2173166.html 没有解析出数据！
+2019-04-05 09:56:34,105    https://news.58che.com/news/2126184.html 下载出错！
+2019-04-05 09:56:34,105    https://news.58che.com/news/2126184.html 没有解析出任何数据！
+2019-04-05 09:56:34,105    https://news.58che.com/news/2126184.html 没有解析出数据！
+2019-04-05 09:56:46,090    https://news.58che.com/news/2173060.html 下载出错！
+2019-04-05 09:56:46,152    https://news.58che.com/news/2173060.html 没有解析出任何数据！
+2019-04-05 09:56:46,152    https://news.58che.com/news/2173060.html 没有解析出数据！
+2019-04-05 09:57:08,918    https://news.58che.com/news/2172968.html 下载出错！
+2019-04-05 09:57:08,918    https://news.58che.com/news/2172968.html 没有解析出任何数据！
+2019-04-05 09:57:08,918    https://news.58che.com/news/2172968.html 没有解析出数据！
+2019-04-05 09:57:35,262    https://news.58che.com/news/2120324.html 下载出错！
+2019-04-05 09:57:35,262    https://news.58che.com/news/2120324.html 没有解析出任何数据！
+2019-04-05 09:57:35,262    https://news.58che.com/news/2120324.html 没有解析出数据！
+2019-04-05 09:57:39,309    https://news.58che.com/news/2120188.html 下载出错！
+2019-04-05 09:57:39,309    https://news.58che.com/news/2120188.html 没有解析出任何数据！
+2019-04-05 09:57:39,309    https://news.58che.com/news/2120188.html 没有解析出数据！
+2019-04-05 09:58:42,731    https://news.58che.com/news/2172859.html 下载出错！
+2019-04-05 09:58:42,731    https://news.58che.com/news/2172859.html 没有解析出任何数据！
+2019-04-05 09:58:42,731    https://news.58che.com/news/2172859.html 没有解析出数据！
+2019-04-05 10:00:16,496    https://news.58che.com/news/2115953.html 下载出错！
+2019-04-05 10:00:16,574    https://news.58che.com/news/2115953.html 没有解析出任何数据！
+2019-04-05 10:00:16,637    https://news.58che.com/news/2115953.html 没有解析出数据！
+2019-04-05 10:00:23,184    https://news.58che.com/news/2115215.html 下载出错！
+2019-04-05 10:00:23,184    https://news.58che.com/news/2115215.html 没有解析出任何数据！
+2019-04-05 10:00:23,184    https://news.58che.com/news/2115215.html 没有解析出数据！
+2019-04-05 10:00:56,546    https://news.58che.com/news/2114764.html 下载出错！
+2019-04-05 10:00:56,546    https://news.58che.com/news/2114764.html 没有解析出任何数据！
+2019-04-05 10:00:56,546    https://news.58che.com/news/2114764.html 没有解析出数据！
+2019-04-05 10:01:58,182    https://news.58che.com/news/2114222.html 下载出错！
+2019-04-05 10:01:58,183    https://news.58che.com/news/2114222.html 没有解析出任何数据！
+2019-04-05 10:01:58,183    https://news.58che.com/news/2114222.html 没有解析出数据！
+2019-04-05 10:06:46,042    https://news.58che.com/news/2111803.html 下载出错！
+2019-04-05 10:06:46,042    https://news.58che.com/news/2111803.html 没有解析出任何数据！
+2019-04-05 10:06:46,043    https://news.58che.com/news/2111803.html 没有解析出数据！
+2019-04-05 10:08:11,271    https://news.58che.com/news/2171185.html 下载出错！
+2019-04-05 10:08:11,304    https://news.58che.com/news/2171185.html 没有解析出任何数据！
+2019-04-05 10:08:11,311    https://news.58che.com/news/2171185.html 没有解析出数据！
+2019-04-05 10:09:18,280    https://news.58che.com/news/2170421.html 下载出错！
+2019-04-05 10:09:18,280    https://news.58che.com/news/2170421.html 没有解析出任何数据！
+2019-04-05 10:09:18,281    https://news.58che.com/news/2170421.html 没有解析出数据！
+2019-04-05 10:09:42,221    https://news.58che.com/news/2100320.html 下载出错！
+2019-04-05 10:09:42,221    https://news.58che.com/news/2100320.html 没有解析出任何数据！
+2019-04-05 10:09:42,222    https://news.58che.com/news/2100320.html 没有解析出数据！
+2019-04-05 10:10:02,253    https://news.58che.com/news/2170018.html 下载出错！
+2019-04-05 10:10:02,253    https://news.58che.com/news/2170018.html 没有解析出任何数据！
+2019-04-05 10:10:02,254    https://news.58che.com/news/2170018.html 没有解析出数据！
+2019-04-05 10:12:43,746    https://news.58che.com/news/2169034.html 下载出错！
+2019-04-05 10:12:43,747    https://news.58che.com/news/2169034.html 没有解析出任何数据！
+2019-04-05 10:12:43,747    https://news.58che.com/news/2169034.html 没有解析出数据！
+2019-04-05 10:13:23,841    https://news.58che.com/news/2168448.html 下载出错！
+2019-04-05 10:13:23,859    https://news.58che.com/news/2168448.html 没有解析出任何数据！
+2019-04-05 10:13:23,871    https://news.58che.com/news/2168448.html 没有解析出数据！
+2019-04-05 10:16:40,093    https://news.58che.com/news/2082151.html 下载出错！
+2019-04-05 10:16:40,093    https://news.58che.com/news/2082151.html 没有解析出任何数据！
+2019-04-05 10:16:40,093    https://news.58che.com/news/2082151.html 没有解析出数据！
+2019-04-05 10:19:03,992    https://news.58che.com/news/2081911.html 下载出错！
+2019-04-05 10:19:03,993    https://news.58che.com/news/2081911.html 没有解析出任何数据！
+2019-04-05 10:19:03,993    https://news.58che.com/news/2081911.html 没有解析出数据！
+2019-04-05 10:20:00,695    https://news.58che.com/news/2079676.html 下载出错！
+2019-04-05 10:20:00,696    https://news.58che.com/news/2079676.html 没有解析出任何数据！
+2019-04-05 10:20:00,696    https://news.58che.com/news/2079676.html 没有解析出数据！
+2019-04-05 10:22:03,429    https://news.58che.com/news/2167152.html 下载出错！
+2019-04-05 10:22:03,465    https://news.58che.com/news/2167152.html 没有解析出任何数据！
+2019-04-05 10:22:03,482    https://news.58che.com/news/2167152.html 没有解析出数据！
+2019-04-05 10:22:51,066    https://news.58che.com/news/2074143.html 下载出错！
+2019-04-05 10:22:51,083    https://news.58che.com/news/2074143.html 没有解析出任何数据！
+2019-04-05 10:22:51,095    https://news.58che.com/news/2074143.html 没有解析出数据！
+2019-04-05 10:25:33,500    https://news.58che.com/news/2065493.html 下载出错！
+2019-04-05 10:25:33,524    https://news.58che.com/news/2065493.html 没有解析出任何数据！
+2019-04-05 10:25:33,524    https://news.58che.com/news/2065493.html 没有解析出数据！
+2019-04-05 10:37:56,865    https://news.58che.com/news/2162125.html 下载出错！
+2019-04-05 10:37:56,866    https://news.58che.com/news/2162125.html 没有解析出任何数据！
+2019-04-05 10:37:56,866    https://news.58che.com/news/2162125.html 没有解析出数据！
+2019-04-05 10:38:01,057    https://news.58che.com/news/2162094.html 下载出错！
+2019-04-05 10:38:01,096    https://news.58che.com/news/2162094.html 没有解析出任何数据！
+2019-04-05 10:38:01,110    https://news.58che.com/news/2162094.html 没有解析出数据！
+2019-04-05 10:45:34,026    https://news.58che.com/news/2158884.html 下载出错！
+2019-04-05 10:45:34,044    https://news.58che.com/news/2158884.html 没有解析出任何数据！
+2019-04-05 10:45:34,058    https://news.58che.com/news/2158884.html 没有解析出数据！
+2019-04-05 10:46:34,216    https://news.58che.com/news/2159821.html 下载出错！
+2019-04-05 10:46:34,228    https://news.58che.com/news/2159821.html 没有解析出任何数据！
+2019-04-05 10:46:34,239    https://news.58che.com/news/2159821.html 没有解析出数据！
+2019-04-05 10:47:23,063    https://news.58che.com/news/2159582.html 下载出错！
+2019-04-05 10:47:23,063    https://news.58che.com/news/2159582.html 没有解析出任何数据！
+2019-04-05 10:47:23,063    https://news.58che.com/news/2159582.html 没有解析出数据！
+2019-04-05 10:47:51,457    https://news.58che.com/news/2040319.html 下载出错！
+2019-04-05 10:47:51,481    https://news.58che.com/news/2040319.html 没有解析出任何数据！
+2019-04-05 10:47:51,492    https://news.58che.com/news/2040319.html 没有解析出数据！
+2019-04-05 10:48:28,919    https://news.58che.com/news/2039252.html 下载出错！
+2019-04-05 10:48:29,001    https://news.58che.com/news/2039252.html 没有解析出任何数据！
+2019-04-05 10:48:29,008    https://news.58che.com/news/2039252.html 没有解析出数据！
+2019-04-05 10:49:15,644    https://news.58che.com/news/2158161.html 下载出错！
+2019-04-05 10:49:15,644    https://news.58che.com/news/2158161.html 没有解析出任何数据！
+2019-04-05 10:49:15,645    https://news.58che.com/news/2158161.html 没有解析出数据！
+2019-04-05 10:52:03,015    https://news.58che.com/news/2157857.html 下载出错！
+2019-04-05 10:52:03,016    https://news.58che.com/news/2157857.html 没有解析出任何数据！
+2019-04-05 10:52:03,016    https://news.58che.com/news/2157857.html 没有解析出数据！
+2019-04-05 10:53:06,282    https://news.58che.com/news/2030727.html 下载出错！
+2019-04-05 10:53:06,311    https://news.58che.com/news/2030727.html 没有解析出任何数据！
+2019-04-05 10:53:06,323    https://news.58che.com/news/2030727.html 没有解析出数据！
+2019-04-05 10:55:01,878    https://news.58che.com/news/2156209.html 下载出错！
+2019-04-05 10:55:01,992    https://news.58che.com/news/2156209.html 没有解析出任何数据！
+2019-04-05 10:55:02,013    https://news.58che.com/news/2156209.html 没有解析出数据！
+2019-04-05 11:03:55,470    https://news.58che.com/news/2022047.html 下载出错！
+2019-04-05 11:03:55,470    https://news.58che.com/news/2022047.html 没有解析出任何数据！
+2019-04-05 11:03:55,471    https://news.58che.com/news/2022047.html 没有解析出数据！
+2019-04-05 11:14:15,964    https://news.58che.com/news/2008659.html 下载出错！
+2019-04-05 11:14:15,964    https://news.58che.com/news/2008659.html 没有解析出任何数据！
+2019-04-05 11:14:15,964    https://news.58che.com/news/2008659.html 没有解析出数据！
+2019-04-05 11:14:25,375    https://news.58che.com/news/2004835.html 下载出错！
+2019-04-05 11:14:25,376    https://news.58che.com/news/2004835.html 没有解析出任何数据！
+2019-04-05 11:14:25,376    https://news.58che.com/news/2004835.html 没有解析出数据！
+2019-04-05 11:15:40,908    https://news.58che.com/news/2151377.html 下载出错！
+2019-04-05 11:15:40,931    https://news.58che.com/news/2151377.html 没有解析出任何数据！
+2019-04-05 11:15:40,955    https://news.58che.com/news/2151377.html 没有解析出数据！
+2019-04-05 11:16:55,477    https://news.58che.com/news/2151302.html 下载出错！
+2019-04-05 11:16:55,477    https://news.58che.com/news/2151302.html 没有解析出任何数据！
+2019-04-05 11:16:55,478    https://news.58che.com/news/2151302.html 没有解析出数据！
+2019-04-05 11:18:03,535    https://news.58che.com/news/1989906.html 下载出错！
+2019-04-05 11:18:03,536    https://news.58che.com/news/1989906.html 没有解析出任何数据！
+2019-04-05 11:18:03,536    https://news.58che.com/news/1989906.html 没有解析出数据！
+2019-04-05 11:18:12,571    https://news.58che.com/news/1988192.html 下载出错！
+2019-04-05 11:18:12,572    https://news.58che.com/news/1988192.html 没有解析出任何数据！
+2019-04-05 11:18:12,572    https://news.58che.com/news/1988192.html 没有解析出数据！
+2019-04-05 11:21:18,896    https://news.58che.com/news/2150547.html 下载出错！
+2019-04-05 11:21:18,897    https://news.58che.com/news/2150547.html 没有解析出任何数据！
+2019-04-05 11:21:18,897    https://news.58che.com/news/2150547.html 没有解析出数据！
+2019-04-05 11:22:43,866    https://news.58che.com/news/1974809.html 下载出错！
+2019-04-05 11:22:43,866    https://news.58che.com/news/1974809.html 没有解析出任何数据！
+2019-04-05 11:22:43,866    https://news.58che.com/news/1974809.html 没有解析出数据！
+2019-04-05 11:24:01,773    https://news.58che.com/news/1971505.html 下载出错！
+2019-04-05 11:24:01,773    https://news.58che.com/news/1971505.html 没有解析出任何数据！
+2019-04-05 11:24:01,774    https://news.58che.com/news/1971505.html 没有解析出数据！
+2019-04-05 11:24:12,435    https://news.58che.com/news/1971576.html 下载出错！
+2019-04-05 11:24:12,436    https://news.58che.com/news/1971576.html 没有解析出任何数据！
+2019-04-05 11:24:12,436    https://news.58che.com/news/1971576.html 没有解析出数据！
+2019-04-05 11:25:35,621    https://news.58che.com/news/2147426.html 下载出错！
+2019-04-05 11:25:35,622    https://news.58che.com/news/2147426.html 没有解析出任何数据！
+2019-04-05 11:25:35,622    https://news.58che.com/news/2147426.html 没有解析出数据！
+2019-04-05 11:34:25,690    https://news.58che.com/news/1950620.html 下载出错！
+2019-04-05 11:34:25,690    https://news.58che.com/news/1950620.html 没有解析出任何数据！
+2019-04-05 11:34:25,690    https://news.58che.com/news/1950620.html 没有解析出数据！
+2019-04-05 11:35:10,441    https://news.58che.com/news/1948392.html 下载出错！
+2019-04-05 11:35:10,464    https://news.58che.com/news/1948392.html 没有解析出任何数据！
+2019-04-05 11:35:10,476    https://news.58che.com/news/1948392.html 没有解析出数据！
+2019-04-05 11:35:24,356    https://news.58che.com/news/2143529.html 下载出错！
+2019-04-05 11:35:24,357    https://news.58che.com/news/2143529.html 没有解析出任何数据！
+2019-04-05 11:35:24,357    https://news.58che.com/news/2143529.html 没有解析出数据！
+2019-04-05 11:35:50,274    https://news.58che.com/news/1946237.html 下载出错！
+2019-04-05 11:35:50,274    https://news.58che.com/news/1946237.html 没有解析出任何数据！
+2019-04-05 11:35:50,274    https://news.58che.com/news/1946237.html 没有解析出数据！
+2019-04-05 11:37:07,956    https://news.58che.com/news/2141785.html 下载出错！
+2019-04-05 11:37:07,956    https://news.58che.com/news/2141785.html 没有解析出任何数据！
+2019-04-05 11:37:07,957    https://news.58che.com/news/2141785.html 没有解析出数据！
+2019-04-05 11:38:11,480    https://news.58che.com/news/1941786.html 下载出错！
+2019-04-05 11:38:11,481    https://news.58che.com/news/1941786.html 没有解析出任何数据！
+2019-04-05 11:38:11,481    https://news.58che.com/news/1941786.html 没有解析出数据！
+2019-04-05 11:41:01,014    https://news.58che.com/news/1935834.html 下载出错！
+2019-04-05 11:41:01,014    https://news.58che.com/news/1935834.html 没有解析出任何数据！
+2019-04-05 11:41:01,014    https://news.58che.com/news/1935834.html 没有解析出数据！
+2019-04-05 11:43:06,289    https://news.58che.com/news/2136364.html 下载出错！
+2019-04-05 11:43:06,289    https://news.58che.com/news/2136364.html 没有解析出任何数据！
+2019-04-05 11:43:06,289    https://news.58che.com/news/2136364.html 没有解析出数据！
+2019-04-05 11:46:45,927    https://news.58che.com/news/1911036.html 下载出错！
+2019-04-05 11:46:45,993    https://news.58che.com/news/1911036.html 没有解析出任何数据！
+2019-04-05 11:46:46,013    https://news.58che.com/news/1911036.html 没有解析出数据！
+2019-04-05 11:52:48,326    https://news.58che.com/news/2126821.html 下载出错！
+2019-04-05 11:52:48,327    https://news.58che.com/news/2126821.html 没有解析出任何数据！
+2019-04-05 11:52:48,327    https://news.58che.com/news/2126821.html 没有解析出数据！
+2019-04-05 11:56:00,650    https://news.58che.com/news/1879905.html 下载出错！
+2019-04-05 11:56:00,650    https://news.58che.com/news/1879905.html 没有解析出任何数据！
+2019-04-05 11:56:00,650    https://news.58che.com/news/1879905.html 没有解析出数据！
+2019-04-05 11:58:18,299    https://news.58che.com/news/2125899.html 下载出错！
+2019-04-05 11:58:18,379    https://news.58che.com/news/2125899.html 没有解析出任何数据！
+2019-04-05 11:58:18,398    https://news.58che.com/news/2125899.html 没有解析出数据！
+2019-04-05 11:59:04,334    https://news.58che.com/news/1851757.html 下载出错！
+2019-04-05 11:59:04,335    https://news.58che.com/news/1851757.html 没有解析出任何数据！
+2019-04-05 11:59:04,335    https://news.58che.com/news/1851757.html 没有解析出数据！
+2019-04-05 12:00:54,556    https://news.58che.com/news/2125065.html 下载出错！
+2019-04-05 12:00:54,556    https://news.58che.com/news/2125065.html 没有解析出任何数据！
+2019-04-05 12:00:54,556    https://news.58che.com/news/2125065.html 没有解析出数据！
+2019-04-05 12:01:35,616    https://news.58che.com/news/1829246.html 下载出错！
+2019-04-05 12:01:35,616    https://news.58che.com/news/1829246.html 没有解析出任何数据！
+2019-04-05 12:01:35,616    https://news.58che.com/news/1829246.html 没有解析出数据！
+2019-04-05 12:01:57,596    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-05 12:02:22,899    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-05 12:02:53,834    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-05 12:02:58,764    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-08 00:29:30,464    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-08 00:41:57,803    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-08 00:42:02,568    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-08 09:00:42,534    https://news.58che.com/news/2182422.html 下载出错！
+2019-04-08 09:00:42,534    https://news.58che.com/news/2182422.html 没有解析出任何数据！
+2019-04-08 09:00:42,534    https://news.58che.com/news/2182422.html 没有解析出数据！
+2019-04-08 09:05:04,127    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-08 09:17:34,815    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-08 09:17:39,502    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-09 09:05:12,205    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-09 09:17:45,413    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-09 09:17:50,163    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-10 09:04:37,620    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-10 09:17:08,562    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-10 09:17:13,281    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-11 09:07:55,071    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-11 09:09:25,414    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-11 09:32:25,421    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-11 09:32:39,327    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-11 09:33:10,592    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-11 09:33:15,014    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-12 09:07:42,486    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-12 09:09:31,345    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-12 09:32:25,595    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-12 09:32:30,298    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-12 09:33:10,814    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-12 09:33:15,267    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-13 09:07:32,947    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-13 09:09:17,994    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-13 09:32:09,556    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-13 09:32:14,181    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-13 09:32:54,197    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-13 09:32:58,603    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-14 09:05:19,528    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-14 09:17:46,737    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-14 09:17:51,394    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-15 09:05:15,282    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-15 09:17:46,057    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-15 09:17:50,760    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-16 09:02:47,458    https://news.58che.com/news/2141203.html 下载出错！
+2019-04-16 09:02:47,520    https://news.58che.com/news/2141203.html 没有解析出任何数据！
+2019-04-16 09:02:47,536    https://news.58che.com/news/2141203.html 没有解析出数据！
+2019-04-16 09:06:35,784    https://news.58che.com/news/2101332.html 下载出错！
+2019-04-16 09:06:35,784    https://news.58che.com/news/2101332.html 没有解析出任何数据！
+2019-04-16 09:06:35,784    https://news.58che.com/news/2101332.html 没有解析出数据！
+2019-04-16 09:07:00,128    https://news.58che.com/news/2180615.html 下载出错！
+2019-04-16 09:07:00,128    https://news.58che.com/news/2180615.html 没有解析出任何数据！
+2019-04-16 09:07:00,128    https://news.58che.com/news/2180615.html 没有解析出数据！
+2019-04-16 09:07:28,268    https://news.58che.com/news/2176548.html 下载出错！
+2019-04-16 09:07:28,268    https://news.58che.com/news/2176548.html 没有解析出任何数据！
+2019-04-16 09:07:28,268    https://news.58che.com/news/2176548.html 没有解析出数据！
+2019-04-16 09:09:28,549    https://news.58che.com/news/2176293.html 下载出错！
+2019-04-16 09:09:28,549    https://news.58che.com/news/2176293.html 没有解析出任何数据！
+2019-04-16 09:09:28,549    https://news.58che.com/news/2176293.html 没有解析出数据！
+2019-04-16 09:09:32,611    https://news.58che.com/news/2176258.html 下载出错！
+2019-04-16 09:09:32,611    https://news.58che.com/news/2176258.html 没有解析出任何数据！
+2019-04-16 09:09:32,611    https://news.58che.com/news/2176258.html 没有解析出数据！
+2019-04-16 09:10:57,125    https://news.58che.com/news/2173064.html 下载出错！
+2019-04-16 09:10:57,125    https://news.58che.com/news/2173064.html 没有解析出任何数据！
+2019-04-16 09:10:57,125    https://news.58che.com/news/2173064.html 没有解析出数据！
+2019-04-16 09:13:44,653    https://news.58che.com/news/1704545.html 下载出错！
+2019-04-16 09:13:44,653    https://news.58che.com/news/1704545.html 没有解析出任何数据！
+2019-04-16 09:13:44,653    https://news.58che.com/news/1704545.html 没有解析出数据！
+2019-04-16 09:14:02,059    https://news.58che.com/news/1667281.html 下载出错！
+2019-04-16 09:14:02,059    https://news.58che.com/news/1667281.html 没有解析出任何数据！
+2019-04-16 09:14:02,059    https://news.58che.com/news/1667281.html 没有解析出数据！
+2019-04-16 09:14:10,965    https://news.58che.com/news/2179058.html 下载出错！
+2019-04-16 09:14:10,965    https://news.58che.com/news/2179058.html 没有解析出任何数据！
+2019-04-16 09:14:10,965    https://news.58che.com/news/2179058.html 没有解析出数据！
+2019-04-16 09:19:23,616    https://news.58che.com/news/1655318.html 下载出错！
+2019-04-16 09:19:23,616    https://news.58che.com/news/1655318.html 没有解析出任何数据！
+2019-04-16 09:19:23,616    https://news.58che.com/news/1655318.html 没有解析出数据！
+2019-04-16 09:19:27,772    https://news.58che.com/news/1655349.html 下载出错！
+2019-04-16 09:19:27,772    https://news.58che.com/news/1655349.html 没有解析出任何数据！
+2019-04-16 09:19:27,772    https://news.58che.com/news/1655349.html 没有解析出数据！
+2019-04-16 09:24:25,938    https://news.58che.com/news/2178410.html 下载出错！
+2019-04-16 09:24:25,938    https://news.58che.com/news/2178410.html 没有解析出任何数据！
+2019-04-16 09:24:25,938    https://news.58che.com/news/2178410.html 没有解析出数据！
+2019-04-16 09:28:30,735    https://news.58che.com/news/1616922.html 下载出错！
+2019-04-16 09:28:30,735    https://news.58che.com/news/1616922.html 没有解析出任何数据！
+2019-04-16 09:28:30,735    https://news.58che.com/news/1616922.html 没有解析出数据！
+2019-04-16 09:44:44,123    https://news.58che.com/news/1358352.html 下载出错！
+2019-04-16 09:44:44,123    https://news.58che.com/news/1358352.html 没有解析出任何数据！
+2019-04-16 09:44:44,123    https://news.58che.com/news/1358352.html 没有解析出数据！
+2019-04-16 09:52:18,800    https://news.58che.com/news/2165496.html 下载出错！
+2019-04-16 09:52:18,800    https://news.58che.com/news/2165496.html 没有解析出任何数据！
+2019-04-16 09:52:18,800    https://news.58che.com/news/2165496.html 没有解析出数据！
+2019-04-16 09:54:42,208    https://news.58che.com/news/1330925.html 下载出错！
+2019-04-16 09:54:42,208    https://news.58che.com/news/1330925.html 没有解析出任何数据！
+2019-04-16 09:54:42,208    https://news.58che.com/news/1330925.html 没有解析出数据！
+2019-04-16 09:55:59,334    https://news.58che.com/news/2176934.html 下载出错！
+2019-04-16 09:55:59,350    https://news.58che.com/news/2176934.html 没有解析出任何数据！
+2019-04-16 09:55:59,350    https://news.58che.com/news/2176934.html 没有解析出数据！
+2019-04-16 09:59:36,712    https://news.58che.com/slide/1134820.html 没有解析出数据！
+2019-04-16 09:59:42,103    https://news.58che.com/slide/1116386.html 没有解析出数据！
+2019-04-16 09:59:46,478    https://news.58che.com/slide/1106481.html 没有解析出数据！
+2019-04-16 09:59:50,837    https://news.58che.com/slide/1105293.html 没有解析出数据！
+2019-04-16 10:00:00,619    https://news.58che.com/slide/1100126.html 没有解析出数据！
+2019-04-16 10:00:01,806    https://news.58che.com/slide/1100121.html 没有解析出数据！
+2019-04-16 10:01:45,819    https://news.58che.com/news/2176623.html 下载出错！
+2019-04-16 10:01:45,819    https://news.58che.com/news/2176623.html 没有解析出任何数据！
+2019-04-16 10:01:45,820    https://news.58che.com/news/2176623.html 没有解析出数据！
+2019-04-16 10:02:23,847    https://news.58che.com/news/2154719.html 下载出错！
+2019-04-16 10:02:23,870    https://news.58che.com/news/2154719.html 没有解析出任何数据！
+2019-04-16 10:02:23,882    https://news.58che.com/news/2154719.html 没有解析出数据！
+2019-04-16 10:02:43,600    https://news.58che.com/news/2153622.html 下载出错！
+2019-04-16 10:02:43,601    https://news.58che.com/news/2153622.html 没有解析出任何数据！
+2019-04-16 10:02:43,601    https://news.58che.com/news/2153622.html 没有解析出数据！
+2019-04-16 10:03:14,403    https://news.58che.com/news/2176277.html 下载出错！
+2019-04-16 10:03:14,441    https://news.58che.com/news/2176277.html 没有解析出任何数据！
+2019-04-16 10:03:14,456    https://news.58che.com/news/2176277.html 没有解析出数据！
+2019-04-16 10:03:26,628    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-16 10:04:54,779    https://news.58che.com/news/2175704.html 下载出错！
+2019-04-16 10:04:54,780    https://news.58che.com/news/2175704.html 没有解析出任何数据！
+2019-04-16 10:04:54,780    https://news.58che.com/news/2175704.html 没有解析出数据！
+2019-04-16 10:06:11,549    https://news.58che.com/news/2145858.html 下载出错！
+2019-04-16 10:06:11,550    https://news.58che.com/news/2145858.html 没有解析出任何数据！
+2019-04-16 10:06:11,550    https://news.58che.com/news/2145858.html 没有解析出数据！
+2019-04-16 10:06:37,890    https://news.58che.com/news/2175471.html 下载出错！
+2019-04-16 10:06:37,891    https://news.58che.com/news/2175471.html 没有解析出任何数据！
+2019-04-16 10:06:37,891    https://news.58che.com/news/2175471.html 没有解析出数据！
+2019-04-16 10:06:51,075    https://news.58che.com/news/2145545.html 下载出错！
+2019-04-16 10:06:51,076    https://news.58che.com/news/2145545.html 没有解析出任何数据！
+2019-04-16 10:06:51,076    https://news.58che.com/news/2145545.html 没有解析出数据！
+2019-04-16 10:07:01,223    https://news.58che.com/news/2145147.html 下载出错！
+2019-04-16 10:07:01,223    https://news.58che.com/news/2145147.html 没有解析出任何数据！
+2019-04-16 10:07:01,223    https://news.58che.com/news/2145147.html 没有解析出数据！
+2019-04-16 10:07:30,095    https://news.58che.com/news/2144418.html 下载出错！
+2019-04-16 10:07:30,096    https://news.58che.com/news/2144418.html 没有解析出任何数据！
+2019-04-16 10:07:30,096    https://news.58che.com/news/2144418.html 没有解析出数据！
+2019-04-16 10:11:57,255    https://news.58che.com/news/2141043.html 下载出错！
+2019-04-16 10:11:57,256    https://news.58che.com/news/2141043.html 没有解析出任何数据！
+2019-04-16 10:11:57,256    https://news.58che.com/news/2141043.html 没有解析出数据！
+2019-04-16 10:12:04,573    https://news.58che.com/news/2140636.html 下载出错！
+2019-04-16 10:12:04,573    https://news.58che.com/news/2140636.html 没有解析出任何数据！
+2019-04-16 10:12:04,573    https://news.58che.com/news/2140636.html 没有解析出数据！
+2019-04-16 10:13:11,122    https://news.58che.com/news/2174612.html 下载出错！
+2019-04-16 10:13:11,122    https://news.58che.com/news/2174612.html 没有解析出任何数据！
+2019-04-16 10:13:11,123    https://news.58che.com/news/2174612.html 没有解析出数据！
+2019-04-16 10:13:24,776    https://news.58che.com/slide/1798427.html 没有解析出数据！
+2019-04-16 10:14:02,633    https://news.58che.com/news/2174216.html 下载出错！
+2019-04-16 10:14:02,634    https://news.58che.com/news/2174216.html 没有解析出任何数据！
+2019-04-16 10:14:02,634    https://news.58che.com/news/2174216.html 没有解析出数据！
+2019-04-16 10:14:15,226    https://news.58che.com/news/2129656.html 下载出错！
+2019-04-16 10:14:15,257    https://news.58che.com/news/2129656.html 没有解析出任何数据！
+2019-04-16 10:14:15,268    https://news.58che.com/news/2129656.html 没有解析出数据！
+2019-04-16 10:16:05,080    https://news.58che.com/news/2120834.html 下载出错！
+2019-04-16 10:16:05,080    https://news.58che.com/news/2120834.html 没有解析出任何数据！
+2019-04-16 10:16:05,081    https://news.58che.com/news/2120834.html 没有解析出数据！
+2019-04-16 10:16:06,258    https://news.58che.com/news/2120779.html 下载出错！
+2019-04-16 10:16:06,281    https://news.58che.com/news/2120779.html 没有解析出任何数据！
+2019-04-16 10:16:06,293    https://news.58che.com/news/2120779.html 没有解析出数据！
+2019-04-16 10:16:56,133    https://news.58che.com/news/2117630.html 下载出错！
+2019-04-16 10:16:56,134    https://news.58che.com/news/2117630.html 没有解析出任何数据！
+2019-04-16 10:16:56,134    https://news.58che.com/news/2117630.html 没有解析出数据！
+2019-04-16 10:18:44,383    https://news.58che.com/news/2172967.html 下载出错！
+2019-04-16 10:18:44,384    https://news.58che.com/news/2172967.html 没有解析出任何数据！
+2019-04-16 10:18:44,384    https://news.58che.com/news/2172967.html 没有解析出数据！
+2019-04-16 10:19:14,054    https://news.58che.com/news/2113671.html 下载出错！
+2019-04-16 10:19:14,054    https://news.58che.com/news/2113671.html 没有解析出任何数据！
+2019-04-16 10:19:14,055    https://news.58che.com/news/2113671.html 没有解析出数据！
+2019-04-16 10:21:12,544    https://news.58che.com/news/2172556.html 下载出错！
+2019-04-16 10:21:12,545    https://news.58che.com/news/2172556.html 没有解析出任何数据！
+2019-04-16 10:21:12,545    https://news.58che.com/news/2172556.html 没有解析出数据！
+2019-04-16 10:32:22,666    https://news.58che.com/news/2171683.html 下载出错！
+2019-04-16 10:32:22,689    https://news.58che.com/news/2171683.html 没有解析出任何数据！
+2019-04-16 10:32:22,701    https://news.58che.com/news/2171683.html 没有解析出数据！
+2019-04-16 10:35:38,495    https://news.58che.com/news/2096750.html 下载出错！
+2019-04-16 10:35:38,496    https://news.58che.com/news/2096750.html 没有解析出任何数据！
+2019-04-16 10:35:38,496    https://news.58che.com/news/2096750.html 没有解析出数据！
+2019-04-16 10:43:09,489    https://news.58che.com/news/2095331.html 下载出错！
+2019-04-16 10:43:09,490    https://news.58che.com/news/2095331.html 没有解析出任何数据！
+2019-04-16 10:43:09,490    https://news.58che.com/news/2095331.html 没有解析出数据！
+2019-04-16 10:50:15,784    https://news.58che.com/news/2088428.html 下载出错！
+2019-04-16 10:50:15,785    https://news.58che.com/news/2088428.html 没有解析出任何数据！
+2019-04-16 10:50:15,785    https://news.58che.com/news/2088428.html 没有解析出数据！
+2019-04-16 10:50:42,613    https://news.58che.com/news/2169764.html 下载出错！
+2019-04-16 10:50:42,660    https://news.58che.com/news/2169764.html 没有解析出任何数据！
+2019-04-16 10:50:42,669    https://news.58che.com/news/2169764.html 没有解析出数据！
+2019-04-16 10:50:52,932    https://news.58che.com/news/2086757.html 下载出错！
+2019-04-16 10:50:53,004    https://news.58che.com/news/2086757.html 没有解析出任何数据！
+2019-04-16 10:50:53,025    https://news.58che.com/news/2086757.html 没有解析出数据！
+2019-04-16 10:51:57,476    https://news.58che.com/news/2169517.html 下载出错！
+2019-04-16 10:51:57,477    https://news.58che.com/news/2169517.html 没有解析出任何数据！
+2019-04-16 10:51:57,477    https://news.58che.com/news/2169517.html 没有解析出数据！
+2019-04-16 10:52:38,855    https://news.58che.com/news/2169058.html 下载出错！
+2019-04-16 10:52:38,856    https://news.58che.com/news/2169058.html 没有解析出任何数据！
+2019-04-16 10:52:38,857    https://news.58che.com/news/2169058.html 没有解析出数据！
+2019-04-16 10:57:49,420    https://news.58che.com/news/2080698.html 下载出错！
+2019-04-16 10:57:49,421    https://news.58che.com/news/2080698.html 没有解析出任何数据！
+2019-04-16 10:57:49,421    https://news.58che.com/news/2080698.html 没有解析出数据！
+2019-04-16 11:05:51,678    https://news.58che.com/news/2074712.html 下载出错！
+2019-04-16 11:05:51,678    https://news.58che.com/news/2074712.html 没有解析出任何数据！
+2019-04-16 11:05:51,678    https://news.58che.com/news/2074712.html 没有解析出数据！
+2019-04-16 11:16:16,635    https://news.58che.com/news/2167152.html 下载出错！
+2019-04-16 11:16:16,635    https://news.58che.com/news/2167152.html 没有解析出任何数据！
+2019-04-16 11:16:16,635    https://news.58che.com/news/2167152.html 没有解析出数据！
+2019-04-16 11:17:39,632    https://news.58che.com/news/2166833.html 下载出错！
+2019-04-16 11:17:39,632    https://news.58che.com/news/2166833.html 没有解析出任何数据！
+2019-04-16 11:17:39,632    https://news.58che.com/news/2166833.html 没有解析出数据！
+2019-04-16 11:21:45,268    https://news.58che.com/news/2066419.html 下载出错！
+2019-04-16 11:21:45,268    https://news.58che.com/news/2066419.html 没有解析出任何数据！
+2019-04-16 11:21:45,269    https://news.58che.com/news/2066419.html 没有解析出数据！
+2019-04-16 11:24:03,916    https://news.58che.com/news/2063440.html 下载出错！
+2019-04-16 11:24:03,916    https://news.58che.com/news/2063440.html 没有解析出任何数据！
+2019-04-16 11:24:03,917    https://news.58che.com/news/2063440.html 没有解析出数据！
+2019-04-16 11:35:40,974    https://news.58che.com/news/2164724.html 下载出错！
+2019-04-16 11:35:40,974    https://news.58che.com/news/2164724.html 没有解析出任何数据！
+2019-04-16 11:35:40,974    https://news.58che.com/news/2164724.html 没有解析出数据！
+2019-04-16 11:47:51,374    https://news.58che.com/news/2053848.html 下载出错！
+2019-04-16 11:47:51,374    https://news.58che.com/news/2053848.html 没有解析出任何数据！
+2019-04-16 11:47:51,374    https://news.58che.com/news/2053848.html 没有解析出数据！
+2019-04-16 11:48:04,818    https://news.58che.com/news/2163332.html 下载出错！
+2019-04-16 11:48:04,819    https://news.58che.com/news/2163332.html 没有解析出任何数据！
+2019-04-16 11:48:04,819    https://news.58che.com/news/2163332.html 没有解析出数据！
+2019-04-16 11:48:23,962    https://news.58che.com/news/2053449.html 下载出错！
+2019-04-16 11:48:23,963    https://news.58che.com/news/2053449.html 没有解析出任何数据！
+2019-04-16 11:48:23,963    https://news.58che.com/news/2053449.html 没有解析出数据！
+2019-04-16 11:48:32,506    https://news.58che.com/news/2051989.html 下载出错！
+2019-04-16 11:48:32,506    https://news.58che.com/news/2051989.html 没有解析出任何数据！
+2019-04-16 11:48:32,506    https://news.58che.com/news/2051989.html 没有解析出数据！
+2019-04-16 11:50:23,073    https://news.58che.com/news/2048517.html 下载出错！
+2019-04-16 11:50:23,074    https://news.58che.com/news/2048517.html 没有解析出任何数据！
+2019-04-16 11:50:23,075    https://news.58che.com/news/2048517.html 没有解析出数据！
+2019-04-16 11:51:00,475    https://news.58che.com/news/2161987.html 下载出错！
+2019-04-16 11:51:00,476    https://news.58che.com/news/2161987.html 没有解析出任何数据！
+2019-04-16 11:51:00,476    https://news.58che.com/news/2161987.html 没有解析出数据！
+2019-04-16 11:51:03,063    https://news.58che.com/news/2161968.html 下载出错！
+2019-04-16 11:51:03,063    https://news.58che.com/news/2161968.html 没有解析出任何数据！
+2019-04-16 11:51:03,063    https://news.58che.com/news/2161968.html 没有解析出数据！
+2019-04-16 11:57:06,343    https://news.58che.com/news/2160319.html 下载出错！
+2019-04-16 11:57:06,344    https://news.58che.com/news/2160319.html 没有解析出任何数据！
+2019-04-16 11:57:06,344    https://news.58che.com/news/2160319.html 没有解析出数据！
+2019-04-16 11:58:19,070    https://news.58che.com/news/2036094.html 下载出错！
+2019-04-16 11:58:19,070    https://news.58che.com/news/2036094.html 没有解析出任何数据！
+2019-04-16 11:58:19,071    https://news.58che.com/news/2036094.html 没有解析出数据！
+2019-04-16 11:58:46,346    https://news.58che.com/news/2159584.html 下载出错！
+2019-04-16 11:58:46,346    https://news.58che.com/news/2159584.html 没有解析出任何数据！
+2019-04-16 11:58:46,347    https://news.58che.com/news/2159584.html 没有解析出数据！
+2019-04-16 11:59:54,089    https://news.58che.com/news/2030727.html 下载出错！
+2019-04-16 11:59:54,090    https://news.58che.com/news/2030727.html 没有解析出任何数据！
+2019-04-16 11:59:54,090    https://news.58che.com/news/2030727.html 没有解析出数据！
+2019-04-16 12:01:01,083    https://news.58che.com/news/2030225.html 下载出错！
+2019-04-16 12:01:01,084    https://news.58che.com/news/2030225.html 没有解析出任何数据！
+2019-04-16 12:01:01,084    https://news.58che.com/news/2030225.html 没有解析出数据！
+2019-04-16 12:05:28,296    https://news.58che.com/news/2027416.html 下载出错！
+2019-04-16 12:05:28,297    https://news.58che.com/news/2027416.html 没有解析出任何数据！
+2019-04-16 12:05:28,297    https://news.58che.com/news/2027416.html 没有解析出数据！
+2019-04-16 12:05:28,776    https://news.58che.com/news/2026418.html 下载出错！
+2019-04-16 12:05:28,777    https://news.58che.com/news/2026418.html 没有解析出任何数据！
+2019-04-16 12:05:28,777    https://news.58che.com/news/2026418.html 没有解析出数据！
+2019-04-16 12:11:51,002    https://news.58che.com/news/2155565.html 下载出错！
+2019-04-16 12:11:51,025    https://news.58che.com/news/2155565.html 没有解析出任何数据！
+2019-04-16 12:11:51,037    https://news.58che.com/news/2155565.html 没有解析出数据！
+2019-04-16 12:15:30,108    https://news.58che.com/news/2154054.html 下载出错！
+2019-04-16 12:15:30,108    https://news.58che.com/news/2154054.html 没有解析出任何数据！
+2019-04-16 12:15:30,109    https://news.58che.com/news/2154054.html 没有解析出数据！
+2019-04-16 12:19:30,803    https://news.58che.com/news/2000512.html 下载出错！
+2019-04-16 12:19:30,803    https://news.58che.com/news/2000512.html 没有解析出任何数据！
+2019-04-16 12:19:30,803    https://news.58che.com/news/2000512.html 没有解析出数据！
+2019-04-16 12:22:12,474    https://news.58che.com/news/2151428.html 下载出错！
+2019-04-16 12:22:12,475    https://news.58che.com/news/2151428.html 没有解析出任何数据！
+2019-04-16 12:22:12,475    https://news.58che.com/news/2151428.html 没有解析出数据！
+2019-04-16 12:25:31,011    https://news.58che.com/news/2151338.html 下载出错！
+2019-04-16 12:25:31,012    https://news.58che.com/news/2151338.html 没有解析出任何数据！
+2019-04-16 12:25:31,012    https://news.58che.com/news/2151338.html 没有解析出数据！
+2019-04-16 12:27:07,242    https://news.58che.com/news/1983698.html 下载出错！
+2019-04-16 12:27:07,242    https://news.58che.com/news/1983698.html 没有解析出任何数据！
+2019-04-16 12:27:07,242    https://news.58che.com/news/1983698.html 没有解析出数据！
+2019-04-16 12:27:58,737    https://news.58che.com/news/2151317.html 下载出错！
+2019-04-16 12:27:58,738    https://news.58che.com/news/2151317.html 没有解析出任何数据！
+2019-04-16 12:27:58,738    https://news.58che.com/news/2151317.html 没有解析出数据！
+2019-04-16 12:30:47,491    https://news.58che.com/news/1976526.html 下载出错！
+2019-04-16 12:30:47,514    https://news.58che.com/news/1976526.html 没有解析出任何数据！
+2019-04-16 12:30:47,520    https://news.58che.com/news/1976526.html 没有解析出数据！
+2019-04-16 12:30:47,782    https://news.58che.com/news/1976402.html 下载出错！
+2019-04-16 12:30:47,805    https://news.58che.com/news/1976402.html 没有解析出任何数据！
+2019-04-16 12:30:47,818    https://news.58che.com/news/1976402.html 没有解析出数据！
+2019-04-16 12:34:12,988    https://news.58che.com/news/1968024.html 下载出错！
+2019-04-16 12:34:12,988    https://news.58che.com/news/1968024.html 没有解析出任何数据！
+2019-04-16 12:34:12,989    https://news.58che.com/news/1968024.html 没有解析出数据！
+2019-04-16 12:35:25,762    https://news.58che.com/news/2148700.html 下载出错！
+2019-04-16 12:35:25,763    https://news.58che.com/news/2148700.html 没有解析出任何数据！
+2019-04-16 12:35:25,763    https://news.58che.com/news/2148700.html 没有解析出数据！
+2019-04-16 12:35:31,708    https://news.58che.com/news/2148679.html 下载出错！
+2019-04-16 12:35:31,708    https://news.58che.com/news/2148679.html 没有解析出任何数据！
+2019-04-16 12:35:31,709    https://news.58che.com/news/2148679.html 没有解析出数据！
+2019-04-16 12:39:24,601    https://news.58che.com/news/2146936.html 下载出错！
+2019-04-16 12:39:24,602    https://news.58che.com/news/2146936.html 没有解析出任何数据！
+2019-04-16 12:39:24,602    https://news.58che.com/news/2146936.html 没有解析出数据！
+2019-04-16 12:39:33,222    https://news.58che.com/news/1951838.html 下载出错！
+2019-04-16 12:39:33,222    https://news.58che.com/news/1951838.html 没有解析出任何数据！
+2019-04-16 12:39:33,223    https://news.58che.com/news/1951838.html 没有解析出数据！
+2019-04-16 12:39:54,159    https://news.58che.com/news/1950978.html 下载出错！
+2019-04-16 12:39:54,160    https://news.58che.com/news/1950978.html 没有解析出任何数据！
+2019-04-16 12:39:54,160    https://news.58che.com/news/1950978.html 没有解析出数据！
+2019-04-16 12:40:03,619    https://news.58che.com/news/2146640.html 下载出错！
+2019-04-16 12:40:03,649    https://news.58che.com/news/2146640.html 没有解析出任何数据！
+2019-04-16 12:40:03,661    https://news.58che.com/news/2146640.html 没有解析出数据！
+2019-04-16 12:40:34,506    https://news.58che.com/news/1949237.html 下载出错！
+2019-04-16 12:40:34,507    https://news.58che.com/news/1949237.html 没有解析出任何数据！
+2019-04-16 12:40:34,507    https://news.58che.com/news/1949237.html 没有解析出数据！
+2019-04-16 12:40:52,265    https://news.58che.com/news/2145583.html 下载出错！
+2019-04-16 12:40:52,266    https://news.58che.com/news/2145583.html 没有解析出任何数据！
+2019-04-16 12:40:52,266    https://news.58che.com/news/2145583.html 没有解析出数据！
+2019-04-16 12:43:17,790    https://news.58che.com/news/1939130.html 下载出错！
+2019-04-16 12:43:17,828    https://news.58che.com/news/1939130.html 没有解析出任何数据！
+2019-04-16 12:43:17,840    https://news.58che.com/news/1939130.html 没有解析出数据！
+2019-04-16 12:43:32,309    https://news.58che.com/news/2143529.html 下载出错！
+2019-04-16 12:43:32,333    https://news.58che.com/news/2143529.html 没有解析出任何数据！
+2019-04-16 12:43:32,344    https://news.58che.com/news/2143529.html 没有解析出数据！
+2019-04-16 12:44:05,594    https://news.58che.com/news/1936795.html 下载出错！
+2019-04-16 12:44:05,636    https://news.58che.com/news/1936795.html 没有解析出任何数据！
+2019-04-16 12:44:05,659    https://news.58che.com/news/1936795.html 没有解析出数据！
+2019-04-16 12:44:14,843    https://news.58che.com/news/1935615.html 下载出错！
+2019-04-16 12:44:14,844    https://news.58che.com/news/1935615.html 没有解析出任何数据！
+2019-04-16 12:44:14,844    https://news.58che.com/news/1935615.html 没有解析出数据！
+2019-04-16 12:45:13,267    https://news.58che.com/news/1935497.html 下载出错！
+2019-04-16 12:45:13,268    https://news.58che.com/news/1935497.html 没有解析出任何数据！
+2019-04-16 12:45:13,268    https://news.58che.com/news/1935497.html 没有解析出数据！
+2019-04-16 12:47:16,421    https://news.58che.com/news/2140906.html 下载出错！
+2019-04-16 12:47:16,422    https://news.58che.com/news/2140906.html 没有解析出任何数据！
+2019-04-16 12:47:16,422    https://news.58che.com/news/2140906.html 没有解析出数据！
+2019-04-16 12:49:46,514    https://news.58che.com/news/2139191.html 下载出错！
+2019-04-16 12:49:46,515    https://news.58che.com/news/2139191.html 没有解析出任何数据！
+2019-04-16 12:49:46,515    https://news.58che.com/news/2139191.html 没有解析出数据！
+2019-04-16 12:50:45,507    https://news.58che.com/news/2136624.html 下载出错！
+2019-04-16 12:50:45,531    https://news.58che.com/news/2136624.html 没有解析出任何数据！
+2019-04-16 12:50:45,540    https://news.58che.com/news/2136624.html 没有解析出数据！
+2019-04-16 12:52:58,061    https://news.58che.com/news/1901346.html 下载出错！
+2019-04-16 12:52:58,062    https://news.58che.com/news/1901346.html 没有解析出任何数据！
+2019-04-16 12:52:58,062    https://news.58che.com/news/1901346.html 没有解析出数据！
+2019-04-16 12:55:57,962    https://news.58che.com/news/1885278.html 下载出错！
+2019-04-16 12:55:57,962    https://news.58che.com/news/1885278.html 没有解析出任何数据！
+2019-04-16 12:55:57,962    https://news.58che.com/news/1885278.html 没有解析出数据！
+2019-04-16 12:56:48,472    https://news.58che.com/news/1877676.html 下载出错！
+2019-04-16 12:56:48,472    https://news.58che.com/news/1877676.html 没有解析出任何数据！
+2019-04-16 12:56:48,472    https://news.58che.com/news/1877676.html 没有解析出数据！
+2019-04-16 12:57:25,927    https://news.58che.com/news/2127649.html 下载出错！
+2019-04-16 12:57:25,963    https://news.58che.com/news/2127649.html 没有解析出任何数据！
+2019-04-16 12:57:25,981    https://news.58che.com/news/2127649.html 没有解析出数据！
+2019-04-16 13:01:00,500    https://news.58che.com/news/2125902.html 下载出错！
+2019-04-16 13:01:00,501    https://news.58che.com/news/2125902.html 没有解析出任何数据！
+2019-04-16 13:01:00,501    https://news.58che.com/news/2125902.html 没有解析出数据！
+2019-04-16 13:03:22,202    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-16 13:03:41,784    https://news.58che.com/more/2_2_99.html#ArtList后无跟踪链接！
+2019-04-16 13:04:05,325    https://news.58che.com/news/1826745.html 下载出错！
+2019-04-16 13:04:05,348    https://news.58che.com/news/1826745.html 没有解析出任何数据！
+2019-04-16 13:04:05,360    https://news.58che.com/news/1826745.html 没有解析出数据！
+2019-04-17 09:04:16,262    https://news.58che.com/news/2183094.html 下载出错！
+2019-04-17 09:04:16,262    https://news.58che.com/news/2183094.html 没有解析出任何数据！
+2019-04-17 09:04:16,262    https://news.58che.com/news/2183094.html 没有解析出数据！
+2019-04-17 09:04:17,090    https://news.58che.com/news/2183042.html 下载出错！
+2019-04-17 09:04:17,090    https://news.58che.com/news/2183042.html 没有解析出任何数据！
+2019-04-17 09:04:17,090    https://news.58che.com/news/2183042.html 没有解析出数据！
+2019-04-17 09:04:17,153    https://news.58che.com/news/2183056.html 下载出错！
+2019-04-17 09:04:17,153    https://news.58che.com/news/2183056.html 没有解析出任何数据！
+2019-04-17 09:04:17,153    https://news.58che.com/news/2183056.html 没有解析出数据！
+2019-04-17 09:08:12,417    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-17 09:20:47,069    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-17 09:20:51,866    https://news.58che.com/more/2_2_99.html#ArtList后无跟踪链接！
+2019-04-18 09:00:27,671    https://news.58che.com/news/2184863.html 下载出错！
+2019-04-18 09:00:27,749    https://news.58che.com/news/2184863.html 没有解析出任何数据！
+2019-04-18 09:00:27,749    https://news.58che.com/news/2184863.html 没有解析出数据！
+2019-04-18 09:04:44,186    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-18 09:17:02,591    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-18 09:17:07,279    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-19 09:04:37,679    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-19 09:17:08,694    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-19 09:17:13,366    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-20 09:05:10,945    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-20 09:17:40,205    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-20 09:17:44,846    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-21 09:04:53,959    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-21 09:17:22,621    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-21 09:17:27,292    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-22 09:04:43,982    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-22 09:17:16,294    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-22 09:17:20,935    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-23 08:59:59,114    https://news.58che.com/news/2185729.html 下载出错！
+2019-04-23 08:59:59,178    https://news.58che.com/news/2185729.html 没有解析出任何数据！
+2019-04-23 08:59:59,196    https://news.58che.com/news/2185729.html 没有解析出数据！
+2019-04-23 09:07:33,264    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-23 09:09:21,554    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-23 09:32:24,997    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-23 09:32:29,677    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-23 09:33:10,136    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-23 09:33:14,525    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-24 09:05:15,233    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-24 09:17:46,093    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-24 09:17:50,767    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-25 09:05:08,987    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-25 09:17:39,387    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-25 09:17:44,230    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！
+2019-04-26 09:05:08,084    https://news.58che.com/more/2_740_19.html#ArtList后无跟踪链接！
+2019-04-26 09:17:39,074    https://news.58che.com/more/2_2_98.html#ArtList后无跟踪链接！
+2019-04-26 09:17:43,809    https://news.58che.com/more/2_1_98.html#ArtList后无跟踪链接！

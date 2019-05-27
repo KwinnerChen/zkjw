@@ -1,0 +1,1155 @@
+2019-03-20 16:27:10,737    ==================================================
+2019-03-20 16:27:21,915    storage_threading_0 启动！
+2019-03-20 16:27:21,917    download_threading_0 启动！
+2019-03-20 16:27:21,918    download_threading_1 启动！
+2019-03-20 16:27:21,919    reault_threading_0 启动！
+2019-03-20 16:27:40,245    
+https://k.autohome.com.cn/4583/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4583/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11D26A0>, 'Connection to 111.177.191.220 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:40,251    
+https://k.autohome.com.cn/4583/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4583/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11D26A0>, 'Connection to 111.177.191.220 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:40,494    
+https://k.autohome.com.cn/4769/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4769/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1202668>, 'Connection to 111.177.160.109 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:40,497    
+https://k.autohome.com.cn/4769/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4769/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1202668>, 'Connection to 111.177.160.109 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:42,259    
+https://k.autohome.com.cn/3248/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3248/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C6128>, 'Connection to 118.173.232.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:42,262    
+https://k.autohome.com.cn/3248/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3248/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C6128>, 'Connection to 118.173.232.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:42,855    
+https://k.autohome.com.cn/3862/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3862/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:27:42,860    
+https://k.autohome.com.cn/3862/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3862/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:27:44,741    
+https://k.autohome.com.cn/2562/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2562/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:27:44,744    
+https://k.autohome.com.cn/2562/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2562/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:27:44,868    
+https://k.autohome.com.cn/3339/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3339/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C64A8>, 'Connection to 93.39.228.188 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:44,871    
+https://k.autohome.com.cn/3339/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3339/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C64A8>, 'Connection to 93.39.228.188 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:46,760    
+https://k.autohome.com.cn/3683/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3683/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C6668>, 'Connection to 46.239.160.94 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:46,765    
+https://k.autohome.com.cn/3683/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3683/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A12C6668>, 'Connection to 46.239.160.94 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:48,773    
+https://k.autohome.com.cn/3688/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3688/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656128>, 'Connection to 111.177.163.221 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:48,773    
+https://k.autohome.com.cn/3688/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3688/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656128>, 'Connection to 111.177.163.221 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:50,780    
+https://k.autohome.com.cn/4346/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4346/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A171F908>, 'Connection to 103.28.86.241 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:50,782    
+https://k.autohome.com.cn/4346/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4346/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A171F908>, 'Connection to 103.28.86.241 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:51,087    
+https://k.autohome.com.cn/3650/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3650/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1764DA0>, 'Connection to 39.106.38.193 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:51,089    
+https://k.autohome.com.cn/3650/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3650/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1764DA0>, 'Connection to 39.106.38.193 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:52,792    
+https://k.autohome.com.cn/3079/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3079/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1775AC8>, 'Connection to 111.177.177.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:52,807    
+https://k.autohome.com.cn/3079/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3079/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1775AC8>, 'Connection to 111.177.177.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:53,101    
+https://k.autohome.com.cn/4914/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4914/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647630>, 'Connection to 116.212.150.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:53,122    
+https://k.autohome.com.cn/4914/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4914/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647630>, 'Connection to 116.212.150.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:54,944    
+https://k.autohome.com.cn/2950/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2950/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A179E160>, 'Connection to 182.50.64.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:55,021    
+https://k.autohome.com.cn/2950/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2950/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A179E160>, 'Connection to 182.50.64.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:55,272    
+https://k.autohome.com.cn/3441/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3441/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A179EBA8>, 'Connection to 1.192.245.188 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:55,288    
+https://k.autohome.com.cn/3441/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3441/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A179EBA8>, 'Connection to 1.192.245.188 timed out. (connect timeout=2)'))
+
+2019-03-20 16:27:57,815    
+https://k.autohome.com.cn/595/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /595/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:27:57,817    
+https://k.autohome.com.cn/595/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /595/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:01,133    
+https://k.autohome.com.cn/57/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /57/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:01,148    
+https://k.autohome.com.cn/57/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /57/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:02,430    
+https://k.autohome.com.cn/467/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /467/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17A7550>, 'Connection to 118.175.207.169 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:02,660    
+没有解析出数据：Task(url=https://k.autohome.com.cn/3494/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A177E470>>, temp=乌尼莫克U5000 SUV, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://111.72.155.232:9999'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:28:03,266    
+https://k.autohome.com.cn/3264/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3264/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17A7EF0>, 'Connection to 163.204.245.88 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:10,871    
+https://k.autohome.com.cn/467/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /467/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17A7550>, 'Connection to 118.175.207.169 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:10,889    
+https://k.autohome.com.cn/3264/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3264/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17A7EF0>, 'Connection to 163.204.245.88 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:12,914    
+https://k.autohome.com.cn/4074/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4074/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17B2E80>, 'Connection to 193.169.147.40 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:12,915    
+https://k.autohome.com.cn/3704/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3704/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD780>, 'Connection to 59.45.13.220 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:12,917    
+https://k.autohome.com.cn/4074/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4074/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17B2E80>, 'Connection to 193.169.147.40 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:12,918    
+https://k.autohome.com.cn/3704/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3704/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD780>, 'Connection to 59.45.13.220 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:14,925    
+https://k.autohome.com.cn/2723/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2723/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD9B0>, 'Connection to 178.188.209.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:14,925    
+https://k.autohome.com.cn/3901/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3901/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC1D0>, 'Connection to 171.41.85.211 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:14,928    
+https://k.autohome.com.cn/2723/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2723/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD9B0>, 'Connection to 178.188.209.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:14,929    
+https://k.autohome.com.cn/3901/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3901/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC1D0>, 'Connection to 171.41.85.211 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:16,935    
+https://k.autohome.com.cn/2722/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2722/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C22B0>, 'Connection to 194.169.164.3 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:16,935    
+https://k.autohome.com.cn/5038/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5038/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C2198>, 'Connection to 110.52.235.179 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:16,937    
+https://k.autohome.com.cn/2722/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2722/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C22B0>, 'Connection to 194.169.164.3 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:16,938    
+https://k.autohome.com.cn/5038/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5038/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C2198>, 'Connection to 110.52.235.179 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:18,946    
+https://k.autohome.com.cn/4213/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4213/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC6A0>, 'Connection to 221.7.211.246 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:18,946    
+https://k.autohome.com.cn/2833/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2833/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C2710>, 'Connection to 1.20.103.56 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:18,948    
+https://k.autohome.com.cn/4213/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4213/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC6A0>, 'Connection to 221.7.211.246 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:18,949    
+https://k.autohome.com.cn/2833/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2833/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17C2710>, 'Connection to 1.20.103.56 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:21,315    
+https://k.autohome.com.cn/4300/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4300/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:21,317    
+https://k.autohome.com.cn/4300/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4300/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:22,173    
+https://k.autohome.com.cn/4853/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:22,175    
+https://k.autohome.com.cn/4853/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:24,383    
+https://k.autohome.com.cn/2561/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2561/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:24,385    
+https://k.autohome.com.cn/2561/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2561/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:25,513    
+https://k.autohome.com.cn/4785/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:25,515    
+https://k.autohome.com.cn/4785/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:27,078    
+https://k.autohome.com.cn/4356/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4356/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:28:27,080    
+https://k.autohome.com.cn/4356/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4356/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:28:27,520    
+https://k.autohome.com.cn/4658/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4658/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17CAF98>, 'Connection to 125.25.57.6 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:27,522    
+https://k.autohome.com.cn/4658/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4658/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17CAF98>, 'Connection to 125.25.57.6 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:29,086    
+https://k.autohome.com.cn/3386/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3386/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17CAA90>, 'Connection to 110.52.235.224 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:29,088    
+https://k.autohome.com.cn/3386/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3386/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17CAA90>, 'Connection to 110.52.235.224 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:29,526    
+https://k.autohome.com.cn/3053/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3053/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17ADF60>, 'Connection to 159.224.226.164 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:29,528    
+https://k.autohome.com.cn/3053/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3053/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17ADF60>, 'Connection to 159.224.226.164 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:31,092    
+https://k.autohome.com.cn/159/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /159/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC8D0>, 'Connection to 111.177.171.158 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:31,094    
+https://k.autohome.com.cn/159/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /159/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BC8D0>, 'Connection to 111.177.171.158 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:31,533    
+https://k.autohome.com.cn/4348/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4348/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BCE48>, 'Connection to 193.34.55.64 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:31,535    
+https://k.autohome.com.cn/4348/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4348/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17BCE48>, 'Connection to 193.34.55.64 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:33,099    
+https://k.autohome.com.cn/587/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /587/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17D35C0>, 'Connection to 176.108.103.21 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:33,101    
+https://k.autohome.com.cn/587/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /587/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17D35C0>, 'Connection to 176.108.103.21 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:33,873    
+https://k.autohome.com.cn/271/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /271/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:33,875    
+https://k.autohome.com.cn/271/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /271/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:35,882    
+https://k.autohome.com.cn/4838/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4838/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B57B8>, 'Connection to 163.204.243.232 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:35,884    
+https://k.autohome.com.cn/4838/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4838/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B57B8>, 'Connection to 163.204.243.232 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:40,053    
+https://k.autohome.com.cn/4942/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:40,054    
+https://k.autohome.com.cn/4942/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:28:42,068    
+https://k.autohome.com.cn/3362/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3362/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A428D0>, 'Connection to 111.177.167.178 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:42,083    
+https://k.autohome.com.cn/3362/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3362/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A428D0>, 'Connection to 111.177.167.178 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:43,822    
+https://k.autohome.com.cn/4539/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4539/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177EBA8>, 'Connection to 111.177.191.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:43,837    
+https://k.autohome.com.cn/4539/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4539/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177EBA8>, 'Connection to 111.177.191.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:45,950    
+https://k.autohome.com.cn/2729/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2729/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A50278>, 'Connection to 111.177.169.149 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:45,965    
+https://k.autohome.com.cn/2729/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2729/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A50278>, 'Connection to 111.177.169.149 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:49,930    
+https://k.autohome.com.cn/4929/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4929/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647668>, 'Connection to 183.163.44.237 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:49,945    
+https://k.autohome.com.cn/4929/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4929/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647668>, 'Connection to 183.163.44.237 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:51,975    
+https://k.autohome.com.cn/3582/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3582/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD240>, 'Connection to 111.177.172.8 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:52,057    
+https://k.autohome.com.cn/3582/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3582/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17AD240>, 'Connection to 111.177.172.8 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:52,643    
+没有解析出数据：Task(url=https://k.autohome.com.cn/4928/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A17BCF98>>, temp=宝马X3 M, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://117.84.181.87:9999'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:28:52,706    
+https://k.autohome.com.cn/314/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /314/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:52,708    
+https://k.autohome.com.cn/314/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /314/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:28:54,265    
+https://k.autohome.com.cn/4304/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4304/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A5F908>, 'Connection to 189.201.240.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:54,267    
+https://k.autohome.com.cn/4304/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4304/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A5F908>, 'Connection to 189.201.240.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:56,271    
+https://k.autohome.com.cn/4102/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4102/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE128>, 'Connection to 111.177.170.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:28:56,273    
+https://k.autohome.com.cn/4102/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4102/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE128>, 'Connection to 111.177.170.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:00,623    
+https://k.autohome.com.cn/2995/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:06,242    
+https://k.autohome.com.cn/2995/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:06,667    
+[{'IMPRESSION': '后排空间够用', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '操控出色', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '前排座椅舒适', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '颜值高', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '内饰给力', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '空间够用', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '方向盘轻重合适', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '悬架减震舒服', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}, {'IMPRESSION': '内饰上档次', 'SCORE': 1, 'CARTYPE': '奔驰G级', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 27, 56, 666374)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:29:08,359    
+https://k.autohome.com.cn/3257/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3257/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:08,374    
+https://k.autohome.com.cn/3257/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3257/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:11,222    
+https://k.autohome.com.cn/918/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /918/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17B29B0>, 'Connection to 217.17.110.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:11,237    
+https://k.autohome.com.cn/918/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /918/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17B29B0>, 'Connection to 217.17.110.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:12,363    
+没有解析出数据：Task(url=https://k.autohome.com.cn/3268/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A1796CC0>>, temp=CONCEPT V, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://171.41.84.195:9999'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:29:13,390    
+https://k.autohome.com.cn/3813/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3813/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A4A710>, 'Connection to 1.10.188.93 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:13,392    
+https://k.autohome.com.cn/3813/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3813/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A4A710>, 'Connection to 1.10.188.93 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:14,197    
+https://k.autohome.com.cn/3869/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:14,199    
+https://k.autohome.com.cn/3869/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:15,396    
+https://k.autohome.com.cn/5041/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5041/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656518>, 'Connection to 171.41.84.234 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:15,398    
+https://k.autohome.com.cn/5041/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5041/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656518>, 'Connection to 171.41.84.234 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:17,403    
+https://k.autohome.com.cn/2896/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2896/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1788198>, 'Connection to 125.126.214.18 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:17,405    
+https://k.autohome.com.cn/2896/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2896/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1788198>, 'Connection to 125.126.214.18 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:17,670    
+https://k.autohome.com.cn/810/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /810/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:29:17,673    
+https://k.autohome.com.cn/810/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /810/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:29:20,803    
+https://k.autohome.com.cn/4761/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4761/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:20,806    
+https://k.autohome.com.cn/4761/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4761/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:22,648    
+https://k.autohome.com.cn/3554/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3554/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:29:22,651    
+https://k.autohome.com.cn/3554/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3554/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('select timed out',)))
+
+2019-03-20 16:29:22,811    
+https://k.autohome.com.cn/592/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /592/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656588>, 'Connection to 163.204.244.133 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:22,813    
+https://k.autohome.com.cn/592/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /592/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1656588>, 'Connection to 163.204.244.133 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:24,657    
+https://k.autohome.com.cn/3332/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3332/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE748>, 'Connection to 111.177.160.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:24,660    
+https://k.autohome.com.cn/3332/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3332/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE748>, 'Connection to 111.177.160.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:24,729    
+[{'IMPRESSION': '暂无', 'SCORE': None, 'CARTYPE': '宝马X1(进口)', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 28, 46, 400286)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:29:24,818    
+https://k.autohome.com.cn/2317/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2317/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A47CC0>, 'Connection to 171.41.85.1 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:24,820    
+https://k.autohome.com.cn/2317/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2317/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A47CC0>, 'Connection to 171.41.85.1 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:26,824    
+https://k.autohome.com.cn/4353/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4353/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B5DA0>, 'Connection to 119.82.252.90 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:26,827    
+https://k.autohome.com.cn/4353/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4353/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B5DA0>, 'Connection to 119.82.252.90 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:28,832    
+https://k.autohome.com.cn/3780/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3780/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1764898>, 'Connection to 60.13.42.155 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:28,835    
+https://k.autohome.com.cn/3780/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3780/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1764898>, 'Connection to 60.13.42.155 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:30,845    
+https://k.autohome.com.cn/4394/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4394/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647278>, 'Connection to 223.165.243.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:30,847    
+https://k.autohome.com.cn/4394/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4394/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1647278>, 'Connection to 223.165.243.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:33,002    
+https://k.autohome.com.cn/3059/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3059/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:33,004    
+https://k.autohome.com.cn/3059/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3059/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:35,079    
+https://k.autohome.com.cn/4802/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4802/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:35,094    
+https://k.autohome.com.cn/4802/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4802/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:35,418    
+https://k.autohome.com.cn/3430/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3430/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1796A20>, 'Connection to 58.254.220.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:35,433    
+https://k.autohome.com.cn/3430/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3430/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1796A20>, 'Connection to 58.254.220.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:42,115    
+https://k.autohome.com.cn/4393/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4393/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A5F2E8>, 'Connection to 111.177.189.216 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:42,117    
+https://k.autohome.com.cn/4393/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4393/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A5F2E8>, 'Connection to 111.177.189.216 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:43,961    
+https://k.autohome.com.cn/2088/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2088/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17960B8>, 'Connection to 202.144.201.36 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:43,976    
+https://k.autohome.com.cn/2088/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2088/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17960B8>, 'Connection to 202.144.201.36 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:44,138    
+https://k.autohome.com.cn/4166/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4166/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A16797F0>, 'Connection to 1.10.189.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:44,177    
+https://k.autohome.com.cn/4166/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4166/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A16797F0>, 'Connection to 1.10.189.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:44,383    
+没有解析出数据：Task(url=https://k.autohome.com.cn/4844/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A11B5EF0>>, temp=比亚迪E-SEED, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://119.82.253.206:37942'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:29:46,279    
+https://k.autohome.com.cn/3677/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3677/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AAA2B0>, 'Connection to 37.228.65.107 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:46,282    
+https://k.autohome.com.cn/3677/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3677/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AAA2B0>, 'Connection to 37.228.65.107 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:47,532    
+[{'IMPRESSION': '空间宽松', 'SCORE': 298, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '悬架减震不舒服', 'SCORE': 255, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '油耗低', 'SCORE': 169, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '动力好', 'SCORE': 115, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '性价比还不错', 'SCORE': 101, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '操控给力', 'SCORE': 66, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '起步慢', 'SCORE': 56, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '方向盘轻重不合理', 'SCORE': 23, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '没有优惠', 'SCORE': 12, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '前排座椅调节方便', 'SCORE': 6, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '扶手箱空间紧凑', 'SCORE': 5, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}, {'IMPRESSION': '油箱容积小', 'SCORE': 1, 'CARTYPE': '缤智', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 10, 431129)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:29:48,286    
+https://k.autohome.com.cn/4908/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4908/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA24A8>, 'Connection to 103.76.243.153 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:48,288    
+https://k.autohome.com.cn/4908/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4908/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA24A8>, 'Connection to 103.76.243.153 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:50,302    
+https://k.autohome.com.cn/172/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /172/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7A0B8>, 'Connection to 182.53.197.22 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:50,317    
+https://k.autohome.com.cn/172/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /172/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7A0B8>, 'Connection to 182.53.197.22 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:52,434    
+https://k.autohome.com.cn/4324/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4324/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2DA0>, 'Connection to 201.184.93.218 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:52,449    
+https://k.autohome.com.cn/4324/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4324/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2DA0>, 'Connection to 201.184.93.218 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:55,864    
+https://k.autohome.com.cn/3234/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3234/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:55,867    
+https://k.autohome.com.cn/3234/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3234/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:29:55,867    
+https://k.autohome.com.cn/2838/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:55,868    
+https://k.autohome.com.cn/2838/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:29:57,876    
+https://k.autohome.com.cn/4167/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4167/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2710>, 'Connection to 111.177.186.251 timed out. (connect timeout=2)'))
+
+2019-03-20 16:29:57,879    
+https://k.autohome.com.cn/4167/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4167/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2710>, 'Connection to 111.177.186.251 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:01,240    
+https://k.autohome.com.cn/4271/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4271/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:30:01,257    
+https://k.autohome.com.cn/4271/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4271/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:30:01,917    
+https://k.autohome.com.cn/2801/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2801/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1796E80>, 'Connection to 46.13.114.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:01,932    
+https://k.autohome.com.cn/2801/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2801/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1796E80>, 'Connection to 46.13.114.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:03,483    
+https://k.autohome.com.cn/2891/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2891/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABFD30>, 'Connection to 36.26.204.228 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:03,486    
+https://k.autohome.com.cn/2891/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2891/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABFD30>, 'Connection to 36.26.204.228 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:04,048    
+https://k.autohome.com.cn/3614/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3614/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB84A8>, 'Connection to 111.177.170.216 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:04,051    
+https://k.autohome.com.cn/3614/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3614/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB84A8>, 'Connection to 111.177.170.216 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:06,067    
+https://k.autohome.com.cn/4969/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4969/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17DC6A0>, 'Connection to 222.188.143.10 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:06,082    
+https://k.autohome.com.cn/4969/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4969/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A17DC6A0>, 'Connection to 222.188.143.10 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:06,931    
+https://k.autohome.com.cn/4193/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4193/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7FEB8>, 'Connection to 111.177.182.48 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:06,947    
+https://k.autohome.com.cn/4193/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4193/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7FEB8>, 'Connection to 111.177.182.48 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:07,994    
+[{'IMPRESSION': '空间大', 'SCORE': 280, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '性价比高', 'SCORE': 271, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '油耗低', 'SCORE': 194, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '动力肉', 'SCORE': 130, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '操控出色', 'SCORE': 123, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '前排座椅舒服', 'SCORE': 118, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '加速好评', 'SCORE': 91, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '悬架减震不舒适', 'SCORE': 81, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '后备厢空间狭窄', 'SCORE': 77, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '车漆薄', 'SCORE': 12, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '市区路段费油', 'SCORE': 7, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}, {'IMPRESSION': '刹车不稳定', 'SCORE': 4, 'CARTYPE': '元', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 38, 704480)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:30:08,208    
+https://k.autohome.com.cn/3319/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3319/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABD4E0>, 'Connection to 60.13.42.124 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:08,283    
+https://k.autohome.com.cn/3319/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3319/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABD4E0>, 'Connection to 60.13.42.124 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:09,084    
+https://k.autohome.com.cn/2315/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2315/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABDDA0>, 'Connection to 111.177.182.209 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:09,099    
+https://k.autohome.com.cn/2315/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2315/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABDDA0>, 'Connection to 111.177.182.209 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:10,623    
+https://k.autohome.com.cn/2472/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2472/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3710>, 'Connection to 178.128.116.248 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:10,626    
+https://k.autohome.com.cn/2472/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2472/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3710>, 'Connection to 178.128.116.248 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:12,630    
+https://k.autohome.com.cn/623/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /623/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177EBE0>, 'Connection to 111.77.197.101 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:12,633    
+https://k.autohome.com.cn/623/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /623/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177EBE0>, 'Connection to 111.77.197.101 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:14,492    
+https://k.autohome.com.cn/3800/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:14,495    
+https://k.autohome.com.cn/3800/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:14,638    
+https://k.autohome.com.cn/2852/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2852/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7FCC0>, 'Connection to 52.83.253.74 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:14,641    
+https://k.autohome.com.cn/2852/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2852/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7FCC0>, 'Connection to 52.83.253.74 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:16,499    
+https://k.autohome.com.cn/3129/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3129/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABDA20>, 'Connection to 111.177.161.141 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:16,501    
+https://k.autohome.com.cn/3129/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3129/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABDA20>, 'Connection to 111.177.161.141 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:16,645    
+https://k.autohome.com.cn/3473/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3473/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB1D68>, 'Connection to 111.177.167.60 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:16,648    
+https://k.autohome.com.cn/3473/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3473/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB1D68>, 'Connection to 111.177.167.60 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:18,515    
+https://k.autohome.com.cn/4794/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4794/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD42B0>, 'Connection to 111.177.163.94 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:18,531    
+https://k.autohome.com.cn/4794/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4794/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD42B0>, 'Connection to 111.177.163.94 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:19,702    
+https://k.autohome.com.cn/2685/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2685/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB1CC0>, 'Connection to 125.26.7.11 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:19,717    
+https://k.autohome.com.cn/2685/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2685/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AB1CC0>, 'Connection to 125.26.7.11 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:19,794    
+没有解析出数据：Task(url=https://k.autohome.com.cn/3972/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A1A7A748>>, temp=北京BJ90, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://171.41.85.150:9999'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:30:20,624    
+https://k.autohome.com.cn/4714/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4714/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7F080>, 'Connection to 111.177.177.226 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:20,627    
+https://k.autohome.com.cn/4714/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4714/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A7F080>, 'Connection to 111.177.177.226 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:20,940    
+https://k.autohome.com.cn/3922/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3922/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD7438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:30:20,943    
+https://k.autohome.com.cn/3922/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3922/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD7438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:30:22,631    
+https://k.autohome.com.cn/3980/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3980/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A171F4A8>, 'Connection to 116.209.59.3 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:22,634    
+https://k.autohome.com.cn/3980/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3980/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A171F4A8>, 'Connection to 116.209.59.3 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:22,947    
+https://k.autohome.com.cn/4599/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4599/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ACC358>, 'Connection to 49.86.176.2 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:22,950    
+https://k.autohome.com.cn/4599/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4599/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ACC358>, 'Connection to 49.86.176.2 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:23,724    
+[{'IMPRESSION': '空间宽敞', 'SCORE': 704, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '油耗低', 'SCORE': 295, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '性价比不错', 'SCORE': 287, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '动力不错', 'SCORE': 229, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '悬架减震舒服', 'SCORE': 187, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '操控给力', 'SCORE': 144, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '起步糟糕', 'SCORE': 112, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '胎噪大', 'SCORE': 38, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '市区路段费油', 'SCORE': 19, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '车漆薄', 'SCORE': 13, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': '没有眼镜盒', 'SCORE': 7, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}, {'IMPRESSION': 'ABS防抱死差劲', 'SCORE': 4, 'CARTYPE': '宝骏530', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 29, 53, 670172)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:30:24,956    
+https://k.autohome.com.cn/3928/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3928/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177E160>, 'Connection to 59.125.31.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:24,959    
+https://k.autohome.com.cn/3928/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3928/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A177E160>, 'Connection to 59.125.31.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:26,152    
+https://k.autohome.com.cn/3839/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:26,154    
+https://k.autohome.com.cn/3839/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:27,274    
+https://k.autohome.com.cn/3795/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3795/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABD4E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:30:27,289    
+https://k.autohome.com.cn/3795/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3795/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABD4E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:30:27,984    
+https://k.autohome.com.cn/4923/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4923/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A474A8>, 'Connection to 92.127.155.231 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:27,999    
+https://k.autohome.com.cn/4923/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4923/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1A474A8>, 'Connection to 92.127.155.231 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:28,375    
+https://k.autohome.com.cn/4110/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4110/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Connection error',)))
+
+2019-03-20 16:30:28,395    
+https://k.autohome.com.cn/4110/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4110/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Connection error',)))
+
+2019-03-20 16:30:30,117    
+https://k.autohome.com.cn/4842/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4842/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDD68>, 'Connection to 111.177.169.254 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:30,186    
+https://k.autohome.com.cn/4842/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4842/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDD68>, 'Connection to 111.177.169.254 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:30,526    
+https://k.autohome.com.cn/4069/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4069/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDF98>, 'Connection to 49.86.180.55 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:30,541    
+https://k.autohome.com.cn/4069/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4069/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDF98>, 'Connection to 49.86.180.55 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:32,362    
+https://k.autohome.com.cn/4950/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4950/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:30:32,364    
+https://k.autohome.com.cn/4950/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4950/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:30:32,632    
+https://k.autohome.com.cn/4800/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4800/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDD68>, 'Connection to 118.174.232.47 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:32,634    
+https://k.autohome.com.cn/4800/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4800/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDD68>, 'Connection to 118.174.232.47 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:38,050    
+https://k.autohome.com.cn/4117/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:38,065    
+https://k.autohome.com.cn/4117/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:38,404    
+https://k.autohome.com.cn/4114/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4114/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ACCDA0>, 'Connection to 171.41.84.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:38,419    
+https://k.autohome.com.cn/4114/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4114/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ACCDA0>, 'Connection to 171.41.84.148 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:40,570    
+https://k.autohome.com.cn/5060/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5060/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4198>, 'Connection to 216.183.54.132 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:40,585    
+https://k.autohome.com.cn/5060/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5060/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4198>, 'Connection to 216.183.54.132 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:42,111    
+https://k.autohome.com.cn/965/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /965/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:30:42,126    
+https://k.autohome.com.cn/965/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /965/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:30:42,822    
+https://k.autohome.com.cn/3035/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3035/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBD908>, 'Connection to 115.203.100.142 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:42,845    
+https://k.autohome.com.cn/3035/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3035/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBD908>, 'Connection to 115.203.100.142 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:44,953    
+https://k.autohome.com.cn/622/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /622/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4A58>, 'Connection to 125.26.99.212 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:44,956    
+https://k.autohome.com.cn/622/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /622/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4A58>, 'Connection to 125.26.99.212 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:46,961    
+https://k.autohome.com.cn/966/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /966/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD05C0>, 'Connection to 111.177.173.129 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:46,964    
+https://k.autohome.com.cn/966/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /966/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD05C0>, 'Connection to 111.177.173.129 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:48,970    
+https://k.autohome.com.cn/852/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /852/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4E10>, 'Connection to 171.41.84.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:48,973    
+https://k.autohome.com.cn/852/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /852/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4E10>, 'Connection to 171.41.84.161 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:49,423    
+[{'IMPRESSION': '空间大', 'SCORE': 394, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '动力强劲', 'SCORE': 342, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '性价比还不错', 'SCORE': 339, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '油耗高', 'SCORE': 270, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '前排座椅舒适', 'SCORE': 116, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '操控还不错', 'SCORE': 113, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '转向轻重不合理', 'SCORE': 82, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '后备厢空间小', 'SCORE': 63, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '风噪大', 'SCORE': 55, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '起步慢', 'SCORE': 51, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '高速省油', 'SCORE': 15, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}, {'IMPRESSION': '有加价', 'SCORE': 2, 'CARTYPE': '绅宝X65', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 30, 826777)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:30:50,977    
+https://k.autohome.com.cn/4009/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4009/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD0B70>, 'Connection to 64.183.32.218 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:50,980    
+https://k.autohome.com.cn/4009/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4009/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD0B70>, 'Connection to 64.183.32.218 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:52,080    
+https://k.autohome.com.cn/2126/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:52,083    
+https://k.autohome.com.cn/2126/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:30:52,986    
+https://k.autohome.com.cn/4492/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4492/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4EF0>, 'Connection to 125.27.10.204 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:52,989    
+https://k.autohome.com.cn/4492/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4492/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4EF0>, 'Connection to 125.27.10.204 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:54,089    
+https://k.autohome.com.cn/3712/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3712/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BEF98>, 'Connection to 84.15.143.111 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:54,092    
+https://k.autohome.com.cn/3712/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3712/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BEF98>, 'Connection to 84.15.143.111 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:56,097    
+https://k.autohome.com.cn/3284/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3284/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4780>, 'Connection to 182.23.38.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:56,100    
+https://k.autohome.com.cn/3284/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3284/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4780>, 'Connection to 182.23.38.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:30:56,630    
+https://k.autohome.com.cn/4494/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4494/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:30:56,632    
+https://k.autohome.com.cn/4494/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4494/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:01,346    
+https://k.autohome.com.cn/3361/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:01,349    
+https://k.autohome.com.cn/3361/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:01,982    
+https://k.autohome.com.cn/3426/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3426/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11D2C88>, 'Connection to 176.36.164.240 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:01,986    
+https://k.autohome.com.cn/3426/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3426/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11D2C88>, 'Connection to 176.36.164.240 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:02,950    
+https://k.autohome.com.cn/4502/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4502/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:31:02,953    
+https://k.autohome.com.cn/4502/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4502/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:31:03,992    
+https://k.autohome.com.cn/4863/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4863/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE83C8>, 'Connection to 87.103.234.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:03,995    
+https://k.autohome.com.cn/4863/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4863/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE83C8>, 'Connection to 87.103.234.116 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:04,957    
+https://k.autohome.com.cn/4700/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4700/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD3CF8>, 'Connection to 43.247.136.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:04,960    
+https://k.autohome.com.cn/4700/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4700/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD3CF8>, 'Connection to 43.247.136.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:06,002    
+https://k.autohome.com.cn/4862/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4862/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4400>, 'Connection to 185.162.142.81 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:06,004    
+https://k.autohome.com.cn/4862/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4862/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4400>, 'Connection to 185.162.142.81 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:06,843    
+[{'IMPRESSION': '空间宽松', 'SCORE': 506, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '动力不错', 'SCORE': 291, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '性价比还不错', 'SCORE': 279, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '油耗高', 'SCORE': 266, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '操控优秀', 'SCORE': 220, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '前排座椅舒适', 'SCORE': 155, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '悬架减震糟糕', 'SCORE': 144, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '高速省油', 'SCORE': 19, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '后排中间凸起大', 'SCORE': 10, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': 'ABS防抱死差劲', 'SCORE': 2, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '涡轮介入迟滞', 'SCORE': 1, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}, {'IMPRESSION': '没有置换补贴', 'SCORE': 1, 'CARTYPE': '奔腾X80', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 30, 41, 996864)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:31:06,966    
+https://k.autohome.com.cn/2809/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2809/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD0748>, 'Connection to 111.177.186.65 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:06,971    
+https://k.autohome.com.cn/2809/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2809/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD0748>, 'Connection to 111.177.186.65 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:08,956    
+https://k.autohome.com.cn/2575/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2575/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:08,959    
+https://k.autohome.com.cn/2575/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2575/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:08,976    
+https://k.autohome.com.cn/2947/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2947/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3550>, 'Connection to 111.177.187.13 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:08,976    
+https://k.autohome.com.cn/2947/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2947/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3550>, 'Connection to 111.177.187.13 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:14,782    
+https://k.autohome.com.cn/5021/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5021/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDBA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:31:14,797    
+https://k.autohome.com.cn/5021/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5021/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDBA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)))
+
+2019-03-20 16:31:15,205    
+https://k.autohome.com.cn/5095/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5095/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBA748>, 'Connection to 223.165.241.9 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:15,215    
+https://k.autohome.com.cn/5095/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5095/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBA748>, 'Connection to 223.165.241.9 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:16,932    
+https://k.autohome.com.cn/4426/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4426/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE8748>, 'Connection to 150.129.250.28 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:16,947    
+https://k.autohome.com.cn/4426/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4426/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE8748>, 'Connection to 150.129.250.28 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:17,308    
+https://k.autohome.com.cn/4620/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4620/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B58D0>, 'Connection to 171.41.85.144 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:17,376    
+https://k.autohome.com.cn/4620/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4620/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11B58D0>, 'Connection to 171.41.85.144 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:19,044    
+https://k.autohome.com.cn/4103/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4103/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1202160>, 'Connection to 111.177.171.247 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:19,059    
+https://k.autohome.com.cn/4103/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4103/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1202160>, 'Connection to 111.177.171.247 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:19,549    
+https://k.autohome.com.cn/4046/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4046/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BED438>, 'Connection to 78.158.54.213 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:19,564    
+https://k.autohome.com.cn/4046/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4046/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BED438>, 'Connection to 78.158.54.213 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:20,010    
+没有解析出数据：Task(url=https://k.autohome.com.cn/5022/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A1A479E8>>, temp=北汽新能源EX5, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://103.17.37.85:8080'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:31:21,316    
+https://k.autohome.com.cn/4520/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4520/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BF3518>, 'Connection to 201.163.73.93 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:21,319    
+https://k.autohome.com.cn/4520/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4520/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BF3518>, 'Connection to 201.163.73.93 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:21,744    
+https://k.autohome.com.cn/3913/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3913/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BEDD30>, 'Connection to 182.111.64.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:21,746    
+https://k.autohome.com.cn/3913/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3913/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BEDD30>, 'Connection to 182.111.64.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:23,362    
+https://k.autohome.com.cn/4403/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4403/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:23,364    
+https://k.autohome.com.cn/4403/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4403/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:23,751    
+https://k.autohome.com.cn/4857/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4857/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4668>, 'Connection to 202.57.55.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:23,754    
+https://k.autohome.com.cn/4857/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4857/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BD4668>, 'Connection to 202.57.55.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:25,369    
+https://k.autohome.com.cn/4164/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4164/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4C18>, 'Connection to 109.75.249.57 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:25,372    
+https://k.autohome.com.cn/4164/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4164/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BC4C18>, 'Connection to 109.75.249.57 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:25,758    
+https://k.autohome.com.cn/4298/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4298/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDF60>, 'Connection to 185.189.211.70 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:25,760    
+https://k.autohome.com.cn/4298/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4298/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBDF60>, 'Connection to 185.189.211.70 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:27,376    
+https://k.autohome.com.cn/4786/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4786/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE8E10>, 'Connection to 95.31.5.37 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:27,379    
+https://k.autohome.com.cn/4786/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4786/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BE8E10>, 'Connection to 95.31.5.37 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:29,384    
+https://k.autohome.com.cn/4664/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4664/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11F2588>, 'Connection to 1.10.187.60 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:29,387    
+https://k.autohome.com.cn/4664/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4664/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11F2588>, 'Connection to 1.10.187.60 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:31,392    
+https://k.autohome.com.cn/4861/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4861/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2E80>, 'Connection to 111.177.170.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:31,395    
+https://k.autohome.com.cn/4861/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4861/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AA2E80>, 'Connection to 111.177.170.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:31,400    
+https://k.autohome.com.cn/4666/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:31,400    
+https://k.autohome.com.cn/4666/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:33,867    
+https://k.autohome.com.cn/4941/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4941/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:33,872    
+https://k.autohome.com.cn/4941/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4941/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:35,008    
+[{'IMPRESSION': '性价比不错', 'SCORE': 26, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '空间大', 'SCORE': 23, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '动力好评', 'SCORE': 19, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '操控优秀', 'SCORE': 18, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '前排座椅不舒适', 'SCORE': 18, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '电耗小', 'SCORE': 16, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '后备厢空间紧张', 'SCORE': 10, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '电池安全性不好', 'SCORE': 6, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '刹车不灵敏', 'SCORE': 2, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '发动机噪音小', 'SCORE': 1, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '满载动力糟糕', 'SCORE': 1, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}, {'IMPRESSION': '没有优惠', 'SCORE': 1, 'CARTYPE': 'EX系列', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 17, 968762)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:31:35,066    
+https://k.autohome.com.cn/3924/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3924/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:31:35,068    
+https://k.autohome.com.cn/3924/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3924/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+
+2019-03-20 16:31:37,074    
+https://k.autohome.com.cn/4445/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4445/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BEDF60>, 'Connection to 103.242.184.160 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:37,077    
+https://k.autohome.com.cn/4445/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4445/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BEDF60>, 'Connection to 103.242.184.160 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:39,565    
+https://k.autohome.com.cn/2778/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2778/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:39,581    
+https://k.autohome.com.cn/2778/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2778/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:40,659    
+https://k.autohome.com.cn/4976/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4976/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3048>, 'Connection to 3.17.154.4 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:40,674    
+https://k.autohome.com.cn/4976/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4976/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1AD3048>, 'Connection to 3.17.154.4 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:41,696    
+https://k.autohome.com.cn/4269/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4269/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C01710>, 'Connection to 171.41.84.146 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:41,711    
+https://k.autohome.com.cn/4269/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4269/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C01710>, 'Connection to 171.41.84.146 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:43,147    
+https://k.autohome.com.cn/3204/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3204/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C095F8>, 'Connection to 77.66.203.114 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:43,149    
+https://k.autohome.com.cn/3204/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3204/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C095F8>, 'Connection to 77.66.203.114 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:43,828    
+https://k.autohome.com.cn/4741/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4741/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBA438>, 'Connection to 1.10.188.42 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:43,831    
+https://k.autohome.com.cn/4741/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4741/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2BBA438>, 'Connection to 1.10.188.42 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:45,154    
+https://k.autohome.com.cn/3121/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3121/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C05E48>, 'Connection to 221.239.86.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:45,156    
+https://k.autohome.com.cn/3121/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3121/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C05E48>, 'Connection to 221.239.86.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:47,161    
+https://k.autohome.com.cn/535/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /535/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C092E8>, 'Connection to 111.177.162.213 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:47,163    
+https://k.autohome.com.cn/535/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /535/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C092E8>, 'Connection to 111.177.162.213 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:47,448    
+https://k.autohome.com.cn/4391/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4391/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:47,450    
+https://k.autohome.com.cn/4391/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4391/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:49,167    
+https://k.autohome.com.cn/2304/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2304/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C09E10>, 'Connection to 111.177.173.194 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:49,170    
+https://k.autohome.com.cn/2304/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2304/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C09E10>, 'Connection to 111.177.173.194 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:49,454    
+https://k.autohome.com.cn/6/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /6/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1D048>, 'Connection to 125.26.7.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:49,456    
+https://k.autohome.com.cn/6/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /6/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1D048>, 'Connection to 125.26.7.242 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:51,463    
+https://k.autohome.com.cn/4517/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4517/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE7F0>, 'Connection to 86.57.170.111 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:51,466    
+https://k.autohome.com.cn/4517/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4517/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11BE7F0>, 'Connection to 86.57.170.111 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:54,213    
+https://k.autohome.com.cn/552/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:54,216    
+https://k.autohome.com.cn/552/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:31:54,799    
+https://k.autohome.com.cn/3893/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3893/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:54,801    
+https://k.autohome.com.cn/3893/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3893/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:31:56,221    
+https://k.autohome.com.cn/3875/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3875/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C05DD8>, 'Connection to 118.173.233.38 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:56,224    
+https://k.autohome.com.cn/3875/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3875/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C05DD8>, 'Connection to 118.173.233.38 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:56,806    
+https://k.autohome.com.cn/2881/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2881/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C09E10>, 'Connection to 194.213.212.66 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:56,808    
+https://k.autohome.com.cn/2881/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2881/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C09E10>, 'Connection to 194.213.212.66 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:58,228    
+https://k.autohome.com.cn/4707/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4707/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C21080>, 'Connection to 110.74.193.50 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:58,231    
+https://k.autohome.com.cn/4707/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4707/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C21080>, 'Connection to 110.74.193.50 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:58,812    
+https://k.autohome.com.cn/4550/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4550/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C21A90>, 'Connection to 118.175.93.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:31:58,815    
+https://k.autohome.com.cn/4550/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4550/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C21A90>, 'Connection to 118.175.93.68 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:00,236    
+https://k.autohome.com.cn/4093/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4093/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C25630>, 'Connection to 118.172.211.183 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:00,239    
+https://k.autohome.com.cn/4093/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4093/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C25630>, 'Connection to 118.172.211.183 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:00,821    
+https://k.autohome.com.cn/4778/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4778/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C219E8>, 'Connection to 58.10.204.36 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:00,824    
+https://k.autohome.com.cn/4778/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4778/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C219E8>, 'Connection to 58.10.204.36 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:02,253    
+https://k.autohome.com.cn/874/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /874/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1DA90>, 'Connection to 103.87.104.137 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:02,268    
+https://k.autohome.com.cn/874/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /874/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1DA90>, 'Connection to 103.87.104.137 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:03,858    
+https://k.autohome.com.cn/4274/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4274/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11EAE10>, 'Connection to 118.174.233.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:03,874    
+https://k.autohome.com.cn/4274/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4274/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A11EAE10>, 'Connection to 118.174.233.7 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:04,370    
+https://k.autohome.com.cn/4746/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4746/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C32518>, 'Connection to 114.239.147.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:04,385    
+https://k.autohome.com.cn/4746/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4746/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C32518>, 'Connection to 114.239.147.26 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:05,997    
+https://k.autohome.com.cn/4232/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4232/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C32DA0>, 'Connection to 111.177.170.176 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:06,012    
+https://k.autohome.com.cn/4232/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4232/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C32DA0>, 'Connection to 111.177.170.176 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:06,489    
+https://k.autohome.com.cn/4993/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4993/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C01080>, 'Connection to 112.87.68.23 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:06,504    
+https://k.autohome.com.cn/4993/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4993/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C01080>, 'Connection to 112.87.68.23 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:07,275    
+[{'IMPRESSION': '后备厢空间绰绰有余', 'SCORE': 8, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '动力优秀', 'SCORE': 6, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '后排空间小', 'SCORE': 5, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '方向盘轻重合适', 'SCORE': 4, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '第一排座椅舒服', 'SCORE': 4, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '油耗高', 'SCORE': 4, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '悬架减震差劲', 'SCORE': 4, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '性价比还不错', 'SCORE': 3, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '市区路段省油', 'SCORE': 1, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '转向稳定性糟糕', 'SCORE': 1, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '没有优惠', 'SCORE': 1, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}, {'IMPRESSION': '后排头顶空间紧凑', 'SCORE': 1, 'CARTYPE': '长安CS85 COUPE', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 31, 42, 582335)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:32:13,566    
+https://k.autohome.com.cn/4744/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:32:13,568    
+https://k.autohome.com.cn/4744/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:32:14,952    
+https://k.autohome.com.cn/5061/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5061/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1D898>, 'Connection to 118.174.232.239 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:14,954    
+https://k.autohome.com.cn/5061/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /5061/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C1D898>, 'Connection to 118.174.232.239 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:16,958    
+https://k.autohome.com.cn/82/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /82/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C48AC8>, 'Connection to 1.197.203.231 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:16,960    
+https://k.autohome.com.cn/82/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /82/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C48AC8>, 'Connection to 1.197.203.231 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:17,188    
+https://k.autohome.com.cn/557/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:32:17,190    
+https://k.autohome.com.cn/557/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Read timed out. (read timeout=2)
+
+2019-03-20 16:32:18,965    
+https://k.autohome.com.cn/2427/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2427/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C3AAC8>, 'Connection to 154.119.55.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:18,967    
+https://k.autohome.com.cn/2427/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2427/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C3AAC8>, 'Connection to 154.119.55.115 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:19,195    
+https://k.autohome.com.cn/2917/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2917/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C059E8>, 'Connection to 171.41.84.147 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:19,197    
+https://k.autohome.com.cn/2917/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2917/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C059E8>, 'Connection to 171.41.84.147 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:20,972    
+https://k.autohome.com.cn/4048/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4048/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABF2E8>, 'Connection to 110.52.235.137 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:20,974    
+https://k.autohome.com.cn/4048/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4048/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A1ABF2E8>, 'Connection to 110.52.235.137 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:21,202    
+https://k.autohome.com.cn/3398/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3398/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C3F710>, 'Connection to 87.237.236.24 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:21,204    
+https://k.autohome.com.cn/3398/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /3398/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C3F710>, 'Connection to 87.237.236.24 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:23,290    
+[{'IMPRESSION': '空间绰绰有余', 'SCORE': 109, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '性价比还不错', 'SCORE': 47, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '油耗低', 'SCORE': 45, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '动力不错', 'SCORE': 43, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '转向轻重合适', 'SCORE': 36, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '悬架减震给力', 'SCORE': 30, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '没有优惠', 'SCORE': 18, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '起步不好', 'SCORE': 12, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '胎噪大', 'SCORE': 12, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '后排中间凸起大', 'SCORE': 3, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '市区路段费油', 'SCORE': 2, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}, {'IMPRESSION': '刹车踏板高度不合适', 'SCORE': 1, 'CARTYPE': '途岳', 'CRAW_TIME': datetime.datetime(2019, 3, 20, 16, 32, 6, 791635)}]存储出错！ORA-01036: 非法的变量名/编号
+
+2019-03-20 16:32:24,720    
+https://k.autohome.com.cn/4275/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4275/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C51630>, 'Connection to 36.7.128.146 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:24,721    
+https://k.autohome.com.cn/4275/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4275/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C51630>, 'Connection to 36.7.128.146 timed out. (connect timeout=2)'))
+
+2019-03-20 16:32:24,729    
+没有解析出数据：Task(url=https://k.autohome.com.cn/2993/ge0/0-0-2/, method=get, callback=<bound method Spider.yinxiang_parse of <spiders.Spider object at 0x000001B1A1AD7400>>, temp=CrossBlue, kwargs={'headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'}, 'proxies': {'https': 'https://112.87.70.16:9999'}}, response=<Response [200]>) Erro:max() arg is an empty sequence
+
+2019-03-20 16:32:26,854    
+https://k.autohome.com.cn/2584/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2584/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:36:33,376    
+https://k.autohome.com.cn/2584/ge0/0-0-2/ 返回中间列队等待处理！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /2584/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:36:35,511    
+https://k.autohome.com.cn/4186/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4186/ge0/0-0-2/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x000001B1A2C5DEF0>, 'Connection to 103.86.155.102 timed out. (connect timeout=2)'))
+
+2019-03-20 16:36:35,822    
+https://k.autohome.com.cn/4113/ge0/0-0-2/ 下载出错！HTTPSConnectionPool(host='k.autohome.com.cn', port=443): Max retries exceeded with url: /4113/ge0/0-0-2/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+
+2019-03-20 16:46:32,519    ==================================================

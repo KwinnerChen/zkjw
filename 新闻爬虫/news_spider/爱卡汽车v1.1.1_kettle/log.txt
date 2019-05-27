@@ -1,0 +1,493 @@
+2019-03-12 09:46:20,407    --------------------新闻列表线程开始--------------------
+2019-03-12 09:46:20,407    任务线程 0 启动！
+2019-03-12 09:46:20,407    任务线程 1 启动！
+2019-03-12 09:46:20,423    任务线程 2 启动！
+2019-03-12 09:46:49,938    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-12 09:46:55,063    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-12 09:50:44,298    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-12 09:51:20,704    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-12 09:51:50,126    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-12 09:56:08,548    http://info.xcar.com.cn/push_644_69/后无跟踪链接！
+2019-03-14 09:00:30,730    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-14 09:00:35,386    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-14 09:04:11,432    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-14 09:04:51,510    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-14 09:05:20,994    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-14 09:09:41,023    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-15 09:00:30,034    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-15 09:00:34,644    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-15 09:04:16,442    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-15 09:04:51,755    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-15 09:05:21,661    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-15 09:09:45,131    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-16 09:00:35,778    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-16 09:00:40,309    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-16 09:04:16,507    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-16 09:04:51,866    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-16 09:05:21,506    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-16 09:09:42,374    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-17 09:00:41,018    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-17 09:00:45,643    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-17 09:04:27,534    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-17 09:05:03,612    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-17 09:05:33,440    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-17 09:09:56,190    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-18 09:00:45,349    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-18 09:00:49,911    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-18 09:04:36,586    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-18 09:05:12,352    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-18 09:05:42,306    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-18 09:10:05,762    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-19 09:00:48,722    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-19 09:00:53,300    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-19 09:04:29,553    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-19 09:05:05,038    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-19 09:05:34,710    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-19 09:09:56,991    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-20 09:00:47,432    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-20 09:00:52,026    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-20 09:04:30,931    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-20 09:05:05,977    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-20 09:05:35,477    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-20 09:09:55,429    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-21 08:59:44,401    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-21 08:59:48,807    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-21 09:01:03,447    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-21 09:01:07,994    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-21 09:06:20,619    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-21 09:07:58,947    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-21 09:08:23,885    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-21 09:09:03,916    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-21 09:09:19,369    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-21 09:10:04,479    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-21 09:18:13,979    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-21 09:18:32,822    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-22 09:00:18,362    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-22 09:00:22,972    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-22 09:01:33,409    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-22 09:01:37,909    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-22 09:07:26,675    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-22 09:08:42,576    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-22 09:09:07,279    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-22 09:09:47,170    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-22 09:10:01,935    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-22 09:10:46,888    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-22 09:18:57,570    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-22 09:19:16,806    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-23 09:00:11,469    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-23 09:00:16,250    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-23 09:01:29,782    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-23 09:01:34,532    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-23 09:07:06,391    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-23 09:08:24,032    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-23 09:08:43,735    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-23 09:09:41,016    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-23 09:09:45,594    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-23 09:10:29,766    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-23 09:18:32,829    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-23 09:18:52,016    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-24 09:01:17,728    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-24 09:01:22,416    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-24 09:05:02,117    http://info.xcar.com.cn/list/884_12/后无跟踪链接！
+2019-03-24 09:05:36,508    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-24 09:06:05,726    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-24 09:10:27,522    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-25 09:01:20,554    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-25 09:01:25,210    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-25 09:04:53,350    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-03-25 09:05:45,162    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-25 09:06:14,740    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-25 09:10:37,566    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-26 09:00:10,584    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-26 09:00:15,225    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-26 09:01:29,629    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-26 09:01:43,348    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-26 09:06:22,061    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-03-26 09:08:31,137    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-03-26 09:08:41,762    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-26 09:09:41,401    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-26 09:09:56,213    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-26 09:10:40,884    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-26 09:18:48,818    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-26 09:19:08,098    http://info.xcar.com.cn/push_644_70/后无跟踪链接！
+2019-03-27 12:00:16,987    --------------------新闻列表线程开始--------------------
+2019-03-27 12:00:17,065    任务线程 0 启动！
+2019-03-27 12:00:17,065    任务线程 1 启动！
+2019-03-27 12:00:17,065    任务线程 2 启动！
+2019-03-28 10:08:52,453    --------------------新闻列表线程开始--------------------
+2019-03-28 10:08:52,455    任务线程 0 启动！
+2019-03-28 10:08:52,456    任务线程 1 启动！
+2019-03-28 10:08:52,457    任务线程 2 启动！
+2019-03-30 09:00:55,081    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-30 09:00:59,706    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-30 09:04:16,378    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-03-30 09:05:09,315    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-30 09:05:38,831    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-30 09:10:05,174    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-03-31 09:00:44,187    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-03-31 09:00:48,828    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-03-31 09:04:09,670    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-03-31 09:05:09,201    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-03-31 09:05:38,951    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-03-31 09:10:04,136    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-01 09:00:44,406    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-01 09:00:49,094    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-01 09:04:21,150    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-01 09:05:11,562    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-01 09:05:40,924    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-01 09:10:06,299    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-02 10:03:02,601    --------------------新闻列表线程开始--------------------
+2019-04-02 10:03:02,633    任务线程 0 启动！
+2019-04-02 10:03:02,648    任务线程 1 启动！
+2019-04-02 10:03:02,648    任务线程 2 启动！
+2019-04-03 09:01:00,689    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-03 09:01:05,376    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-03 09:04:10,110    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-03 09:04:58,689    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-03 09:05:26,720    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-03 09:09:38,251    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-04 09:02:10,463    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-04 09:02:52,197    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-04 09:05:48,835    http://www.xcar.com.cn/bbs/viewthread.php?tid=30698724 没有解析出数据！
+2019-04-04 09:05:49,492    http://www.xcar.com.cn/bbs/viewthread.php?tid=30712029 没有解析出数据！
+2019-04-04 09:05:51,413    http://www.xcar.com.cn/bbs/viewthread.php?tid=30696712 没有解析出数据！
+2019-04-04 09:05:56,304    http://www.xcar.com.cn/bbs/viewthread.php?tid=30706248 没有解析出数据！
+2019-04-04 09:06:00,460    http://info.xcar.com.cn/201711/news_1992431_1.html 没有解析出数据！
+2019-04-04 09:06:06,038    http://info.xcar.com.cn/201711/news_1992347_1.html 没有解析出数据！
+2019-04-04 09:06:10,179    http://info.xcar.com.cn/201711/news_1992311_1.html 没有解析出数据！
+2019-04-04 09:06:13,585    http://info.xcar.com.cn/201711/news_1992309_1.html 没有解析出数据！
+2019-04-04 09:06:14,335    http://info.xcar.com.cn/201711/news_1992306_1.html 没有解析出数据！
+2019-04-04 09:06:18,069    http://info.xcar.com.cn/201711/news_1992295_1.html 没有解析出数据！
+2019-04-04 09:06:18,116    http://info.xcar.com.cn/201711/news_1992252_1.html 没有解析出数据！
+2019-04-04 09:06:18,476    http://info.xcar.com.cn/201711/news_1992200_1.html 没有解析出数据！
+2019-04-04 09:06:23,069    http://info.xcar.com.cn/201711/news_1992119_1.html 没有解析出数据！
+2019-04-04 09:06:27,429    http://info.xcar.com.cn/201711/news_1992352_1.html 没有解析出数据！
+2019-04-04 09:06:31,397    http://info.xcar.com.cn/201711/news_1992329_1.html 没有解析出数据！
+2019-04-04 09:06:32,538    http://info.xcar.com.cn/201712/news_1993849_1.html 没有解析出数据！
+2019-04-04 09:06:34,616    http://info.xcar.com.cn/201711/news_1992133_1.html 没有解析出数据！
+2019-04-04 09:15:01,094    http://info.xcar.com.cn/201711/news_1992057_1.html 没有解析出数据！
+2019-04-04 09:15:53,296    http://info.xcar.com.cn/201711/news_1992052_1.html 没有解析出数据！
+2019-04-04 09:15:57,781    http://info.xcar.com.cn/201711/news_1992041_1.html 没有解析出数据！
+2019-04-04 09:16:50,499    http://info.xcar.com.cn/201711/news_1992037_1.html 没有解析出数据！
+2019-04-04 09:16:54,967    http://info.xcar.com.cn/201711/news_1992033_1.html 没有解析出数据！
+2019-04-04 09:16:59,124    http://info.xcar.com.cn/201711/news_1992032_1.html 没有解析出数据！
+2019-04-04 09:17:42,248    http://info.xcar.com.cn/201711/news_1992031_1.html 没有解析出数据！
+2019-04-04 09:17:45,342    http://info.xcar.com.cn/201711/news_1992030_1.html 没有解析出数据！
+2019-04-04 09:17:46,670    http://info.xcar.com.cn/201711/news_1992029_1.html 没有解析出数据！
+2019-04-04 09:17:49,482    http://info.xcar.com.cn/201711/news_1992027_1.html 没有解析出数据！
+2019-04-04 09:17:54,529    http://info.xcar.com.cn/201711/news_1992025_1.html 没有解析出数据！
+2019-04-04 09:17:55,482    http://info.xcar.com.cn/201711/news_1992024_1.html 没有解析出数据！
+2019-04-04 09:23:18,666    http://info.xcar.com.cn/201711/news_1992023_1.html 没有解析出数据！
+2019-04-04 09:23:32,166    http://info.xcar.com.cn/201711/news_1992019_1.html 没有解析出数据！
+2019-04-04 09:24:15,306    http://info.xcar.com.cn/201711/news_1992016_1.html 没有解析出数据！
+2019-04-04 09:24:19,571    http://info.xcar.com.cn/201711/news_1992015_1.html 没有解析出数据！
+2019-04-04 09:24:22,556    http://info.xcar.com.cn/201711/news_1992017_1.html 没有解析出数据！
+2019-04-04 09:24:23,821    http://info.xcar.com.cn/201711/news_1992014_1.html 没有解析出数据！
+2019-04-04 09:24:27,149    http://info.xcar.com.cn/201711/news_1992012_1.html 没有解析出数据！
+2019-04-04 09:24:32,149    http://info.xcar.com.cn/201711/news_1992011_1.html 没有解析出数据！
+2019-04-04 09:24:36,633    http://info.xcar.com.cn/201711/news_1992034_1.html 没有解析出数据！
+2019-04-04 09:24:39,868    http://info.xcar.com.cn/201711/news_1992007_1.html 没有解析出数据！
+2019-04-04 09:24:45,961    http://info.xcar.com.cn/201711/news_1992009_1.html 没有解析出数据！
+2019-04-04 09:25:05,696    http://info.xcar.com.cn/201711/news_1992004_1.html 没有解析出数据！
+2019-04-04 09:25:07,899    http://info.xcar.com.cn/201711/news_1991997_1.html 没有解析出数据！
+2019-04-04 09:30:37,207    http://info.xcar.com.cn/201711/news_1991984_1.html 没有解析出数据！
+2019-04-04 09:30:39,519    http://info.xcar.com.cn/201711/news_1991987_1.html 没有解析出数据！
+2019-04-04 09:30:41,348    http://info.xcar.com.cn/201711/news_1991975_1.html 没有解析出数据！
+2019-04-04 09:30:44,269    http://info.xcar.com.cn/201711/news_1991965_1.html 没有解析出数据！
+2019-04-04 09:30:51,426    http://info.xcar.com.cn/201711/news_1991960_1.html 没有解析出数据！
+2019-04-04 09:30:53,019    http://info.xcar.com.cn/201711/news_1991964_1.html 没有解析出数据！
+2019-04-04 09:31:02,066    http://info.xcar.com.cn/201711/news_1991950_1.html 没有解析出数据！
+2019-04-04 09:31:04,878    http://info.xcar.com.cn/201711/news_1991942_1.html 没有解析出数据！
+2019-04-04 09:31:08,394    http://info.xcar.com.cn/201711/news_1992307_1.html 没有解析出数据！
+2019-04-04 09:34:09,001    http://info.xcar.com.cn/201711/news_1991939_1.html 没有解析出数据！
+2019-04-04 09:34:09,001    http://info.xcar.com.cn/201711/news_1991424_1.html 没有解析出数据！
+2019-04-04 09:34:10,485    http://info.xcar.com.cn/201711/news_1991934_1.html 没有解析出数据！
+2019-04-04 09:34:13,157    http://info.xcar.com.cn/201711/news_1991930_1.html 没有解析出数据！
+2019-04-04 09:34:20,079    http://info.xcar.com.cn/201711/news_1991926_1.html 没有解析出数据！
+2019-04-04 09:34:26,220    http://info.xcar.com.cn/201711/news_1991918_1.html 没有解析出数据！
+2019-04-04 09:34:32,813    http://info.xcar.com.cn/201711/news_1991911_1.html 没有解析出数据！
+2019-04-04 09:34:56,907    http://info.xcar.com.cn/201711/news_1991899_1.html 没有解析出数据！
+2019-04-04 09:48:32,193    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-04 09:52:58,002    http://info.xcar.com.cn/201711/news_1991628_1.html 没有解析出数据！
+2019-04-04 09:53:27,486    http://info.xcar.com.cn/201711/news_1991570_1.html 没有解析出数据！
+2019-04-04 09:56:56,749    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-04 10:00:08,169    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-04 11:04:27,030    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-05 08:59:36,505    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-05 09:00:10,334    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-05 09:03:10,397    http://www.xcar.com.cn/bbs/viewthread.php?tid=30696712 没有解析出数据！
+2019-04-05 09:03:10,413    http://www.xcar.com.cn/bbs/viewthread.php?tid=30698724 没有解析出数据！
+2019-04-05 09:03:10,429    http://www.xcar.com.cn/bbs/viewthread.php?tid=30712029 没有解析出数据！
+2019-04-05 09:03:20,366    http://www.xcar.com.cn/bbs/viewthread.php?tid=30706248 没有解析出数据！
+2019-04-05 09:03:21,616    http://info.xcar.com.cn/201711/news_1992431_1.html 没有解析出数据！
+2019-04-05 09:03:28,272    http://info.xcar.com.cn/201711/news_1992347_1.html 没有解析出数据！
+2019-04-05 09:03:31,397    http://info.xcar.com.cn/201711/news_1992311_1.html 没有解析出数据！
+2019-04-05 09:03:32,632    http://info.xcar.com.cn/201711/news_1992309_1.html 没有解析出数据！
+2019-04-05 09:03:35,569    http://info.xcar.com.cn/201711/news_1992306_1.html 没有解析出数据！
+2019-04-05 09:03:36,804    http://info.xcar.com.cn/201711/news_1992295_1.html 没有解析出数据！
+2019-04-05 09:03:39,007    http://info.xcar.com.cn/201711/news_1992252_1.html 没有解析出数据！
+2019-04-05 09:03:39,694    http://info.xcar.com.cn/201711/news_1992200_1.html 没有解析出数据！
+2019-04-05 09:03:42,429    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-05 09:03:44,273    http://info.xcar.com.cn/201711/news_1992119_1.html 没有解析出数据！
+2019-04-05 09:03:47,069    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-05 09:03:48,585    http://info.xcar.com.cn/201711/news_1992329_1.html 没有解析出数据！
+2019-04-05 09:03:48,851    http://info.xcar.com.cn/201711/news_1992352_1.html 没有解析出数据！
+2019-04-05 09:03:51,366    http://info.xcar.com.cn/201712/news_1993849_1.html 没有解析出数据！
+2019-04-05 09:03:52,757    http://info.xcar.com.cn/201711/news_1992133_1.html 没有解析出数据！
+2019-04-05 09:06:14,461    http://info.xcar.com.cn/201711/news_1992057_1.html 没有解析出数据！
+2019-04-05 09:06:27,789    http://info.xcar.com.cn/201711/news_1992052_1.html 没有解析出数据！
+2019-04-05 09:06:31,289    http://info.xcar.com.cn/201711/news_1992041_1.html 没有解析出数据！
+2019-04-05 09:06:37,821    http://info.xcar.com.cn/201711/news_1992037_1.html 没有解析出数据！
+2019-04-05 09:06:42,586    http://info.xcar.com.cn/201711/news_1992033_1.html 没有解析出数据！
+2019-04-05 09:06:46,883    http://info.xcar.com.cn/201711/news_1992032_1.html 没有解析出数据！
+2019-04-05 09:06:51,008    http://info.xcar.com.cn/201711/news_1992031_1.html 没有解析出数据！
+2019-04-05 09:06:54,602    http://info.xcar.com.cn/201711/news_1992030_1.html 没有解析出数据！
+2019-04-05 09:06:55,227    http://info.xcar.com.cn/201711/news_1992029_1.html 没有解析出数据！
+2019-04-05 09:06:58,743    http://info.xcar.com.cn/201711/news_1992027_1.html 没有解析出数据！
+2019-04-05 09:07:02,883    http://info.xcar.com.cn/201711/news_1992025_1.html 没有解析出数据！
+2019-04-05 09:07:05,711    http://info.xcar.com.cn/201711/news_1992024_1.html 没有解析出数据！
+2019-04-05 09:10:17,541    http://info.xcar.com.cn/201711/news_1992023_1.html 没有解析出数据！
+2019-04-05 09:10:17,556    http://info.xcar.com.cn/201711/news_1992019_1.html 没有解析出数据！
+2019-04-05 09:10:26,041    http://info.xcar.com.cn/201711/news_1992017_1.html 没有解析出数据！
+2019-04-05 09:10:30,213    http://info.xcar.com.cn/201711/news_1992016_1.html 没有解析出数据！
+2019-04-05 09:10:34,338    http://info.xcar.com.cn/201711/news_1992015_1.html 没有解析出数据！
+2019-04-05 09:10:38,666    http://info.xcar.com.cn/201711/news_1992014_1.html 没有解析出数据！
+2019-04-05 09:10:42,916    http://info.xcar.com.cn/201711/news_1992012_1.html 没有解析出数据！
+2019-04-05 09:11:05,510    http://info.xcar.com.cn/201711/news_1992011_1.html 没有解析出数据！
+2019-04-05 09:11:15,369    http://info.xcar.com.cn/201711/news_1992009_1.html 没有解析出数据！
+2019-04-05 09:11:19,525    http://info.xcar.com.cn/201711/news_1992034_1.html 没有解析出数据！
+2019-04-05 09:11:23,729    http://info.xcar.com.cn/201711/news_1992007_1.html 没有解析出数据！
+2019-04-05 09:14:04,511    http://info.xcar.com.cn/201711/news_1992004_1.html 没有解析出数据！
+2019-04-05 09:14:11,683    http://info.xcar.com.cn/201711/news_1991997_1.html 没有解析出数据！
+2019-04-05 09:21:54,108    http://info.xcar.com.cn/201711/news_1991984_1.html 没有解析出数据！
+2019-04-05 09:22:58,155    http://info.xcar.com.cn/201711/news_1991975_1.html 没有解析出数据！
+2019-04-05 09:22:58,499    http://info.xcar.com.cn/201711/news_1991987_1.html 没有解析出数据！
+2019-04-05 09:22:59,702    http://info.xcar.com.cn/201711/news_1991965_1.html 没有解析出数据！
+2019-04-05 09:23:02,608    http://info.xcar.com.cn/201711/news_1991964_1.html 没有解析出数据！
+2019-04-05 09:23:06,764    http://info.xcar.com.cn/201711/news_1991960_1.html 没有解析出数据！
+2019-04-05 09:23:15,202    http://info.xcar.com.cn/201711/news_1991950_1.html 没有解析出数据！
+2019-04-05 09:23:16,780    http://info.xcar.com.cn/201711/news_1991942_1.html 没有解析出数据！
+2019-04-05 09:23:18,264    http://info.xcar.com.cn/201711/news_1992307_1.html 没有解析出数据！
+2019-04-05 09:26:42,156    http://info.xcar.com.cn/201711/news_1991939_1.html 没有解析出数据！
+2019-04-05 09:26:47,453    http://info.xcar.com.cn/201711/news_1991424_1.html 没有解析出数据！
+2019-04-05 09:26:52,141    http://info.xcar.com.cn/201711/news_1991934_1.html 没有解析出数据！
+2019-04-05 09:26:52,344    http://info.xcar.com.cn/201711/news_1991930_1.html 没有解析出数据！
+2019-04-05 09:26:57,703    http://info.xcar.com.cn/201711/news_1991926_1.html 没有解析出数据！
+2019-04-05 09:27:07,078    http://info.xcar.com.cn/201711/news_1991918_1.html 没有解析出数据！
+2019-04-05 09:27:13,953    http://info.xcar.com.cn/201711/news_1991911_1.html 没有解析出数据！
+2019-04-05 09:27:31,157    http://info.xcar.com.cn/201711/news_1991899_1.html 没有解析出数据！
+2019-04-05 09:47:40,039    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-05 09:51:52,400    http://info.xcar.com.cn/201711/news_1991628_1.html 没有解析出数据！
+2019-04-05 09:52:04,947    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-05 09:52:18,354    http://info.xcar.com.cn/201711/news_1991570_1.html 没有解析出数据！
+2019-04-05 09:55:13,902    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-05 09:57:04,184    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-05 10:04:39,512    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-05 10:08:08,660    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-05 11:12:43,314    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-05 11:13:40,638    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-08 00:25:29,669    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-08 00:25:34,137    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-08 00:28:49,839    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-08 00:29:37,855    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-08 00:30:06,089    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-08 00:34:20,696    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-08 09:00:52,534    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-08 09:00:57,659    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-08 09:04:05,065    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-08 09:04:53,643    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-08 09:05:21,955    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-08 09:09:36,690    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-09 09:00:46,704    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-09 09:00:51,422    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-09 09:03:58,033    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-09 09:04:46,783    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-09 09:05:14,986    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-09 09:09:29,894    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-10 09:00:22,040    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-10 09:00:26,853    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-10 09:03:37,494    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-10 09:04:26,104    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-10 09:04:54,339    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-10 09:09:09,028    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-11 09:00:07,011    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-11 09:00:11,574    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-11 09:01:28,198    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-11 09:01:32,620    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-11 09:05:36,759    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-11 09:07:22,071    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-11 09:07:36,243    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-11 09:08:49,446    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-11 09:09:03,805    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-11 09:09:46,086    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-11 09:17:39,989    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-11 09:17:58,473    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-12 09:00:16,392    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-12 09:00:21,220    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-12 09:01:37,142    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-12 09:01:41,783    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-12 09:05:51,111    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-12 09:07:48,173    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-12 09:08:02,173    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-12 09:09:13,330    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-12 09:09:27,564    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-12 09:10:09,861    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-12 09:18:03,705    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-12 09:18:22,017    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-13 09:00:12,978    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-13 09:00:17,416    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-13 09:01:28,572    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-13 09:01:32,947    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-13 09:05:40,791    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-13 09:07:38,635    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-13 09:07:51,306    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-13 09:08:48,338    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-13 09:09:02,338    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-13 09:09:44,572    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-13 09:17:39,010    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-13 09:17:57,260    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-14 09:01:07,328    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-14 09:01:12,656    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-14 09:04:29,216    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-14 09:05:18,591    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-14 09:05:46,684    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-14 09:10:00,322    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-15 09:00:59,627    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-15 09:01:04,705    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-15 09:04:28,016    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-15 09:05:16,032    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-15 09:05:44,219    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-15 09:09:57,795    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-16 09:02:02,067    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-16 09:02:34,552    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-16 09:09:30,861    http://www.xcar.com.cn/bbs/viewthread.php?tid=30698724 没有解析出数据！
+2019-04-16 09:09:37,814    http://www.xcar.com.cn/bbs/viewthread.php?tid=30712029 没有解析出数据！
+2019-04-16 09:09:37,846    http://www.xcar.com.cn/bbs/viewthread.php?tid=30696712 没有解析出数据！
+2019-04-16 09:09:37,861    http://www.xcar.com.cn/bbs/viewthread.php?tid=30706248 没有解析出数据！
+2019-04-16 09:09:49,423    http://info.xcar.com.cn/201711/news_1992431_1.html 没有解析出数据！
+2019-04-16 09:09:54,017    http://info.xcar.com.cn/201711/news_1992347_1.html 没有解析出数据！
+2019-04-16 09:09:55,986    http://info.xcar.com.cn/201711/news_1992309_1.html 没有解析出数据！
+2019-04-16 09:09:55,986    http://info.xcar.com.cn/201711/news_1992311_1.html 没有解析出数据！
+2019-04-16 09:09:58,142    http://info.xcar.com.cn/201711/news_1992306_1.html 没有解析出数据！
+2019-04-16 09:10:00,236    http://info.xcar.com.cn/201711/news_1992295_1.html 没有解析出数据！
+2019-04-16 09:10:00,236    http://info.xcar.com.cn/201711/news_1992252_1.html 没有解析出数据！
+2019-04-16 09:10:02,329    http://info.xcar.com.cn/201711/news_1992200_1.html 没有解析出数据！
+2019-04-16 09:10:06,470    http://info.xcar.com.cn/201711/news_1992119_1.html 没有解析出数据！
+2019-04-16 09:10:10,251    http://info.xcar.com.cn/201711/news_1992352_1.html 没有解析出数据！
+2019-04-16 09:10:11,126    http://info.xcar.com.cn/201711/news_1992329_1.html 没有解析出数据！
+2019-04-16 09:10:14,814    http://info.xcar.com.cn/201712/news_1993849_1.html 没有解析出数据！
+2019-04-16 09:10:15,282    http://info.xcar.com.cn/201711/news_1992133_1.html 没有解析出数据！
+2019-04-16 09:14:50,636    http://info.xcar.com.cn/201711/news_1992057_1.html 没有解析出数据！
+2019-04-16 09:16:01,073    http://info.xcar.com.cn/201711/news_1992052_1.html 没有解析出数据！
+2019-04-16 09:16:09,838    http://info.xcar.com.cn/201711/news_1992041_1.html 没有解析出数据！
+2019-04-16 09:16:50,025    http://info.xcar.com.cn/201711/news_1992037_1.html 没有解析出数据！
+2019-04-16 09:16:54,165    http://info.xcar.com.cn/201711/news_1992033_1.html 没有解析出数据！
+2019-04-16 09:16:58,306    http://info.xcar.com.cn/201711/news_1992032_1.html 没有解析出数据！
+2019-04-16 09:17:02,446    http://info.xcar.com.cn/201711/news_1992031_1.html 没有解析出数据！
+2019-04-16 09:17:06,587    http://info.xcar.com.cn/201711/news_1992030_1.html 没有解析出数据！
+2019-04-16 09:17:10,712    http://info.xcar.com.cn/201711/news_1992029_1.html 没有解析出数据！
+2019-04-16 09:17:14,852    http://info.xcar.com.cn/201711/news_1992027_1.html 没有解析出数据！
+2019-04-16 09:18:04,117    http://info.xcar.com.cn/201711/news_1992025_1.html 没有解析出数据！
+2019-04-16 09:18:08,258    http://info.xcar.com.cn/201711/news_1992024_1.html 没有解析出数据！
+2019-04-16 09:26:57,484    http://info.xcar.com.cn/201711/news_1992023_1.html 没有解析出数据！
+2019-04-16 09:26:59,062    http://info.xcar.com.cn/201711/news_1992019_1.html 没有解析出数据！
+2019-04-16 09:27:08,015    http://info.xcar.com.cn/201711/news_1992017_1.html 没有解析出数据！
+2019-04-16 09:27:10,203    http://info.xcar.com.cn/201711/news_1992016_1.html 没有解析出数据！
+2019-04-16 09:27:12,156    http://info.xcar.com.cn/201711/news_1992015_1.html 没有解析出数据！
+2019-04-16 09:27:14,015    http://info.xcar.com.cn/201711/news_1992014_1.html 没有解析出数据！
+2019-04-16 09:27:14,578    http://info.xcar.com.cn/201711/news_1992012_1.html 没有解析出数据！
+2019-04-16 09:27:18,344    http://info.xcar.com.cn/201711/news_1992011_1.html 没有解析出数据！
+2019-04-16 09:27:22,250    http://info.xcar.com.cn/201711/news_1992009_1.html 没有解析出数据！
+2019-04-16 09:27:22,484    http://info.xcar.com.cn/201711/news_1992034_1.html 没有解析出数据！
+2019-04-16 09:27:23,844    http://info.xcar.com.cn/201711/news_1992007_1.html 没有解析出数据！
+2019-04-16 09:27:34,891    http://info.xcar.com.cn/201711/news_1992004_1.html 没有解析出数据！
+2019-04-16 09:27:41,188    http://info.xcar.com.cn/201711/news_1991997_1.html 没有解析出数据！
+2019-04-16 09:30:49,378    http://info.xcar.com.cn/201711/news_1991984_1.html 没有解析出数据！
+2019-04-16 09:30:56,003    http://info.xcar.com.cn/201711/news_1991987_1.html 没有解析出数据！
+2019-04-16 09:31:00,378    http://info.xcar.com.cn/201711/news_1991975_1.html 没有解析出数据！
+2019-04-16 09:31:04,534    http://info.xcar.com.cn/201711/news_1991965_1.html 没有解析出数据！
+2019-04-16 09:31:08,659    http://info.xcar.com.cn/201711/news_1991964_1.html 没有解析出数据！
+2019-04-16 09:32:19,019    http://info.xcar.com.cn/201711/news_1991960_1.html 没有解析出数据！
+2019-04-16 09:33:55,802    http://info.xcar.com.cn/201711/news_1991950_1.html 没有解析出数据！
+2019-04-16 09:33:59,942    http://info.xcar.com.cn/201711/news_1991942_1.html 没有解析出数据！
+2019-04-16 09:34:02,599    http://info.xcar.com.cn/201711/news_1992307_1.html 没有解析出数据！
+2019-04-16 09:37:25,070    http://info.xcar.com.cn/201711/news_1991939_1.html 没有解析出数据！
+2019-04-16 09:37:29,258    http://info.xcar.com.cn/201711/news_1991424_1.html 没有解析出数据！
+2019-04-16 09:37:30,851    http://info.xcar.com.cn/201711/news_1991934_1.html 没有解析出数据！
+2019-04-16 09:37:33,383    http://info.xcar.com.cn/201711/news_1991930_1.html 没有解析出数据！
+2019-04-16 09:37:43,398    http://info.xcar.com.cn/201711/news_1991926_1.html 没有解析出数据！
+2019-04-16 09:37:48,961    http://info.xcar.com.cn/201711/news_1991918_1.html 没有解析出数据！
+2019-04-16 09:37:55,524    http://info.xcar.com.cn/201711/news_1991911_1.html 没有解析出数据！
+2019-04-16 09:38:18,696    http://info.xcar.com.cn/201711/news_1991899_1.html 没有解析出数据！
+2019-04-16 10:04:32,808    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-16 10:10:38,746    http://info.xcar.com.cn/201711/news_1991628_1.html 没有解析出数据！
+2019-04-16 10:11:08,054    http://info.xcar.com.cn/201711/news_1991570_1.html 没有解析出数据！
+2019-04-16 10:14:34,149    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-16 10:19:04,950    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-16 11:34:02,233    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-17 09:00:43,482    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-17 09:00:47,920    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-17 09:03:51,934    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-17 09:04:39,621    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-17 09:05:07,653    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-17 09:09:22,979    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-18 09:00:34,139    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-18 09:00:38,639    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-18 09:03:45,967    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-18 09:04:34,624    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-18 09:05:02,967    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-18 09:09:18,827    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-19 09:00:20,491    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-19 09:00:25,257    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-19 09:03:45,319    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-19 09:04:33,897    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-19 09:05:01,929    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-19 09:09:15,194    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-20 09:00:57,509    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-20 09:01:02,071    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-20 09:04:17,507    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-20 09:05:06,101    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-20 09:05:34,085    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-20 09:09:46,599    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-21 09:00:43,473    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-21 09:00:48,052    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-21 09:03:51,553    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-21 09:04:39,162    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-21 09:05:07,131    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-21 09:09:19,117    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-22 09:00:30,919    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-22 09:00:35,810    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-22 09:03:41,435    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-22 09:04:29,810    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-22 09:04:58,169    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-22 09:09:11,294    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-23 09:00:09,016    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-23 09:00:13,483    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-23 09:01:25,367    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-23 09:01:30,077    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-23 09:05:47,869    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-23 09:07:46,681    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-23 09:07:57,208    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-23 09:08:53,835    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-23 09:09:07,884    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-23 09:09:49,984    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-23 09:17:42,635    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-23 09:18:01,116    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-24 09:01:02,705    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-24 09:01:07,216    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-24 09:04:17,947    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-24 09:05:14,168    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-24 09:05:42,332    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-24 09:09:57,624    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-25 09:00:54,763    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-25 09:00:59,597    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-25 09:04:06,863    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-25 09:04:55,488    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-25 09:05:23,699    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-25 09:09:38,405    http://info.xcar.com.cn/push_644_71/后无跟踪链接！
+2019-04-26 09:00:50,843    http://info.xcar.com.cn/list/833/后无跟踪链接！
+2019-04-26 09:00:55,272    http://www.xcar.com.cn/chezhan/没有新闻列表！
+2019-04-26 09:04:00,890    http://info.xcar.com.cn/list/884_11/后无跟踪链接！
+2019-04-26 09:04:49,286    http://www.xcar.com.cn/tag/192630_13.html后无跟踪链接！
+2019-04-26 09:05:17,438    http://info.xcar.com.cn/push_643_17/后无跟踪链接！
+2019-04-26 09:09:32,178    http://info.xcar.com.cn/push_644_71/后无跟踪链接！

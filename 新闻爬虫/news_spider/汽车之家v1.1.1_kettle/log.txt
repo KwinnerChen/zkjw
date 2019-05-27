@@ -1,0 +1,71 @@
+2019-03-12 09:51:00,219    --------------------新闻列表线程开始--------------------
+2019-03-12 09:51:00,219    任务线程 0 启动！
+2019-03-12 09:51:00,219    任务线程 1 启动！
+2019-03-12 09:51:00,219    任务线程 2 启动！
+2019-03-12 09:54:18,626    https://www.autohome.com.cn/news/38/#liststart后无跟踪链接！
+2019-03-14 15:43:08,431    https://www.autohome.com.cn/news/4648/#liststart后无跟踪链接！
+2019-03-15 11:51:57,018    https://www.autohome.com.cn/news/1999/#liststart后无跟踪链接！
+2019-03-16 16:09:02,133    https://www.autohome.com.cn/news/4655/#liststart后无跟踪链接！
+2019-03-17 13:40:37,054    https://www.autohome.com.cn/news/3163/#liststart 下载出错！
+2019-03-18 15:40:02,127    https://www.autohome.com.cn/news/4656/#liststart后无跟踪链接！
+2019-03-19 15:45:41,574    https://www.autohome.com.cn/news/4660/#liststart后无跟踪链接！
+2019-03-20 15:49:16,964    https://www.autohome.com.cn/news/4662/#liststart后无跟踪链接！
+2019-03-21 22:23:27,366    https://www.autohome.com.cn/news/4665/#liststart后无跟踪链接！
+2019-03-21 22:24:16,945    https://www.autohome.com.cn/news/4665/#liststart后无跟踪链接！
+2019-03-22 22:27:06,891    https://www.autohome.com.cn/news/4668/#liststart后无跟踪链接！
+2019-03-22 22:27:56,035    https://www.autohome.com.cn/news/4668/#liststart后无跟踪链接！
+2019-03-23 22:36:13,197    https://www.autohome.com.cn/news/4670/#liststart后无跟踪链接！
+2019-03-23 22:37:24,291    https://www.autohome.com.cn/news/4670/#liststart后无跟踪链接！
+2019-03-24 15:40:07,349    https://www.autohome.com.cn/news/4671/#liststart后无跟踪链接！
+2019-03-25 15:54:09,382    https://www.autohome.com.cn/news/4671/#liststart后无跟踪链接！
+2019-03-26 22:16:46,115    https://www.autohome.com.cn/news/4675/#liststart后无跟踪链接！
+2019-03-26 22:17:40,148    https://www.autohome.com.cn/news/4675/#liststart后无跟踪链接！
+2019-03-27 12:02:56,674    --------------------新闻列表线程开始--------------------
+2019-03-27 12:02:56,737    任务线程 0 启动！
+2019-03-27 12:02:56,737    任务线程 1 启动！
+2019-03-27 12:02:56,737    任务线程 2 启动！
+2019-03-28 10:10:53,444    --------------------新闻列表线程开始--------------------
+2019-03-28 10:10:53,445    任务线程 0 启动！
+2019-03-28 10:10:53,446    任务线程 1 启动！
+2019-03-28 10:10:53,447    任务线程 2 启动！
+2019-03-30 15:53:14,660    https://www.autohome.com.cn/news/4686/#liststart后无跟踪链接！
+2019-03-31 15:46:44,371    https://www.autohome.com.cn/news/4688/#liststart后无跟踪链接！
+2019-04-01 16:07:52,233    https://www.autohome.com.cn/news/4689/#liststart后无跟踪链接！
+2019-04-02 10:08:02,646    --------------------新闻列表线程开始--------------------
+2019-04-02 10:08:02,661    任务线程 0 启动！
+2019-04-02 10:08:02,661    任务线程 1 启动！
+2019-04-02 10:08:02,661    任务线程 2 启动！
+2019-04-03 15:20:57,797    https://www.autohome.com.cn/news/4695/#liststart后无跟踪链接！
+2019-04-08 00:33:14,119    --------------------新闻列表线程开始--------------------
+2019-04-08 00:33:14,119    任务线程 0 启动！
+2019-04-08 00:33:14,119    任务线程 1 启动！
+2019-04-08 00:33:14,119    任务线程 2 启动！
+2019-04-09 02:25:54,698    https://www.autohome.com.cn/news/201112/274680.html#pvareaid=102624 下载出错！
+2019-04-09 02:25:54,698    https://www.autohome.com.cn/news/201112/274680.html#pvareaid=102624 没有解析出任何数据！
+2019-04-09 02:25:54,698    https://www.autohome.com.cn/news/201112/274680.html#pvareaid=102624 没有解析出数据！
+2019-04-09 07:19:45,584    https://www.autohome.com.cn/news/4705/#liststart后无跟踪链接！
+2019-04-09 16:49:31,650    https://www.autohome.com.cn/news/4422/#liststart 下载出错！
+2019-04-10 17:30:58,846    https://www.autohome.com.cn/news/4710/#liststart后无跟踪链接！
+2019-04-11 10:08:50,077    https://www.autohome.com.cn/news/450/#liststart 下载出错！
+2019-04-11 15:59:50,682    https://www.autohome.com.cn/news/4713/#liststart后无跟踪链接！
+2019-04-12 21:15:03,257    https://www.autohome.com.cn/news/4717/#liststart后无跟踪链接！
+2019-04-12 21:15:43,133    https://www.autohome.com.cn/news/4717/#liststart后无跟踪链接！
+2019-04-13 16:58:19,473    https://www.autohome.com.cn/news/3147/#liststart 下载出错！
+2019-04-13 19:03:55,071    https://www.autohome.com.cn/news/4719/#liststart后无跟踪链接！
+2019-04-14 15:10:01,722    https://www.autohome.com.cn/news/4721/#liststart后无跟踪链接！
+2019-04-15 19:35:42,734    https://www.autohome.com.cn/news/4727/#liststart后无跟踪链接！
+2019-04-17 06:58:24,425    https://www.autohome.com.cn/news/3162/#liststart 下载出错！
+2019-04-17 06:58:24,862    https://www.autohome.com.cn/news/201207/364058.html#pvareaid=102624 下载出错！
+2019-04-17 06:58:24,862    https://www.autohome.com.cn/news/201207/364058.html#pvareaid=102624 没有解析出任何数据！
+2019-04-17 06:58:24,862    https://www.autohome.com.cn/news/201207/364058.html#pvareaid=102624 没有解析出数据！
+2019-04-17 19:57:47,057    https://www.autohome.com.cn/news/4746/#liststart后无跟踪链接！
+2019-04-18 16:29:44,265    https://www.autohome.com.cn/news/4749/#liststart后无跟踪链接！
+2019-04-19 15:09:41,925    https://www.autohome.com.cn/news/4752/#liststart后无跟踪链接！
+2019-04-20 15:18:11,614    https://www.autohome.com.cn/news/4755/#liststart后无跟踪链接！
+2019-04-21 15:04:14,892    https://www.autohome.com.cn/news/4755/#liststart后无跟踪链接！
+2019-04-22 15:23:25,282    https://www.autohome.com.cn/news/4757/#liststart后无跟踪链接！
+2019-04-23 21:13:18,580    https://www.autohome.com.cn/news/4758/#liststart后无跟踪链接！
+2019-04-23 21:14:21,113    https://www.autohome.com.cn/news/4758/#liststart后无跟踪链接！
+2019-04-24 15:26:46,033    https://www.autohome.com.cn/news/4761/#liststart后无跟踪链接！
+2019-04-25 15:42:27,805    https://www.autohome.com.cn/news/4763/#liststart后无跟踪链接！
+2019-04-26 13:21:41,481    https://www.autohome.com.cn/news/3179/#liststart 下载出错！
